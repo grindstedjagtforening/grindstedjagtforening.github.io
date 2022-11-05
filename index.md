@@ -1,6 +1,6 @@
 ---
 title: Grindsted Jagtforening
-layout: default
+layout: home
 ---
 
 # Velkommen til Grindsted Jagtforening

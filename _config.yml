@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grindstedjagtforening.dk"
 show_downloads: false
 minimal_mistakes_skin: default
+email: postmaster@grindstedjagtforening.dk
 
 # Build settings
 markdown: kramdown
