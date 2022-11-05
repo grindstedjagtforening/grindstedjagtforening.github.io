@@ -21,6 +21,7 @@
 title: Grindsted Jagtforening.
 description: >-
   Velkommen til Grindsted Jagtforening.
+repository: grindstedjagtforening/website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://grindstedjagtforening.dk"
 show_downloads: false
