@@ -8,7 +8,7 @@ header:
 excerpt: >
   Velkommen til Grindsted Jagtforening<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/Menu1.png
     alt: "calendar"
     title: "Kalender"
     excerpt: "Kommende aktiviteter i foreningen."
