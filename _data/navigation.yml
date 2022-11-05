@@ -1,6 +1,9 @@
-- name: Forside 
-  link: index.html
-- name: Kategorier 
-  link: categories.html 
-- name: Arkiv
-  link: archive.html 
+main:
+  - title: "Forside"
+    url: /
+  - title: "Arkiv"
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

@@ -30,11 +30,14 @@ email: postmaster@grindstedjagtforening.dk
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cadre
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dirt" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Copenhagen
 include:
   - _pages
+
+locale: da-DK
 
 plugins:
   - jekyll-include-cache

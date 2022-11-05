@@ -11,4 +11,4 @@ bundle exec jekyll serve --livereload
 
 ## Notes
 
-Using [jekyll-theme-cadre](https://github.com/slee981/jekyll-theme-cadre)
+Using [minimal-mistakes-jekyll](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
