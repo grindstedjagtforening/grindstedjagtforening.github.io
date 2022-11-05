@@ -15,7 +15,7 @@ feature_row:
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Kalender"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/Hjort1.png
     alt: "people"
     title: "Foreningen"
     excerpt: "Detaljer omkring foreningen"
