@@ -5,4 +5,3 @@ layout: default
 
 # Velkommen til Grindsted
 
-[Keys](/keys)
