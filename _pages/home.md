@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/personal2.png
 excerpt: >
   Velkommen til Grindsted Jagtforening<br />
 feature_row:
