@@ -9,4 +9,4 @@ toc: true
 ## Der sker ikke noget lige nu
 
 ### 28. Nov 2022 - Drivjagt
-Vi afholder [drivjagt](/aktiviteter/test-af-jekyll/) 
+Vi afholder nu [drivjagt](/aktiviteter/test-af-jekyll/) 
