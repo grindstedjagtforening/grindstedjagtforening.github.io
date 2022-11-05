@@ -10,3 +10,5 @@ toc: true
 
 ### 28. Nov 2022 - Drivjagt
 Vi afholder nu [drivjagt](/aktiviteter/test-af-jekyll/) 
+### 26. Jan 2023 kl 19.30 - Generalforsamling i Lynghytten
+Inden generalforsamlingen er der fælles spisning kl 18.00, tilmelding til formanden
