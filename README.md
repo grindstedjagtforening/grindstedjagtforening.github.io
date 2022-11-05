@@ -8,3 +8,7 @@ In the `root` folder run
 ```Shell
 bundle exec jekyll serve --livereload
 ```
+
+## Notes
+
+Using [jekyll-theme-cadre](https://github.com/slee981/jekyll-theme-cadre)

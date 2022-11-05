@@ -1,0 +1,6 @@
+- name: Forside 
+  link: index.html
+- name: Kategorier 
+  link: categories.html 
+- name: Arkiv
+  link: archive.html 

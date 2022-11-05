@@ -3,5 +3,5 @@ title: Grindsted Jagtforening
 layout: default
 ---
 
-# Velkommen til Grindsted
+# Velkommen til Grindsted Jagtforening
 

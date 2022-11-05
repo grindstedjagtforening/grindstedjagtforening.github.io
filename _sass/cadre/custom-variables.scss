@@ -1,0 +1,19 @@
+$navbar-img-height: 45px;
+$navbar-img-width: 150px;
+
+// colors
+$tan: rgb(255, 246, 231);
+$beige: rgb(255, 248, 238);
+$cream: rgb(248, 247, 245);
+
+$site-primary: rgb(214, 12, 12); // primary site color
+$site-secondary: rgb(119, 0, 0); // secondary site color
+$site-tertiary: var(--oc-gray-6); // from open-colors.scss
+
+$body-bg: $cream; // main background color
+$math-bg: $beige; // katex math background color
+$nav-bg: var(--oc-white); // navbar background color
+$footer-bg: var(--oc-gray-1); // footer background color
+$card-bg: var(--oc-white); // card background color
+$code-bg: var(--oc-gray-1); // code background color
+$post-bg: var(--oc-white); // actual post background color
