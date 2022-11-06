@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Kommende aktiviteter i foreningen."
     url: "/docs/calendar/"
     btn_class: "btn--primary"
-    btn_label: "Kalender"
+    btn_label: "Tryk her"
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
