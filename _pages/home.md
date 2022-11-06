@@ -18,11 +18,11 @@ feature_row:
   - image_path: /assets/Hjort1.png
     alt: "people"
     title: "Foreningen"
-    excerpt: "Detaljer omkring foreningen"
+    excerpt: "Aktiviteter"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Foreningen"      
 ---
-Her mere
+
 {% include feature_row %}
 
