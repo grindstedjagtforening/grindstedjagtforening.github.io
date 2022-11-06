@@ -23,6 +23,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Foreningen"      
 ---
-
+Her mere
 {% include feature_row %}
 
