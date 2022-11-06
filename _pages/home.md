@@ -15,8 +15,8 @@ feature_row:
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Kalender"
-  - image_path: /assets/Hjort2.png
-    alt: "people"
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
     title: "Foreningen"
     excerpt: "Aktiviteter"
     url: "/docs/about/"
