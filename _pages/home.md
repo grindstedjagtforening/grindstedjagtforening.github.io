@@ -15,14 +15,13 @@ feature_row:
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Kalender"
-      - image_path: /assets/Hjort1.png
+  - image_path: /assets/Hjort1.png
     alt: "people"
     title: "Foreningen"
     excerpt: "Aktiviteter"
     url: "/docs/about/"
     btn_class: "btn--primary"
-    btn_label: "Foreningen"      
-
+    btn_label: "Foreningen"  
 ---
 
 {% include feature_row %}
