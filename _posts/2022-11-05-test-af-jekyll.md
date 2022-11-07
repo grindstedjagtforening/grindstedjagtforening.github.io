@@ -6,10 +6,4 @@ categories: [aktiviteter]
 toc: true
 ---
 
-
-
-
-- Bullet list
-- More bullets
-
 [link](https://dr.dk)
