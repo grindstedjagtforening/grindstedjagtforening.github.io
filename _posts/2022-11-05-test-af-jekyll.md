@@ -6,4 +6,4 @@ categories: [aktiviteter]
 toc: true
 ---
 
-[link til DJ](https://www.jaegerforbundet.dk)
+[link til DJ] https://www.jaegerforbundet.dk
