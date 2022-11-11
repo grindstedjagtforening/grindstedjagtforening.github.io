@@ -9,4 +9,4 @@ toc: true
 - der er også mulighed for at skyde jagtskydning
 
 ### 26. Jan 2023 kl 19.30 - Generalforsamling i Lynghytten
-Inden generalforsamlingen er der fælles spisning kl 18.00, tilmelding
+Inden generalforsamlingen er der fælles spisning kl 18.00, frist for tilmelding til spisning kommer senere.
