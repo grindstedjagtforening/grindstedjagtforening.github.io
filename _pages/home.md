@@ -7,6 +7,7 @@ header:
   overlay_image: /assets/header-hjort.png
 excerpt: >
   Velkommen til Grindsted Jagtforening<br />
+  og Grindsted Flugtskydningsbane
 feature_row:
   - image_paths: /assets/Menu2.png
     alt: "calendar"
