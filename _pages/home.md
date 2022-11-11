@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/header-hjort.png
 excerpt: >
-  Velkommen nu til Grindsted Jagtforening<br />
+  Velkommen til Grindsted Jagtforening<br />
 feature_row:
   - image_paths: /assets/Menu2.png
     alt: "calendar"
