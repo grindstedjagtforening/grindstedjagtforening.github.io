@@ -6,7 +6,7 @@ last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
 ### Andejagt og gåsejagt ved Kammerslusen ved Ribe.
-Ved køb af kort er der åben for jagt hver dag indtil 31. januar.
+Torsdag den 24. november samlet kørsel til Gåse- og Andejagt ved Ribe, Tilmelding til formanden Martin Moen 40927746.
 
 ### 26. Nov 2022 kl 11 - 14 - Juleknasskydning - alle er velkommen
 - der er også mulighed for at skyde jagtskydning
