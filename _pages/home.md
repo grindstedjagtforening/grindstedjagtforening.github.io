@@ -27,7 +27,7 @@ feature_row:
     alt: "Telefonliste"
     title: "kontakt"
     excerpt: "Telefonlisten"
-    url: "/docs/kontakt/"
+    url: "/docs/Kontakt/"
     btn_class: "btn--primary"
     btn_label: "Tryk her"  
 ---
