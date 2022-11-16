@@ -27,7 +27,7 @@ feature_row:
     alt: "Tlf"
     title: "Kontakter"
     excerpt: "Info"
-    url: "/docs/about/"
+    url: "/docs/kontakter/"
     btn_class: "btn--primary"
     btn_label: "Tryk her"
 ---
