@@ -8,8 +8,11 @@ toc: true
 ### Andejagt og gåsejagt ved Kammerslusen ved Ribe.
 Torsdag den 24. november ved Lynghytten kl  14.30 samlet kørsel til Gåse- og Andejagt ved Ribe, Tilmelding til formanden Martin Moen 40927746.
 
+### 24. Nov Gåse- og andejagt.
+24 november kl 14:30 fra Lynghytten afholder BJF og GJF en tur på aftentræk ved Ribe, tilmelding 
+
 ### 26. Nov 2022 kl 11 - 14 - Juleknasskydning - alle er velkommen
-- der er også mulighed for at skyde jagtskydning
+Der er også mulighed for at skyde jagtskydning.
 
 ### 9. Jan 2023 kl 19.00 Vinterdressur 2023
 Tilmelding nødvendigt. Til thorkildh2@gmail.com eller tIf. 40563337
