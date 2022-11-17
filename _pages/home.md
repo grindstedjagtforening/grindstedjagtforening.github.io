@@ -26,7 +26,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tlf"
     title: "Kontakter"
-    excerpt: ""
+    excerpt: "   "
     url: "/docs/kontakt/"
     btn_class: "btn--primary"
     btn_label: "Tryk her"
