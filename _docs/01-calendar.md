@@ -10,7 +10,9 @@ Torsdag den 24. november ved Lynghytten kl  14.30 samlet kørsel til Gåse- og A
 
 ### 26. Nov 2022 kl 11 - 14 - Juleknasskydning - alle er velkommen
 - der er også mulighed for at skyde jagtskydning
+
 ### 9. Jan 2023 kl 19.00 Vinterdressur 2023
 Tilmelding nødvendigt. Til thorkildh2@gmail.com eller tIf. 40563337
+
 ### 26. Jan 2023 kl 19.30 - Generalforsamling i Lynghytten
 Inden generalforsamlingen er der fælles spisning kl 18.00, frist for tilmelding til spisning kommer senere.
