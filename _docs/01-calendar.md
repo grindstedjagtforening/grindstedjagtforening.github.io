@@ -5,10 +5,8 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-### Andejagt og gåsejagt ved Kammerslusen ved Ribe.
-Torsdag den 24. november ved Lynghytten kl  14.30 samlet kørsel til Gåse- og Andejagt ved Ribe, Tilmelding til formanden Martin Moen 40927746.
 
-### 24. Nov Gåse- og andejagt.
+### 24. Nov Andejagt og gåsejagt ved Kammerslusen ved Ribe.
 24 november kl 14:30 fra Lynghytten afholder BJF og GJF en tur på aftentræk ved Ribe, tilmelding 
 
 ### 26. Nov 2022 kl 11 - 14 - Juleknasskydning - alle er velkommen
