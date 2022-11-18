@@ -6,6 +6,9 @@ last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
 
+###Opstart af jagttegns hold 3 januar 2023.<br />
+Tilmelding på ungbillund.dk<br />
+
 ### 24. Nov Andejagt og gåsejagt ved Kammerslusen ved Ribe.
 24 november kl 14:30 fra Lynghytten afholder BJF og GJF en tur på aftentræk ved Ribe, tilmelding<br /> 
 Se under INFORMATION
