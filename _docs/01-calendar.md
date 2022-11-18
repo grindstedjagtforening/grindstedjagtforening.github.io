@@ -6,7 +6,7 @@ last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
 
-### Opstart af jagttegns hold 3 januar 2023.<br />
+### Opstart af jagttegns hold 3 januar 2023.
 Tilmelding på ungbillund.dk<br />
 
 ### 24. Nov Andejagt og gåsejagt ved Kammerslusen ved Ribe.
