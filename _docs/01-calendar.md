@@ -9,9 +9,6 @@ toc: true
 ### Opstart af jagttegns hold 3 januar 2023.
 Tilmelding på ungbillund.dk<br />
 
-### 26. Nov 2022 kl 11 - 14 - Juleknasskydning - alle er velkommen
-Der er også mulighed for at skyde jagtskydning.
-
 ### 9. Jan 2023 kl 19.00 Vinterdressur 2023
 Tilmelding nødvendigt. Til thorkildh2@gmail.com eller tIf. 40563337<br />
 Se under INFORMATION
