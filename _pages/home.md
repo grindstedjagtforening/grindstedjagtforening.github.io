@@ -13,6 +13,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
+    excerpt: "Nyt-Indkaldelse til generalforsamling"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "GJF" 
