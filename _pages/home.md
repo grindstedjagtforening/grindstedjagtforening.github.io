@@ -27,7 +27,7 @@ feature_row:
     alt: "Tekst1"
     title: "Flugtskydning"
     excerpt: "GFB"
-    url: "/docs/about/"
+    url: "/docs/GFB/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
   - image_paths: /assets/Hjort2.png
