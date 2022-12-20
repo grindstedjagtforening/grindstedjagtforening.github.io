@@ -26,7 +26,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "GFB"
     title: "Nyt fra GFB"
-    excerpt: "Information"
+    excerpt: "GFB"
     url: "/docs/GFB/"
     btn_class: "btn--primary"
     btn_label: "Tryk her"
