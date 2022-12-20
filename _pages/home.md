@@ -19,7 +19,14 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
-    excerpt: "Aktiviteter/Info"
+    excerpt: "GFB program"
+    url: "/docs/about/"
+    btn_class: "btn--primary"
+    btn_label: "Tryk her" 
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
+    title: "Flugtskydning"
+    excerpt: "Flugtskydningsaktiviteter"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
