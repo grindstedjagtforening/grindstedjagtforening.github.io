@@ -12,16 +12,16 @@ feature_row:
   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Foreningen"
+    title: "Fore"
     excerpt: "GJF"
-    url: "/docs/Foreningen/"
+    url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Flugtskydning"
+    title: "Flugt"
     excerpt: "GFB"
-    url: "/docs/GFB/"
+    url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
   - image_paths: /assets/Menu2.png
