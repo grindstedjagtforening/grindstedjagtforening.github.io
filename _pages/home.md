@@ -12,9 +12,9 @@ feature_row:
   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Fore"
+    title: "Foreningen"
     excerpt: "GJF"
-    url: "/docs/about/"
+    url: "/docs/foreningen/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
   - image_paths: /assets/Hjort2.png
