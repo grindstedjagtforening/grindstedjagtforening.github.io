@@ -12,7 +12,7 @@ feature_row:
   - image_paths: /assets/Menu2.png
     alt: "calendar"
     title: "Kalender"
-    excerpt: "Kommende aktiviteter i foreningen."
+    excerpt: "Kommende aktiviteter"
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Tryk her"
