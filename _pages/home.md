@@ -26,7 +26,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: "Flugtskydningsaktiviteter"
+    excerpt: "GFB"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
