@@ -14,7 +14,7 @@ feature_row:
     alt: "Tekst"
     title: "Foreningen"
     excerpt: "GJF"
-    url: "/docs/foreningen/"
+    url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Tryk her" 
   - image_paths: /assets/Hjort2.png
