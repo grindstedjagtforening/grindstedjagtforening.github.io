@@ -13,14 +13,14 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
-    excerpt: "Nyt-Indkaldelse til generalforsamling"
+    excerpt: "Nyt den 20.12.2022-Indkaldelse til generalforsamling"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "GJF" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-   
+    excerpt: "Nyt den 20.12.2022-kalender for 2023"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "GFB" 
