@@ -1,6 +1,8 @@
 main:
   - title: "Forside"
     url: /
+  - title: "Kontakt"
+    url: /year-archive/
   - title: "Arkiv"
     url: /year-archive/
   
