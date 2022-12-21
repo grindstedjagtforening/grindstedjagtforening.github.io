@@ -2,7 +2,7 @@ main:
   - title: "Forside"
     url: /
   - title: "Kontakt"
-    url: /year-archive/
+    url: "/docs/kontakt/"
   - title: "Arkiv"
     url: /year-archive/
   
