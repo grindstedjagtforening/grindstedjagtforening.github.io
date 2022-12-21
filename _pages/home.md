@@ -27,18 +27,10 @@ feature_row:
   - image_paths: /assets/Menu2.png
     alt: "calendar"
     title: "Kalender"
-    
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Kalender"
-  - image_paths: /assets/Hjort2.png
-    alt: "Tlf"
-    title: "Kontakter"
-    
-    url: "/docs/kontakt/"
-    btn_class: "btn--primary"
-    btn_label: "Kontakter"
----
+  ---
 
 {% include feature_row %}
 
