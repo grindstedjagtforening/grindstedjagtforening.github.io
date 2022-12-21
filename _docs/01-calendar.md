@@ -13,4 +13,4 @@ Tilmelding på ungbillund.dk<br />
 Tilmelding nødvendigt. Til thorkildh2@gmail.com eller tIf. 40563337<br />
 Se under INFORMATION
 ### 26. Jan 2023 kl 19.30 - Generalforsamling i Lynghytten
-Inden generalforsamlingen er der fælles spisning kl 18.00, frist for tilmelding er den 19. januar.
+Inden generalforsamlingen er der fælles spisning kl 18.30, frist for tilmelding er den 19. januar.
