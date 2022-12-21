@@ -30,7 +30,7 @@ feature_row:
     url: "/docs/calendar/"
     btn_class: "btn--primary"
     btn_label: "Kalender"
-  ---
+---
 
 {% include feature_row %}
 
