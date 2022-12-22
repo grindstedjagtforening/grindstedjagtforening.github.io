@@ -13,7 +13,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
-    excerpt: "Glædelig jul og godt nytår. Nyt den 20.12.2022-Indkaldelse til generalforsamling"
+    excerpt: "Glædelig jul og godt nytår.             Nu Indkaldelse til generalforsamling"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "GJF" 
