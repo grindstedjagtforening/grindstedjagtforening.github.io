@@ -12,6 +12,13 @@ feature_row:
   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
+    title: "Vedtægtsændringer til forslag 2023"
+    excerpt: "Indkaldelse til generalforsamling"
+    url: "/docs/Vedtægtsændringer/"
+    btn_class: "btn--primary"
+    btn_label: "Vedtægter" 
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
     title: "Foreningen"
     excerpt: "Nu Indkaldelse til generalforsamling"
     url: "/docs/Foreningen/"
