@@ -40,12 +40,12 @@ toc: true
 <br />   5. Fastlæggelse af kontingent
 <br />   6. Valg af bestyrelsesmedlemmer
 <br />   7. Valg af suppleanter
-<br />   8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg 
+<br />   8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
 <br /><b> 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg</b>
 <br /> 10. Valg af to revisorer og en revisorsuppleant
 <br /> 11. Eventuelt
 <br />§8 Ekstraordinær generalforsamling
-<br /> 8.1 Ekstraordinær generalforsamling indkaldes af bestyrelsen, når denne finder det påkrævet, eller når mindst 2/3 af medlemmerne skriftligt over for bestyrelsen begærer dette med angivelse af, hvilke sager der ønskes behandlet.  Efter at skriftlig begæring er fremsat over for bestyrelsen, skal bestyrelsen lade afholde ekstraordinær generalforsamling senest 3 uger herefter. Indkaldelse til ekstraordinær generalforsamling med angivelse af dagsorden skal ske skriftligt til medlemmerne med mindst 1 uges varsel.
+<br /> 8.1 Ekstraordinær generalforsamling indkaldes af bestyrelsen, når denne finder det påkrævet, eller når mindst 2/3 af medlemmerne skriftligt over for bestyrelsen begærer dette med angivelse af, hvilke sager der ønskes behandlet. Efter at skriftlig begæring er fremsat over for bestyrelsen, skal bestyrelsen lade afholde ekstraordinær generalforsamling senest 3 uger herefter. Indkaldelse til ekstraordinær generalforsamling med angivelse af dagsorden skal ske skriftligt til medlemmerne med mindst 1 uges varsel.
 <br />§9 Afstemninger
 <br /> 9.1 Generalforsamlingen er beslutningsdygtig uanset antallet af fremmødte medlemmer.
 <br /> 9.2 Hvert medlem har én stemme.
@@ -105,7 +105,7 @@ toc: true
 <br /> 18.1 Generalforsamlingen kan med mindst 3/4 af samtlige tilstedeværende medlemmers stemmer på to på hinanden følgende generalforsamlinger, der afholdes med mindst en og højst to måneders mellemrum, vedtage, at foreningen opløses.
 <br /> 18.2 Foreningens eventuelle formue skal efter at alle forpligtelser er opfyldt forvaltes af DJ i indtil fem år. Stiftes en ny lokalforening under DJ i foreningens område indenfor fem års perioden, overføres den forvaltede formue til den nye lokalforening. I modsat fald tilfalder formuen efter femårsperioden DJ som skal anvende den til naturbevarende formål i Billund kommune. 
 <br />§19 Ikrafttræden
-<br /> 19.1 Ovenstående vedtægter er godkendt af generalforsamlingen den 28/01 2023.  Vedtægterne træder i kraft, når de er godkendt af Danmarks Jægerforbund.
+<br /> 19.1 Ovenstående vedtægter er godkendt af generalforsamlingen den 28/01 2023. Vedtægterne træder i kraft, når de er godkendt af Danmarks Jægerforbund.
 <br />
 <br />
 <br />

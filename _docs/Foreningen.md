@@ -5,36 +5,37 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-<b>Jagthundeinstruktør</b><br />
-Har du interesse i hundearbejde og kan du tænke dig blive instruktør?<br />
-Se lidt på Jægerforbundets hjemmeside og tag kontakt til Martin Moen hvis din interesse er vakt.<br />
-https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/<br />
-<br /><b>Knivkursus 2023.</b><br />
-Tirsdag d 10 januar startede knivkurset i sløjdlokalet på Lynghedeskolen afdeling Søndre kl 19.00<br />
+## Jagthundeinstruktør
+Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
+Se lidt på Jægerforbundets hjemmeside og tag kontakt til Martin Moen hvis din interesse er vakt.
+https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/
+**Knivkursus 2023.**
+
+Tirsdag d 10 januar startede knivkurset i sløjdlokalet på Lynghedeskolen afdeling Søndre kl 19.00
 Hvis du vil lave din egen helt specielle kniv nu, så møde op den 17. januar, der er sidste change for at deltage.
-<br />Tilmelding på 61404080.<br />
-<br />
-<strong>Generalforsamling.</strong><br />
-Generalforsamlingen afholdes torsdag den 26. januar 2023 kl. 19,30 i Lynghytten.<br />
-Dagsorden ifølge vedtægterne:<br />
-Indkomne forslag skal være formanden i hænde senest den 11. januar 2023.<br />
-Dagsorden ifølge vedtægterne:<br />
-Punkt 1. Valg af Dirigent og stemmetæller.<br />
-Punkt 2. Formandens beretning og herunder udvalgenes beretning.<br />
-Punkt 3. Regnskab.<br />
-Punkt 4. Indkomne forslag – Skal være formanden i hænde senest den 11. januar.<br />
+Tilmelding på 61404080.
 
-<br />Der er indkommet forslag om ændring af vedtægterne således at vedtægterne nu vil indeholde integrationen af Grindsted Flugtskydningsbane som et udvalg under GJF. Dertil et par mindre rettelser.
+## Generalforsamling.
+Generalforsamlingen afholdes torsdag den 26. januar 2023 kl. 19,30 i Lynghytten.
+Dagsorden ifølge vedtægterne:
+Indkomne forslag skal være formanden i hænde senest den 11. januar 2023.
+Dagsorden ifølge vedtægterne:  
+ 1. Valg af Dirigent og stemmetæller.  
+ 2. Formandens beretning og herunder udvalgenes beretning.  
+ 3. Regnskab.  
+ 4. Indkomne forslag – Skal være formanden i hænde senest den 11. januar.  
+
+Der er indkommet forslag om ændring af vedtægterne således at vedtægterne nu vil indeholde integrationen af Grindsted Flugtskydningsbane som et udvalg under GJF. Dertil et par mindre rettelser.
 
 
-<br /><br />Punkt 5. Fastlæggelse af kontingent.<br />
-Punkt 6. Valg bestyrelsesmedlemmer.<br />
-Punkt 7. Valg af suppleanter.<br />
-Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg<br />
-Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg<br />
-Punkt 10. Valg af 2 revisorer og 1 suppleant.<br />
-Punkt 11. Eventuelt.<br />
-Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 18.30 inden generalforsamlingen. <b>Tilmelding til Martin Moen senest den 19. januar.</b><br />
+Punkt 5. Fastlæggelse af kontingent.  
+Punkt 6. Valg bestyrelsesmedlemmer.  
+Punkt 7. Valg af suppleanter.  
+Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg  
+Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg  
+Punkt 10. Valg af 2 revisorer og 1 suppleant.  
+Punkt 11. Eventuelt.  
+Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 18.30 inden generalforsamlingen. **Tilmelding til Martin Moen senest den 19. januar**  
 Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.<br />
 Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.
 <br />
