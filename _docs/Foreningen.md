@@ -23,17 +23,15 @@ Dagsorden ifølge vedtægterne:
  2. Formandens beretning og herunder udvalgenes beretning.  
  3. Regnskab.  
  4. Indkomne forslag – Skal være formanden i hænde senest den 11. januar.  
-
+ 5. Fastlæggelse af kontingent.
+ 6. Valg bestyrelsesmedlemmer.  
+ 7. Valg af suppleanter.  
+ 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg  
+ 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg  
+ 10. Valg af 2 revisorer og 1 suppleant.  
+ 11. Eventuelt.  
 Der er indkommet forslag om ændring af vedtægterne således at vedtægterne nu vil indeholde integrationen af Grindsted Flugtskydningsbane som et udvalg under GJF. Dertil et par mindre rettelser.
 
-
-Punkt 5. Fastlæggelse af kontingent.  
-Punkt 6. Valg bestyrelsesmedlemmer.  
-Punkt 7. Valg af suppleanter.  
-Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg  
-Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg  
-Punkt 10. Valg af 2 revisorer og 1 suppleant.  
-Punkt 11. Eventuelt.  
 Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 18.30 inden generalforsamlingen.  
 Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.<br />
 Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.
