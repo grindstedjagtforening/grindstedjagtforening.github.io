@@ -49,12 +49,12 @@ den 2. februar kl. 19.00 på Grindsted Flugtskydningsbane, Lynghytten
 <br />8. Eventuelt
 <br />Deltagelse er gratis og der er ingen tilmelding.
 <br />
-<br /><strong>Stigaskydning</strong>
+## Stigaskydning
 <br />Prøv den disciplin hvor vi skyder med en luftdrevet lille riffel til bevægelige skiver. 
 Det er en riffel med kikkertsigte og snelle, så dine evner til skydning til løbende vildt bliver testet. 
 Prøv det de tre sidste torsdage i februar. Det er i Lynghytten kl 19.00 torsdagene den 9. og 16. og 23. februar.
 <br />
-<br /><strong>Vinterdressur 2023</strong>
+## Vinterdressur 2023
 <br />Startede den 9. januar, Der er stadig plads til et par hunde.<br />
 Til alle der har helt unge jagthunde og hunde der endnu ikke er helt lydige,
 tilbyder vi fordressur med fokus på lydighed og lettere apportering.<br />
@@ -69,6 +69,6 @@ Notér venligst navn på hund og ejer.<br />
 Deltagende hunde skal være vaccineret.<br /><br />
 Hundeudvalget - Grindsted Jagtforening<br /><br />
 
-<strong>GJF+GFB</strong><br />
+## GJF+GFB
 Sammenslutning af GJF og GFB er nu en realitet og GJF’s vedtægter tilrettes ved generalforsamlingen i januar.<br />
 <br />
