@@ -35,7 +35,7 @@ Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtple
 Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg  
 Punkt 10. Valg af 2 revisorer og 1 suppleant.  
 Punkt 11. Eventuelt.  
-Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 18.30 inden generalforsamlingen. **Tilmelding til Martin Moen senest den 19. januar**  
+Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 18.30 inden generalforsamlingen.  
 Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.<br />
 Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.
 <br />
