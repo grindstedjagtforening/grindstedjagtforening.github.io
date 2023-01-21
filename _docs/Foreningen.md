@@ -13,7 +13,7 @@ Se lidt på [Jægerforbundets hjemmeside](https://www.jaegerforbundet.dk/det-ske
 Tirsdag d 10 januar startede knivkurset i sløjdlokalet på Lynghedeskolen afdeling Søndre kl 19.00
 Hvis du vil lave din egen helt specielle kniv nu, så møde op den 17. januar, der er sidste change for at deltage.
 Tilmelding på 61404080.
-
+![Knivkursus](/images/Kniv.png)
 ## Generalforsamling.
 Generalforsamlingen afholdes torsdag den 26. januar 2023 kl. 19,30 i Lynghytten.
 Dagsorden ifølge vedtægterne:
