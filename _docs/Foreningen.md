@@ -68,6 +68,7 @@ Pris 500 kr. som betales pá Mobilepay box60996<br />
 Notér venligst navn på hund og ejer.<br />
 Deltagende hunde skal være vaccineret.<br /><br />
 Hundeudvalget - Grindsted Jagtforening<br /><br />
+![Hundedressur](/images/Hund.png)
 
 ## GJF+GFB
 Sammenslutning af GJF og GFB er nu en realitet og GJF’s vedtægter tilrettes ved generalforsamlingen i januar.<br />
