@@ -39,7 +39,8 @@ Som traditionen byder vil jagtforeningen igen i 2023 inviterer på spisning kl. 
 Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.<br />
 Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.
 <br />
-<br /><strong>Årsmøde i Billund Jægerråd</strong> den 2. februar kl. 19.00 på Grindsted Flugtskydningsbane, Lynghytten
+## Årsmøde i Billund Jægerråd 
+den 2. februar kl. 19.00 på Grindsted Flugtskydningsbane, Lynghytten
 <br />Dagsorden:
 <br />1. Valg af dirigent og referent
 <br />2. Aflæggelse af beretning for jægerrådets virke
