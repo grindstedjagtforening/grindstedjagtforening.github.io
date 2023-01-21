@@ -7,10 +7,9 @@ toc: true
 ---
 ## Jagthundeinstruktør
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
-Se lidt på Jægerforbundets hjemmeside og tag kontakt til Martin Moen hvis din interesse er vakt.
-https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/
-**Knivkursus 2023.**
+Se lidt på [Jægerforbundets hjemmeside](https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/) og tag kontakt til Martin Moen hvis din interesse er vakt.
 
+## Knivkursus 2023.
 Tirsdag d 10 januar startede knivkurset i sløjdlokalet på Lynghedeskolen afdeling Søndre kl 19.00
 Hvis du vil lave din egen helt specielle kniv nu, så møde op den 17. januar, der er sidste change for at deltage.
 Tilmelding på 61404080.
