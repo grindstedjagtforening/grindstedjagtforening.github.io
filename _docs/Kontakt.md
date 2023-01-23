@@ -6,6 +6,7 @@ last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted<br />
+
 Riffelbane: Tingvejen 394 (bag Flisværket)<br />
 <br />
 Formand: Martin Moen: 40927746<br />
