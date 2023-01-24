@@ -31,7 +31,7 @@ toc: true
 <br />§7 Ordinær generalforsamling
 <br /> 7.1 Generalforsamlingen har den højeste myndighed i alle foreningens anliggender.
 <br /> 7.2 Den ordinære generalforsamling afholdes hvert år i januar måned. Forslag, der ønskes optaget på dagsordenen, skal være foreningen i hænde senest 10 dage før generalforsamlingens afholdelse. Indkomne forslag offentliggøres senest 7 dage før generalforsamlingen på foreningens hjemmeside.
-<br /> 7.3 Indkaldelse af den ordinære generalforsamling med angivelsen af dagsorden samt indsendelsesfrist for indkomne forslag skal ske via E-mail til de af foreningen kendte E-mail adresser samt på foreningens hjemmeside med mindst 2 ugers varsel. ~~<b>Indkomne forslag offentliggøres på foreningens hjemmeside senest 1 uge før generalforsamlingen.</b>~~
+<br /> 7.3 Indkaldelse af den ordinære generalforsamling med angivelsen af dagsorden samt indsendelsesfrist for indkomne forslag skal ske via E-mail til de af foreningen kendte E-mail adresser samt på foreningens hjemmeside med mindst 2 ugers varsel.
 <br /> 7.4 Dagsordenen skal omfatte følgende punkter:
 <br />   1. Valg af dirigent
 <br />   2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling.
