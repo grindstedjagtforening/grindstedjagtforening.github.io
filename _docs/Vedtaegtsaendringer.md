@@ -88,22 +88,22 @@ Tekst med <b>Fed</b> er ændring/ny til afstemning på generalforsamlingen
 10.8 Beslutninger vedtages ved simpel absolut stemmeflerhed. <b><SPAN STYLE="text-decoration:line-through"> I tilfælde af stemmelighed er formandens - eller i dennes fravær næstformandens - stemme afgørende.,</SPAN>
 
 ## §11 Våbenpåtegning
-11.1 Har jagtforeningen flugtskydning på programmet kan politiet godkende jagtforeningen til at give våbenpåtegning til glatløbede haglgeværer på foreningens medlemsbeviser.
+**11.1 Har jagtforeningen flugtskydning på programmet kan politiet godkende jagtforeningen til at give våbenpåtegning til glatløbede haglgeværer på foreningens medlemsbeviser.**
 
-11.2 Jagtforeningen kan kun godkendes til at give våbenpåtegning når;
-1. Bestyrelsesmedlemmerne opfylder betingelserne om vandel og personlige forhold fastsat i våbenbekendtgørelsen.
-2. Bestyrelsesmedlemmerne forpligtiger sig til at tilbagekalde en våbenpåtegning samt underrette politiet, hvis foreningen bliver opmærksom på, at forholdene for et medlem med våbenpåtegning ændrer sig på en sådan måde, at det er betænkeligt, at den pågældende har våbenpåtegning.
-3. Det i øvrigt efter en konkret vurdering af foreningens forhold anses for ubetænkeligt at give godkendelsen.
+**11.2 Jagtforeningen kan kun godkendes til at give våbenpåtegning når;**
+**1. Bestyrelsesmedlemmerne opfylder betingelserne om vandel og personlige forhold fastsat i våbenbekendtgørelsen.**
+**2. Bestyrelsesmedlemmerne forpligtiger sig til at tilbagekalde en våbenpåtegning samt underrette politiet, hvis foreningen bliver opmærksom på, at forholdene for et medlem med våbenpåtegning ændrer sig på en sådan måde, at det er betænkeligt, at den pågældende har våbenpåtegning.**
+**3. Det i øvrigt efter en konkret vurdering af foreningens forhold anses for ubetænkeligt at give godkendelsen.**
 
-11.3 En våbenpåtegning kan kun gives efter forud indhentet samtykke fra politiet i hvert enkelt tilfælde.
+**11.3 En våbenpåtegning kan kun gives efter forud indhentet samtykke fra politiet i hvert enkelt tilfælde.**
 
-11.4 Ansøgning om samtykke til at give våbenpåtegning på medlemsbevis og godkendelse af det enkelte medlem til at opnå våbenpåtegn indgives på særlige blanketter. Ansøgningerne sendes til politiet.
+**11.4 Ansøgning om samtykke til at give våbenpåtegning på medlemsbevis og godkendelse af det enkelte medlem til at opnå våbenpåtegn indgives på særlige blanketter. Ansøgningerne sendes til politiet.**
 
-11.5 Våbenpåtegningen giver alene adgang til at anvende våbnet til de aktiviteter, som fremgår af våbenpåtegningen.
+**11.5 Våbenpåtegningen giver alene adgang til at anvende våbnet til de aktiviteter, som fremgår af våbenpåtegningen.**
 
-11.6 Når jagtforeningen er godkendt til at udstede våbenpåtegninger skal bestyrelsen holde politiet underrettet om foreningens hjemsted og udskiftninger i bestyrelsen, således at politiet til enhver tid er underrettet om den siddende bestyrelses sammensætning.
+**11.6 Når jagtforeningen er godkendt til at udstede våbenpåtegninger skal bestyrelsen holde politiet underrettet om foreningens hjemsted og udskiftninger i bestyrelsen, således at politiet til enhver tid er underrettet om den siddende bestyrelses sammensætning.**
 
-11.7 En våbenpåtegning bortfalder, når medlemskabet af jagtforeningen ophører, eller hvis foreningens godkendelse fra politiet bortfalder. Foreningen kan på ethvert tidspunkt tilbagekalde en våbenpåtegning. Foreningen skal underrette politiet, når en våbenpåtegning bortfalder eller tilbagekaldes, og skal samtidig slette denne.
+**11.7 En våbenpåtegning bortfalder, når medlemskabet af jagtforeningen ophører, eller hvis foreningens godkendelse fra politiet bortfalder. Foreningen kan på ethvert tidspunkt tilbagekalde en våbenpåtegning. Foreningen skal underrette politiet, når en våbenpåtegning bortfalder eller tilbagekaldes, og skal samtidig slette denne.**
 ## §12 Tegningsret
 12.1 Foreningen tegnes af den samlede bestyrelse eller af formanden/næstformanden, sammen med et andet bestyrelsesmedlem.
 
@@ -125,17 +125,17 @@ Tekst med <b>Fed</b> er ændring/ny til afstemning på generalforsamlingen
 14.5 I tilfælde af jagtforeningens opløsning skal den kapital udvalget administrerer anvendes i henhold til 14.stk 1.
 ## §15 Grindsted Flugtskydningsudvalg.
 
-15.1 Grindsted Flugtskydningsudvalgs formål er at drive en flugtskydningsbane til fremme af interessen for Sportsskydning til bevægeligt mål, samt at medvirke til, at så mange som mulig af nye jagttegnsløsere, samt jægere får lært korrekt våbenbehandling og får indsigt i skydning i teori og praksis.
+**15.1 Grindsted Flugtskydningsudvalgs formål er at drive en flugtskydningsbane til fremme af interessen for Sportsskydning til bevægeligt mål, samt at medvirke til, at så mange som mulig af nye jagttegnsløsere, samt jægere får lært korrekt våbenbehandling og får indsigt i skydning i teori og praksis.**
 
-15.2 Udvalget består af 5 til 7 personer. 2 medlemmer udpeges af jagtforeningens bestyrelse og 3 til 5 vælges af medlemmerne på den ordinære generalforsamling for 3 år af gangen. Udtræder et udvalgsmedlem i utide kan jagtforeningens bestyrelse udpege et nyt medlem, der sidder til førstkommende generalforsamling. Udvalget vælger en regnsskabsfører blandt udvalgets medlemmer.
+**15.2 Udvalget består af 5 til 7 personer. 2 medlemmer udpeges af jagtforeningens bestyrelse og 3 til 5 vælges af medlemmerne på den ordinære generalforsamling for 3 år af gangen. Udtræder et udvalgsmedlem i utide kan jagtforeningens bestyrelse udpege et nyt medlem, der sidder til førstkommende generalforsamling. Udvalget vælger en regnsskabsfører blandt udvalgets medlemmer.**
 
-15.3 Udvalget forvalter den kapital der blev overført til udvalgets konto i 2022 og den kapital der kommer fra driften beskrevet i 15.1. Kapitalen administreres af udvalget i overensstemmelse med formålet beskrevet i 15.1. Kapitalen anbringes i et pengeinstitut på særskilt indlånskonto eller i depot med værdipapirer noteret på den danske børs. Det kan investeres i enkelt aktier eller investeringspuljer eller investeringsforeninger eller anden anerkendt kapitalformidling. Formålet er at få størst muligt afkast med en afvejet risiko under hensyntagen til kapitalens forrentning og levetid. Udvalget kan anvende rådgivning via foreningens pengeinstitut. Udvalget træffer beslutning om kapitalforvaltningen og kan give foreningens kasserer fuldmagt til at foretage værdipapirhandler og øvrige transaktioner på kapitalen.
+**15.3 Udvalget forvalter den kapital der blev overført til udvalgets konto i 2022 og den kapital der kommer fra driften beskrevet i 15.1. Kapitalen administreres af udvalget i overensstemmelse med formålet beskrevet i 15.1. Kapitalen anbringes i et pengeinstitut på særskilt indlånskonto eller i depot med værdipapirer noteret på den danske børs. Det kan investeres i enkelt aktier eller investeringspuljer eller investeringsforeninger eller anden anerkendt kapitalformidling. Formålet er at få størst muligt afkast med en afvejet risiko under hensyntagen til kapitalens forrentning og levetid. Udvalget kan anvende rådgivning via foreningens pengeinstitut. Udvalget træffer beslutning om kapitalforvaltningen og kan give foreningens kasserer fuldmagt til at foretage værdipapirhandler og øvrige transaktioner på kapitalen.**
 
-15.4 Udvalget administrer Grindsted Jagtforenings bemyndigelse til at give våbenpåtegning i henhold til §11.
+**15.4 Udvalget administrer Grindsted Jagtforenings bemyndigelse til at give våbenpåtegning i henhold til §11.**
 
-15.5 Udvalget holder møder efter behov. Desuden skal der afholdes møde, såfremt 3 udvalgsmedlemmer ønsker det. Udvalget er beslutningsdygtig når 4 medlemmer er til stede. Udvalgets beslutninger afgøres ved simpelt stemmeflertal. På foreningens generalforsamling aflægger udvalget beretning over det forløbne års aktiviteter, herunder økonomien. Regnskabet er en del af foreningens regnskab.
+**15.5 Udvalget holder møder efter behov. Desuden skal der afholdes møde, såfremt 3 udvalgsmedlemmer ønsker det. Udvalget er beslutningsdygtig når 4 medlemmer er til stede. Udvalgets beslutninger afgøres ved simpelt stemmeflertal. På foreningens generalforsamling aflægger udvalget beretning over det forløbne års aktiviteter, herunder økonomien. Regnskabet er en del af foreningens regnskab.**
 
-15.6 I tilfælde af jagtforeningens opløsning skal den kapital udvalget administrerer anvendes i henhold til 15.1.
+**15.6 I tilfælde af jagtforeningens opløsning skal den kapital udvalget administrerer anvendes i henhold til 15.1.**
 ## §16 Revisoren
 
 16.1 De to revisorer, der vælges af og blandt medlemmerne, jf. § 7, gennemgår regnskabet og anfører evt. bemærkninger på dette. Revisorerne har endvidere til opgave løbende at påse, at foreningen administreres hensigtsmæssigt og i overensstemmelse med de fastsatte retningslinjer.
