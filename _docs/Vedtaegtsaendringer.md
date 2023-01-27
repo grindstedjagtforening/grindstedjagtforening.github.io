@@ -38,6 +38,7 @@ Regnskaberne for Flugtskydningsudvalget, Natur og Vildtplejeudvalget, Hundeudval
 5.3 Bestyrelsen kan ekskludere et medlem af foreningen, der i væsentlig grad har optrådt eller handlet til skade for foreningen.
 
 5.4 Eksklusion skal dog for at få endelig gyldighed godkendes på førstkommende generalforsamling. Eksklusion kræver, at 2/3 af medlemmerne stemmer herfor. Såfremt forslaget om eksklusion ikke opnår et sådant flertal, kan eksklusionen vedtages på en ekstraordinær generalforsamling, såfremt 2/3 af de, der fremmødte stemmer herfor.
+
 5.5 Eksklusion af Danmarks Jægerforbund kan ske i overensstemmelse med Danmarks Jægerforbunds vedtægter §37.
 
 5.6 Medlemskabets ophør medfører ikke krav på andel i foreningens formue.
