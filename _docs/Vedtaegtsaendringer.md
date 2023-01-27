@@ -20,6 +20,7 @@ Regnskaberne for Flugtskydningsudvalget, Natur og Vildtplejeudvalget, Hundeudval
 ## De nye vedtægter for Grindsted Jagtforening
 ###### §1 Navn og hjemsted
 1.1 Foreningens navn er Grindsted Jagtforening
+
 1.2 Foreningens hjemsted er Billund kommune.
 ###### §2 Forholdet til Danmarks Jægerforbund
 2.1 Foreningen er tilsluttet Danmarks Jægerforbund (DJ), hvis vedtægter er bindende for foreningen.
