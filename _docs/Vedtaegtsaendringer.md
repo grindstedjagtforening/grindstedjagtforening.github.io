@@ -13,7 +13,7 @@ Naturprisen til Villy Nielsen
 ![Generalforsamling](/images/Aktivpokalen 2022.png)
 Aktivpokalen til Vagn Jensen
 
-Der mødte 30 op til spisning af steg flæsk med persillesovs.
+Der mødte 30 op til spisning af stegt flæsk med persillesovs.
 Derefter gik vi over til generalforsamlingen efter vedtægterne. Her mødte yderlig 8 personer op.
 Regnskaberne for Flugtskydningsudvalget, Natur og Vildtplejeudvalget, Hundeudvalget, Mårhundebanden og hovedkassen blev alle godkendt. Ændringerne af vedtægterne blev godkendt med 29 stemmer for og 1 imod. 8 af de 38 deltagere var ikke medlemmer.
 
