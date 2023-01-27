@@ -1,12 +1,24 @@
 ---
-title: "Vedtægtsændringer"
+title: "Fra generalforsamlingen"
 permalink: /docs/Vedtaegtsaendringer/
 excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-Vedtægter for Grindsted Jagtforening
-#### §1 Navn og hjemsted
+
+![Generalforsamling](/images/Fire hornblæsere.png)
+![Generalforsamling](/images/Tre hornblæsere.png)
+![Generalforsamling](/images/Naturpris2022.png)
+Naturprisen til Villy Nielsen
+![Generalforsamling](/images/Aktivpokalen 2022.png)
+Aktivpokalen til Vagn Jensen
+
+Der mødte 30 op til spisning af steg flæsk med persillesovs.
+Derefter gik vi over til generalforsamlingen efter vedtægterne. Her mødte yderlig 8 personer op.
+Regnskaberne for Flugtskydningsudvalget, Natur og Vildtplejeudvalget, Hundeudvalget, Mårhundebanden og hovedkassen blev alle godkendt. Ændringerne af vedtægterne blev godkendt med 29 stemmer for og 1 imod. 8 af de 38 deltagere var ikke medlemmer.
+
+## De nye vedtægter for Grindsted Jagtforening
+###### §1 Navn og hjemsted
 1.1 Foreningens navn er Grindsted Jagtforening
 1.2 Foreningens hjemsted er Billund kommune.
 ###### §2 Forholdet til Danmarks Jægerforbund
@@ -133,7 +145,7 @@ Vedtægter for Grindsted Jagtforening
 
 15.5 Udvalget holder møder efter behov. Desuden skal der afholdes møde, såfremt 3 udvalgsmedlemmer ønsker det. Udvalget er beslutningsdygtig når 4 medlemmer er til stede. Udvalgets beslutninger afgøres ved simpelt stemmeflertal. På foreningens generalforsamling aflægger udvalget beretning over det forløbne års aktiviteter, herunder økonomien. Regnskabet er en del af foreningens regnskab.
 
-15.6 I tilfælde af jagtforeningens opløsning skal den kapital udvalget administrerer anvendes i henhold til §15.1.**
+15.6 I tilfælde af jagtforeningens opløsning skal den kapital udvalget administrerer anvendes i henhold til §15.1.
 ###### §16 Revisoren
 
 16.1 De to revisorer, der vælges af og blandt medlemmerne, jf. § 7, gennemgår regnskabet og anfører evt. bemærkninger på dette. Revisorerne har endvidere til opgave løbende at påse, at foreningen administreres hensigtsmæssigt og i overensstemmelse med de fastsatte retningslinjer.
