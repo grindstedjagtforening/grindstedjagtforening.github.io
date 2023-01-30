@@ -1,5 +1,5 @@
 ---
-title: "GFB"
+title: "GFB - Flugtskydningsbanen"
 permalink: /docs/about/
 excerpt: "Information fra GFB"
 last_modified_at: 2022-11-05T10:40:42-04:00
@@ -7,8 +7,6 @@ toc: true
 ---
 
 Program for GFB 2023.
-Januar :
-Generalforsamling i GJF (Lynghytten) d. 26 kl. 19:30, som GFB er en del af. Mød op.
 # Februar :
 Træning alle Lørdage fra kl. 10 – 13.
 # Marts :
