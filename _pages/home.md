@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Foreningen"
-    excerpt: "Her omtale af aktiviteter"
+    excerpt: "Her omtale af aktiviteter, Nyt fra hundeudvalget"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "GJF" 
