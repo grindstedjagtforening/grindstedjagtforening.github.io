@@ -27,3 +27,7 @@ Torsdag den 23. februar kl 19.00 i Lynghytten<br />
 
 ### Trofæaften med præsentation af resultaterne af Knivkursus i januar/februar.
 Torsdag den 30. marts kl 19.00 i Lynghytten<br />
+
+### Sommerdressur starter 3. april med afslutning den 19. juni
+
+### Hvalpetræning starter 7. august med afslutning 4. september

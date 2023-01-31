@@ -10,11 +10,11 @@ Klubhus: Lynghytten, Vesterhedevej 3, Grindsted<br />
 Riffelbane: Tingvejen 394 (bag Flisværket)<br />
 <br />
 Formand: Martin Moen: 40927746<br />
-Næstformand: Kaspar Kousgaard Madsen<br />
+Næstformand: Kim Brogaard<br />
 Kasserer: Vagn Jensen, mail: postmaster@grindstedjagtforening.dk<br />
-Sekretær: Christoffer Teglgaard<br />
-Jagtudvalg: Finn Lauridsen<br />
-Flugtskydningsudvalg (GFB): Heino Hansen<br />
+Sekretær: Kim Brogaard<br />
+Jagtudvalg: Finn Lauridsen og Christoffer Teglgaard<br />
+Flugtskydningsudvalg (GFB): Heino Hansen og Lars Hjorth<br />
 Aktivitetsudvalg: Kim Brogaard<br />
 Vildt-og Naturplejeudvalg: Kim Hansen<br />
 Hundeudvalg: Rasmus Nissen<br />
