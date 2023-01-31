@@ -39,3 +39,5 @@ Husstand	500kr<br />
 Senior - Født 1948 eller tidl. 572kr<br />	
 Ekstraordinær	144kr<br />
 Ungdom 16-25 år	488kr<br />
+
+![Knivkursus](/images/Ansøgning planter.jpg)

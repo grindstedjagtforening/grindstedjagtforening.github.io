@@ -30,4 +30,6 @@ Torsdag den 30. marts kl 19.00 i Lynghytten<br />
 
 ### Sommerdressur starter 3. april med afslutning den 19. juni
 
+### Ansøgning om tilskud til planter senest den 1. juni, se skema under Kontakt
+
 ### Hvalpetræning starter 7. august med afslutning 4. september
