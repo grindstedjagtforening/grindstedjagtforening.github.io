@@ -31,9 +31,9 @@ Ansager: Henry Bertelsen - 20 33 77 19<br />
 Ansager: Finn Hyldahl Petersen - 26 83 72 74<br />
 Hejnsvig: Jens Holm Christensen - 20 88 91 66<br />
 Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76<br />
-Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44<br />
+Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44
 
-###### Kontingent 2023<br />
+###### Kontingent 2023
 Ordinære	908kr<br />
 Husstand	500kr<br />
 Senior - Født 1948 eller tidl. 572kr<br />	
