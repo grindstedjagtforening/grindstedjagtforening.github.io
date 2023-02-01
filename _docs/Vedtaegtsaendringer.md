@@ -1,11 +1,11 @@
 ---
-title: "Fra generalforsamlingen"
+title: "Fra aktiviteterne"
 permalink: /docs/Vedtaegtsaendringer/
 excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-
+### Generalforsamling 2023
 ![Generalforsamling](/images/Fire hornblæsere.png)
 ![Generalforsamling](/images/Tre hornblæsere.png)
 ![Generalforsamling](/images/Naturpris2022.png)
@@ -17,7 +17,7 @@ Der mødte 30 op til spisning af stegt flæsk med persillesovs.
 Derefter gik vi over til generalforsamlingen efter vedtægterne. Her mødte yderlig 8 personer op.
 Regnskaberne for Flugtskydningsudvalget, Natur og Vildtplejeudvalget, Hundeudvalget, Mårhundebanden og hovedkassen blev alle godkendt. Ændringerne af vedtægterne blev godkendt med 29 stemmer for og 1 imod. 8 af de 38 deltagere var ikke medlemmer.
 
-## De nye vedtægter for Grindsted Jagtforening
+### De nye vedtægter for Grindsted Jagtforening
 ###### §1 Navn og hjemsted
 1.1 Foreningens navn er Grindsted Jagtforening
 

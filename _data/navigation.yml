@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Kontakt"
     url: "/docs/kontakt/"
+  - title: "Kalender"
+    url: "/docs/calendar/"
   - title: "Arkiv"
     url: /year-archive/
   

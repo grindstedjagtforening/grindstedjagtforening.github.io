@@ -9,34 +9,38 @@ excerpt: >
   Velkommen til Grindsted Jagtforening<br />
   og Grindsted Flugtskydningsbane
 feature_row:
-  
-  - image_paths: /assets/Hjort2.png
-    alt: "Tekst"
-    title: "Fra generalforsamlingen"
-    excerpt: "Sidste nyt"
-    url: "/docs/Vedtaegtsaendringer/"
-    btn_class: "btn--primary"
-    btn_label: "Info" 
-  - image_paths: /assets/Hjort2.png
-    alt: "Tekst"
-    title: "Foreningen"
-    excerpt: "Her omtale af aktiviteter, Nyt fra hundeudvalget"
-    url: "/docs/Foreningen/"
-    btn_class: "btn--primary"
-    btn_label: "GJF" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: "Nyt den 20.12.2022-kalender for 2023"
+    excerpt: ""
     url: "/docs/about/"
     btn_class: "btn--primary"
-    btn_label: "GFB" 
-  - image_paths: /assets/Menu2.png
-    alt: "calendar"
-    title: "Kalender"
-    url: "/docs/calendar/"
+    btn_label: "Nyt fra GFB" 
+
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
+    title: "Jagtforeningen"
+    excerpt: ""
+    url: "/docs/Foreningen/"
     btn_class: "btn--primary"
-    btn_label: "Kalender"
+    btn_label: "Nyt fra GJF" 
+  
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
+    title: "Natur og Vildtpleje"
+    excerpt: ""
+    url: "/docs/NaturVildtPleje/"
+    btn_class: "btn--primary"
+    btn_label: "Nyt fra Natur-og Vildtplejeudvalget"   
+    
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
+    title: "Info fra afholdte aktiviteter"
+    excerpt: ""
+    url: "/docs/Vedtaegtsaendringer/"
+    btn_class: "btn--primary"
+    btn_label: "Information" 
+    
 ---
 
 {% include feature_row %}

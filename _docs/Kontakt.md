@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2022-11-05T10:40:42-04:00
+last_modified_at: 2023-02-02T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted<br />
@@ -40,4 +40,4 @@ Senior - Født 1948 eller tidl. 572kr<br />
 Ekstraordinær	144kr<br />
 Ungdom 16-25 år	488kr<br />
 
-![Knivkursus](/images/Ansøgning planter.jpg)
+
