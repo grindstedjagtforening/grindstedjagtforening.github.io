@@ -5,7 +5,7 @@ excerpt: "Information fra GFB"
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-### Husk at sortere affaldet her på banen. Vi arbejder på informationen iøjeblikket
+### Husk at sortere affaldet her på banen. Vi arbejder på at få informationen
 
 #### Program for GFB 2023.
 
