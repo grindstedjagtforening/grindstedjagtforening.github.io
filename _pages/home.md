@@ -23,7 +23,7 @@ feature_row:
     excerpt: ""
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
-    btn_label: "Nyt fra GJF" 
+    btn_label: "Kommende aktiviteter i GJF" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Natur og Vildtpleje"
@@ -33,7 +33,7 @@ feature_row:
     btn_label: "Nyt fra Natur-og Vildtplejeudvalget"   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Info fra afholdte aktiviteter"
+    title: "Fra afholdte aktiviteter"
     excerpt: ""
     url: "/docs/Vedtaegtsaendringer/"
     btn_class: "btn--primary"
