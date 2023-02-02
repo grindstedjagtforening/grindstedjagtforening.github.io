@@ -7,8 +7,6 @@ toc: true
 ---
 
 
-### Årsmøde i Jægerrådet, alle er velkommen.
-Torsdag den 2. februar kl 19.00 i Lynghytten<br />
 
 ### Stigaskydning de sidste tre torsdage i februar.
 Torsdag den 9. februar kl 19.00 i Lynghytten<br />
