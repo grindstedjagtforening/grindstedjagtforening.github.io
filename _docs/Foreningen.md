@@ -10,21 +10,6 @@ Grundet stor tilslutning til vore kurser inden for hundetræning er der behov fo
  
 Skriv til postmaster@grindstedjagtforening.dk hvis du vil høre mere.
 
-
-## Årsmøde i Billund Jægerråd 
-Den 2. februar kl. 19.00 på Grindsted Flugtskydningsbane, Lynghytten
-
-Dagsorden:
-1. Valg af dirigent og referent
-2. Aflæggelse af beretning for jægerrådets virke
-3. Valg af formand
-4. Orientering om bestyrelsens sammensætning
-5. Indstilling af indtil to kandidater til hovedbestyrelsen og suppleanter for disse (kun i valgår)
-6. Indstilling af delegerede til repræsentantskabsmødet. Indstillinger i henhold til pkt. 5 og 6 skal meddeles skriftligt til kredsformanden senest tre uger før kredsmødet, idet kredsformanden dog kan vedtage en mere vidtgående indstillingsprocedure.
-7. Indkomne forslag
-8. Eventuelt
-Deltagelse er gratis og der er ingen tilmelding.
-
 ## Stigaskydning
 Prøv den disciplin hvor vi skyder med en luftdrevet lille riffel til bevægelige skiver. 
 Det er en riffel med kikkertsigte og snelle, så dine evner til skydning til løbende vildt bliver testet. 
