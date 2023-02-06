@@ -11,5 +11,5 @@ Hent ansøgningsskema til planter her (download)
 
 ![Knivkursus](/images/Ansøgning planter.jpg)
 
-Historisk tilbageblik:
+####Historisk tilbageblik:
 ![Fra Jægeren](/images/Fonden fra Jægeren 2013.jpg)
