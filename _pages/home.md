@@ -38,6 +38,13 @@ feature_row:
     url: "/docs/Vedtaegtsaendringer/"
     btn_class: "btn--primary"
     btn_label: "Information" 
+  - image_paths: /assets/Hjort2.png
+    alt: "Tekst"
+    title: "Vedtægter og referater"
+    excerpt: ""
+    url: "/docs/Vedtægterogreferater/"
+    btn_class: "btn--primary"
+    btn_label: "Information" 
 ---
 
 {% include feature_row %}
