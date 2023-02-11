@@ -16,7 +16,7 @@ Sekretær: Kim Brogaard<br />
 Jagtudvalg: Finn Lauridsen og Christoffer Teglgaard<br />
 Flugtskydningsudvalg (GFB): Heino Hansen og Lars Hjorth<br />
 Aktivitetsudvalg: Kim Brogaard<br />
-Vildt-og Naturplejeudvalg: Kim Hansen<br />
+Natur-og Vildtplejeudvalg: Kim Hansen<br />
 Hundeudvalg: Rasmus Nissen<br />
 Riffeludvalg: Finn Lauridsen<br />
 
