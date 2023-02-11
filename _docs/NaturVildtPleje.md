@@ -23,7 +23,7 @@ Bestilling skal ske til Kim Hansen på tlf. 4064 8819, og der skal medbringes so
 
 #### Hent ansøgningsskema til planter her (download)
 
-![Knivkursus](/images/Ansøgning planter.jpg)
+![Planter](/images/Ansøgning planter.jpg)
 
 #### Historisk tilbageblik:
 
