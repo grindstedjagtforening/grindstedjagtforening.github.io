@@ -22,9 +22,11 @@ Riffeludvalg: Finn Lauridsen<br />
 
 Bankforbindelse: Sydbank<br />
 MobilePay GJF: 46352<br />
-MobilePay GFB: 942503<br />
+MobilePay Flugtskydningsbanen, GFB: 942503<br />
 CVR-nummer: 29569274<br />
 mail: postmaster@grindstedjagtforening.dk<br />
+Facebook: 'Grindsted Flugtskyde Bane GFB'<br />
+Facebook: 'Grindsted Jagtforening'
 
 ###### Fra Schweissregisteret den 19. nov 2022
 Ansager: Henry Bertelsen - 20 33 77 19<br />
@@ -34,10 +36,11 @@ Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76<br />
 Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44
 
 ###### Kontingent 2023
-Ordinære	908kr<br />
-Husstand	500kr<br />
-Senior - Født 1948 eller tidl. 572kr<br />	
-Ekstraordinær	144kr<br />
-Ungdom 16-25 år	488kr<br />
+Ordinære:	908kr<br />
+Husstand:	500kr<br />
+Senior - Født 1948 eller tidl.: 572kr<br />	
+Ekstraordinær:	144kr<br />
+Ungdom 16-25 år:	488kr<br />
+Støttemedlem: 122kr (mulighed for våbenpåtegning)<br />
 
 

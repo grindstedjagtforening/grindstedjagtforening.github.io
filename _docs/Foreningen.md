@@ -5,6 +5,8 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
+## Rågeregulering
+
 ## Opråb fra Hundeudvalget
 Grundet stor tilslutning til vore kurser inden for hundetræning er der behov for ekstra hænder til hundeudvalget. Så hvis nogle af foreningens medlemmer brænder for arbejdet med jagthunde, og samtidig have et ønske om yderlig uddannelse inder for jagthunde- hører udvalget gerne fra dig.
  
