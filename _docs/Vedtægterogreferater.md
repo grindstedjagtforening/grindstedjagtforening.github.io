@@ -10,7 +10,7 @@ toc: true
 
 Referat fra generalforsamling i Grindsted Jagtforening,                                                                                          afholdt i Lynghytten den 26. januar 2023.
 
-Traditionen tro startede vi med fællesspisning klokken 18.30, der blev serveret en gang stegt flæsk med persillesovs, kartofler og tilbehør, samt drikkevarer ”med måde”, ikke dårligt!!
+Traditionen tro startede vi med fællesspisning klokken 18.30, der blev serveret en gang stegt flæsk med persillesovs, kartofler og tilbehør, samt drikkevarer ”med måde”, ikke dårligt!!  
 
 Klokken 19.30 blev generalforsamlingen ”blæst i gang” med ”jagt begynd” af Hubertusblæserne, hvorefter formanden Martin Moen kunne byde velkommen til 38 personer, hvoraf 6 var gæster og to hornblæsere, som ikke var medlemmer og derfor ikke havde stemme og taleret på generalforsamlingen.
 
@@ -20,17 +20,17 @@ Referatets punkter svarer til punkterne for generalforsamlingens dagsorden:
 
 Valg af dirigent:  Gunnar blev foreslået og valgt, hvorefter han overtog styringen og konstaterede at generalforsamlingen var lovlig og rettidig indkaldt. Jens Kruse og Eddie Grundahl, blev valgt som stemmetællere og Bjarne Christensen som referent.
 
-Beretninger.
+#### Beretninger.
 
-Formandens beretning:  Martin gav en orientering om foreningens aktiviteter i 2022.<br />               
-
-Der blev afholdt Stiga skydning over tre aftener i februar. <br />
-Trofæaften blev aflyst i 2022, men afholdes i 2023. <br />
-Træning og pokalskydning på lerduebanen blev afviklet sammen med Billund og Hejnsvig som tidligere år og gentages i 2023 i august måned, Martin appellerede til at så mange som muligt får trænet med haglbøsse og riffel, for at være forberedt til den kommende jagt sæson.<br />
-Der afholdes årsmøde i Jægerrådet i Lynghytten 2. februar kl. 19.00, medlemmer er velkommen. <br />
+##### Formandens beretning:  
+Martin gav en orientering om foreningens aktiviteter i 2022.  
+Der blev afholdt Stiga skydning over tre aftener i februar.  
+Trofæaften blev aflyst i 2022, men afholdes i 2023.  
+Træning og pokalskydning på lerduebanen blev afviklet sammen med Billund og Hejnsvig som tidligere år og gentages i 2023 i august måned, Martin appellerede til at så mange som muligt får trænet med haglbøsse og riffel, for at være forberedt til den kommende jagt sæson.  
+Der afholdes årsmøde i Jægerrådet i Lynghytten 2. februar kl. 19.00, medlemmer er velkommen.  
 Beretningen blev godkendt med akklamation.
 
-Hundeudvalg: <br />
+##### Hundeudvalg:  
 Thorkild berettede om årets hundearbejde, vinterdressuren i ridehallen havde tilslutning af 20 unghunde, der blev trænet i 10 uger og man sluttede med en fælles hyggelig afslutning. I april måned startede udendørsdressuren, også her var der 20 hunde tilmeldt fordelt på ung hunde, mellemklasse og udvidet, også her blev der holdt en hyggelig fælles afslutning. I august måned var der hvalpetræning/motivering hvor cirka 10 hunde deltog.                   Hundeudvalget mangler instruktører og søger desperat efter folk som kunne tænke sig at arbejde med vores dejlige firbenede jagtkammerater.
 
 Jagtudvalg:  
