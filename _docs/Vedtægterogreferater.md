@@ -257,7 +257,4 @@ Godkendt af Danmarks Jægerforbund den  _ _  / _ _  2023
 
 
 Download det underskrevne dokument her
-
-### Protokol fra 1931 til 1971
-
-
+![Vedtægter2023](/images/Vedtægter Grindsted Jagtforening 2023 godkendt.pdf)
