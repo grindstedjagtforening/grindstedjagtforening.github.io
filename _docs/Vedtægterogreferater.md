@@ -255,6 +255,5 @@ Den 26/01 2023
 
 Godkendt af Danmarks Jægerforbund den  _ _  / _ _  2023
 
-
 Download det underskrevne dokument her
 [Vedtægter2023](/images/Vedtægter Grindsted Jagtforening 2023 godkendt.pdf)
