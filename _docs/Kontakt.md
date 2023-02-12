@@ -11,7 +11,8 @@ Riffelbane: Tingvejen 394 (bag Flisværket).
 
 Formand: Martin Moen: 40927746. 
 Næstformand: Kim Brogaard. 
-Kasserer: Vagn Jensen 51578740, mail: postmaster@grindstedjagtforening.dk. 
+Kasserer: Vagn Jensen 51578740, 
+mail: postmaster@grindstedjagtforening.dk   
 Sekretær: Kim Brogaard. 
 Jagtudvalg: Finn Lauridsen 40417515 og Christoffer Teglgaard. 
 Flugtskydningsudvalg (GFB): Heino Hansen 22440300 og Lars Hjorth. 
