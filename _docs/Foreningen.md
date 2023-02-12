@@ -5,7 +5,10 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2022-11-05T10:40:42-04:00
 toc: true
 ---
-## Rågeregulering
+## Rågeregulering. 
+Der kan atter reguleres de voksne råger. Regler om afværgeforansaltninger skal følges. Læs dem grundigt hvis du ønsker at regulere. Tilladelse kan gives ved henvendelse til Finn Lauridsen.  
+Se tilladelse og regler her.
+![Rågeregulering](/images/Rågeregulering 2023 februar-marts.pdf)
 
 ## Opråb fra Hundeudvalget
 Grundet stor tilslutning til vore kurser inden for hundetræning er der behov for ekstra hænder til hundeudvalget. Så hvis nogle af foreningens medlemmer brænder for arbejdet med jagthunde, og samtidig have et ønske om yderlig uddannelse inder for jagthunde- hører udvalget gerne fra dig.
@@ -41,4 +44,4 @@ Pris 500 kr. som betales pá Mobilepay box60996<br />
 Notér venligst navn på hund og ejer.<br />
 Deltagende hunde skal være vaccineret.<br /><br />
 Hundeudvalget - Grindsted Jagtforening<br /><br />
-![Hundedressur](/images/Hund.png)
+https://vagnaage-solid-barnacle-vj6q577xrpx3x6rr-4000.preview.app.github.dev/
