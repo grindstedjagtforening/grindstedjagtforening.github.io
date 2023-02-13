@@ -21,10 +21,10 @@ Natur-og Vildtplejeudvalg: Kim Hansen.
 Hundeudvalg: Rasmus Nissen.  
 Riffeludvalg: Finn Lauridsen 40417515  
 
-Bankforbindelse: Sydbank. 
-MobilePay GJF: 46352. 
-MobilePay Flugtskydningsbanen, GFB: 942503. 
-CVR-nummer: 29569274. 
+Bankforbindelse: Sydbank.    
+MobilePay GJF: 46352.    
+MobilePay Flugtskydningsbanen, GFB: 942503.    
+CVR-nummer: 29569274.    
 mail: postmaster@grindstedjagtforening.dk  
 Facebook: 'Grindsted Flugtskyde Bane GFB'  
 Facebook: 'Grindsted Jagtforening'
