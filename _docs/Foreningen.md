@@ -9,7 +9,8 @@ toc: true
 Der kan atter reguleres de voksne råger. Regler om afværgeforansaltninger skal følges. Læs dem grundigt hvis du ønsker at regulere. Tilladelse kan gives ved henvendelse til Finn Lauridsen.  
 Se tilladelse og regler her:
 [Rågeregulering](/images/Regulering 2023 februar.pdf).  
-Kort over områderne: [Rågereguleringskort](/images/Regulering 2023 kort.pdf)
+
+Kort over områderne: [Rågereguleringskort](/images/Raageregulering2023kort.pdf)
 
 ## Opråb fra Hundeudvalget
 Grundet stor tilslutning til vore kurser inden for hundetræning er der behov for ekstra hænder til hundeudvalget. Så hvis nogle af foreningens medlemmer brænder for arbejdet med jagthunde, og samtidig have et ønske om yderlig uddannelse inder for jagthunde- hører udvalget gerne fra dig.
