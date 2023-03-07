@@ -8,20 +8,15 @@ toc: true
 ### Husk at sortere affaldet her på banen. Vi arbejder på at få informationen
 
 #### Program for GFB 2023.
-
-#### Februar :
-Træning alle Lørdage fra kl. 10 – 13.
-
 #### Marts :
-Træning alle Lørdage fra kl. 10 – 13.
-Nordisk trap d. 11/3 fra kl. 9 - ?.
-
+Træning alle Lørdage fra kl. 10 – 13.  
+Nordisk trap d. 11/3 fra kl. 9 - ?.  
 #### April
-RAH starter op d. 4/4 fra kl. 18 – 21.
+RAH starter op d. 4/4 fra kl. 18 – 21.  
 Træning alle Onsdage fra kl. 18 – 21.
 #### Maj
-Træning alle Onsdage fra kl. 18 – 21.
-Dog er træningen Onsdag d. 17 flyttet til Fredag d. 19 (fra 18 – 21) pga. stor Trap stævne.
+Træning alle Onsdage fra kl. 18 – 21.  
+Dog er træningen Onsdag d. 17 flyttet til Fredag d. 19 (fra 18 – 21) pga. stor Trap stævne.  
 Nordisk trap d. 19, 20 og 21 (d. 19 fra kl. 18-21) og (d. 20 og 21 fra kl. 09- ?).
 #### Juni
 Træning alle Onsdage fra kl. 18 – 21.
