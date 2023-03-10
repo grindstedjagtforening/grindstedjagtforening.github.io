@@ -2,9 +2,14 @@
 title: "Fra aktiviteterne"
 permalink: /docs/Vedtaegtsaendringer/
 excerpt: "Information om og fra bestyrelsen."
-last_modified_at: 2023-02-06T10:40:42-04:00
+last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
+
+### Stigaskydning
+Der er afholdt tre aftener med skydning til bevægelig mål i form af en elgskive.
+Den sidste aften blev der skudt om pokalen. Her vandt Finn Lauridsen. Tillykke.
+
 ### Generalforsamling 2023
 ![Generalforsamling](/images/Fire hornblæsere.png)
 ![Generalforsamling](/images/Tre hornblæsere.png)
