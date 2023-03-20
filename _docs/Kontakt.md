@@ -25,7 +25,8 @@ Bankforbindelse: Sydbank.
 MobilePay GJF: 46352.    
 MobilePay Flugtskydningsbanen, GFB: 942503.    
 CVR-nummer: 29569274.    
-mail: postmaster@grindstedjagtforening.dk  
+Mail til Grindsted Jagtforening: postmaster@grindstedjagtforening.dk
+Mail til Flugtskydningsbanen GFB: gfb.invoice@outlook.dk  
 Facebook: 'Grindsted Flugtskyde Bane GFB'  
 Facebook: 'Grindsted Jagtforening'
 
