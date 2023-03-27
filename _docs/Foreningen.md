@@ -5,7 +5,7 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
-## Trofæaften i dag torsdag den 30. marts i Lynghytten kl 19.00
+## Trofæaften torsdag den 30. marts i Lynghytten kl 19.00
 Vi afholder vores traditionelle trofæaften. Så tag dine nye trofæer fra 2021/2022 og 2022/2023 ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.
 Vi finder årets danske buk, årets danske hjort, den mest specielle buk, den mindste buk, årets udenlandske buk og årets udenlandske hjort
 
@@ -45,6 +45,17 @@ Udvidet niveau for øvede hunde, som kan apportere hår og fjervildt.
 Hvalpetræning og ung hunde grunddressur tilbydes til August.
 
 Grundet stor tilslutning til vore kurser inden for hundetræning er der stadig behov for ekstra hænder til hundeudvalget. Så hvis nogle af foreningens medlemmer brænder for arbejdet med jagthunde, og samtidig have et ønske om yderlig uddannelse inder for jagthunde- hører udvalget gerne fra dig.
+## Bukkejagt
+
+Grindsted Jagtforening har lejet jagten på et areal ved Nørre Nebel. Det er landbrugsarealer og hegne. Der er muligheder for fællesjagt som drivjagt og mulighed for pürsch på råvildt.
+
+Til vores medlemmer udbydes nu pürsch på råbukken med 3 pladser til de første 4 uger af bukkejagten med afskydning af max 3 bukke. Der vil i pürschperioden være en aftalt fordeling mellem pladserne af jagtdagene. Hver plads betaler 1500 kr. Ingen ekstra betaling for nedlagt buk.
+
+Hvis pürschen ikke resulterer i 3 nedlagte bukke vil der blive solgt pladser til de sidste 4 uger af bukkejagten for 1000 kr per plads.
+
+Har dette din interesse vil jagtforeningen gerne høre fra dig og der laves så en lodtrækning den 15. april blandt interesserede. 
+
+Henvendelse til Martin Moen (40927746) eller Kim Brogaard (23728442).
 
 ## Jagthundeinstruktør
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
