@@ -45,7 +45,7 @@ Udvidet niveau for øvede hunde, som kan apportere hår og fjervildt.
 Hvalpetræning og ung hunde grunddressur tilbydes til August.
 
 Grundet stor tilslutning til vore kurser inden for hundetræning er der stadig behov for ekstra hænder til hundeudvalget. Så hvis nogle af foreningens medlemmer brænder for arbejdet med jagthunde, og samtidig have et ønske om yderlig uddannelse inder for jagthunde- hører udvalget gerne fra dig.
-## Bukkejagt
+## Bukkejagt fra Jagtudvalget
 
 Grindsted Jagtforening har lejet jagten på et areal ved Nørre Nebel. Det er landbrugsarealer og hegne. Der er muligheder for fællesjagt som drivjagt og mulighed for pürsch på råvildt.
 
