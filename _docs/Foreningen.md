@@ -51,7 +51,7 @@ Grindsted Jagtforening har lejet jagten på et areal ved Nørre Nebel. Det er la
 
 Til vores medlemmer udbydes nu pürsch på råbukken med 3 pladser til de første 4 uger af bukkejagten med afskydning en buk per medlem. Der vil i pürschperioden være en aftalt fordeling mellem pladserne af jagtdagene. Hver plads betaler 1500 kr. Ingen ekstra betaling for nedlagt buk.
 
-Hvis pürschen ikke resulterer i 3 nedlagte bukke vil der blive solgt pladser til de sidste 4 uger af bukkejagten for 1000 kr per plads, igen at der max nedlægges 3 bukke i hele perioden.
+Hvis pürschen i 4 første uger ikke resulterer i 3 nedlagte bukke vil der blive solgt pladser til de sidste 4 uger af bukkejagten for 1000 kr per plads, igen således at der max nedlægges 3 bukke i hele perioden.
 
 Har dette din interesse vil jagtforeningen gerne høre fra dig og der laves så en lodtrækning den 15. april blandt interesserede. 
 
