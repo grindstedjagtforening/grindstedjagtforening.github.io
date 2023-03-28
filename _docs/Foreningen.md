@@ -49,7 +49,7 @@ Grundet stor tilslutning til vore kurser inden for hundetræning er der stadig b
 
 Grindsted Jagtforening har lejet jagten på et areal ved Nørre Nebel. Det er landbrugsarealer og hegne. Der er muligheder for fællesjagt som drivjagt og mulighed for pürsch på råvildt.
 
-Til vores medlemmer udbydes nu pürsch på råbukken med 3 pladser til de første 4 uger af bukkejagten med afskydning en buk per medlem. Der vil i pürschperioden være en aftalt fordeling mellem pladserne af jagtdagene. Hver plads betaler 1500 kr. Ingen ekstra betaling for nedlagt buk.
+Til vores medlemmer udbydes nu pürsch på råbukken med 3 pladser til de første 4 uger af bukkejagten med afskydning af en buk per medlem. Der vil i pürschperioden være en aftalt fordeling af jagtdagene. Hver plads betaler 1500 kr. Ingen ekstra betaling for nedlagt buk.
 
 Hvis pürschen i 4 første uger ikke resulterer i 3 nedlagte bukke vil der blive solgt pladser til de sidste 4 uger af bukkejagten for 1000 kr per plads, igen således at der max nedlægges 3 bukke i hele perioden.
 
