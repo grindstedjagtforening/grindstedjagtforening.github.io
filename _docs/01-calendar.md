@@ -2,7 +2,7 @@
 title: "Kalender 2023"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2022-11-05T10:40:42-04:00
+last_modified_at: 2023-03-30T10:40:42-04:00
 toc: true
 ---
 
