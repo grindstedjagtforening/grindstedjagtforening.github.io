@@ -50,7 +50,3 @@ Henvendelse til Martin Moen (40927746) eller Kim Brogaard (23728442).
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
 Se lidt på [Jægerforbundets hjemmeside](https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/) og tag kontakt til Martin Moen hvis din interesse er vakt.
 
-## Knivkursus 2023.
-Tirsdag d 10 januar startede knivkurset i sløjdlokalet på Lynghedeskolen afdeling Søndre kl 19.00
-resultatet kan ses til vores trofæaften den 30. marts kl 19.00 i Lynghytten
-![Knivkursus](/images/Kniv.png)
