@@ -5,17 +5,6 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
-## Trofæaften torsdag den 30. marts i Lynghytten kl 19.00
-Vi afholder vores traditionelle trofæaften. Så tag dine nye trofæer fra 2021/2022 og 2022/2023 ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.
-Vi finder årets danske buk, årets danske hjort, den mest specielle buk, den mindste buk, årets udenlandske buk og årets udenlandske hjort
-
-Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING
-
-Også i år kommer årets knivkursushold og viser hvor langt de er nået med at lave deres egne knive. Alle er velkommen til at tage knive lavet på tidligere hold med og vise hvad der er lavet tidligere.
-
-Grindsted Jagtforenings knivkursus er afsluttet for denne gang. Rigtig mange flotte knive blev det til så glæd jer til at se dem til trofæaftenen.
-
-Der kan købes øl og vand og ristede pølser. Og der er kaffe på kanden.
 
 ## Fra Hundeudvalget
 Dressur for jagthunderacer. 	
