@@ -8,16 +8,11 @@ toc: true
 
 ## Fra Jagtudvalget om Rågereguleringen
 Tilladelse til regulering af skadevoldende vildt.  
-NATURSTYRELSEN Søhøjlandet. 
-J.nr. 2023 - 6461 05. april 2023   
-Naturstyrelsen har den 05-04-2023 modtaget ansøgning om tilladelse til regulering af Råge på reguleringslokaliteten (se vedhæftede kort; Vilreg.jpg):   
-Matrikel(Matrikler).  
-Grindsted By, Grindsted Matrnr. 4a; Dal By, Grindsted Matrnr. 9; Grindsted By, Grindsted Matrnr. 7000a; Grindsted By, Grindsted Matrnr. 7000e; Sønderby By, Grindsted Matrnr. 3cz   
-Ejendomsnummer(-numre)   
+Naturstyrelsen har givet tilladelse til regulering af råger på reguleringslokaliteten (se vedhæftede kort; Vilreg.jpg):   
+Matrikel: Grindsted By, Grindsted Matrnr. 4a; Dal By, Grindsted Matrnr. 9; Grindsted By, Grindsted Matrnr. 7000a; Grindsted By, Grindsted Matrnr. 7000e; Sønderby By, Grindsted Matrnr. 3cz   
+Ejendomsnummer: 
 5142582; 5140781; 5140785; 9998512; 5141490   
-Postnr. og by.  
-7200, Grindsted. 
-
+  
 Ønsker du at høre mere herom skal du henvende dig til Finn Lauridsen, 40417515.   
 
 ![Vilreg](/assets/Vilreg.png)
