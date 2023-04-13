@@ -22,6 +22,10 @@ Postnr. og by.
 
 ![Vilreg](/assets/Vilreg.png)
 ![Tilladelse](/assets/Afgørelse2023.png)
+
+## Temadag i Lynghytten den 22. april kl 12.00. 
+
+![Temadag](/assets/Temadag.png)
 ## Fra Hundeudvalget
 Dressur for jagthunderacer. 	
  

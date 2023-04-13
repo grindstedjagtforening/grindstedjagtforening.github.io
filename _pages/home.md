@@ -20,7 +20,8 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Indskydning på riffelbanen hver torsdag kl 18.00 til 21.00 (solnedgang) indtil den 16. maj"
+    excerpt: "Temadag i Lynghytten: Sportræning for den øvede sporhund lørdag den 22. april<br>  
+    Indskydning på riffelbanen hver torsdag kl 18.00 til 21.00 (solnedgang) indtil den 16. maj"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
