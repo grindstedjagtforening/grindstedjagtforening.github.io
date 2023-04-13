@@ -7,23 +7,20 @@ toc: true
 ---
 ### Husk at sortere affaldet her på banen. Vi arbejder på at få informationen
 
-#### Program for GFB 2023.
-#### Marts :
-Træning alle Lørdage fra kl. 10 – 13.  
-Nordisk trap d. 11/3 fra kl. 9 - ?.  
+#### Program for GFB 2023. 
 #### April
 RAH starter op d. 4/4 fra kl. 18 – 21.  
-Træning alle Onsdage fra kl. 18 – 21.
+Træning alle onsdage fra kl. 18 – 21.
 #### Maj
-Træning alle Onsdage fra kl. 18 – 21.  
-Dog er træningen Onsdag d. 17 flyttet til Fredag d. 19 (fra 18 – 21) pga. stor Trap stævne.  
+Træning alle onsdage fra kl. 18 – 21.  
+Dog er træningen onsdag d. 17 flyttet til fredag d. 19 (fra 18 – 21) pga. stor Trap stævne.  
 Nordisk trap d. 19, 20 og 21 (d. 19 fra kl. 18-21) og (d. 20 og 21 fra kl. 09- ?).
 #### Juni
-Træning alle Onsdage fra kl. 18 – 21.
+Træning alle onsdage fra kl. 18 – 21.
 #### Juli
-Træning alle Onsdage fra kl. 18 – 21.
+Træning alle onsdage fra kl. 18 – 21.
 #### August
-Træning alle Onsdage fra kl. 18 – 21.
+Træning alle onsdage fra kl. 18 – 21.
 Kommune mesterskab i Vesterhede d. 16/8 fra kl. 17:30 – ?.
 Tirsdage d. 15, 22 og 29/8 afholder GJF pokalskydning for medlemmer af Billund, Hejnsvig og Grindsted jagtforening fra kl. 18 – 21.
 #### September
