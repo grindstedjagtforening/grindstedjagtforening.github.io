@@ -18,7 +18,7 @@ Ejendomsnummer:
 ![Vilreg](/assets/Vilreg.png)
 ![Tilladelse](/assets/Afgørelse2023.png)
 
-## Temadag i Lynghytten den 22. april kl 12.00. 
+## Temadag i mødelokalet ved riffelbanen den 22. april kl 12.00. Bemærk mødestedet 
 
 ![Temadag](/assets/Temadag.png)
 ## Fra Hundeudvalget
@@ -29,10 +29,8 @@ Opstart 3. april kl. 19.00 med træning mandage frem til 19 Juni.
 Tilmelding til Thorkild 40563337 – thorkildh2@gmail.com.  
 Pris 500,- som betales ved tilmelding på mobilepay til box60996
  
-Der tilbydes følgende hold:
- 
-Mellem niveau for let øvede hunde, som har gennemgået gruddressur og kan apportere dummy. 
- 
+Der tilbydes følgende hold:   
+Mellem-niveau for let øvede hunde, som har gennemgået gruddressur og kan apportere dummy. 
 1.	Repetition af grunddressur. 
 2.	Apportering af hår og fjervildt.
 3.	Apportering fra vand. 
@@ -57,7 +55,7 @@ Til vores medlemmer udbydes nu pürsch på råbukken med 3 pladser til de først
 
 Hvis pürschen i 4 første uger ikke resulterer i 3 nedlagte bukke vil der blive solgt pladser til de sidste 4 uger af bukkejagten for 1000 kr per plads, igen således at der max nedlægges 3 bukke i hele perioden.
 
-Har dette din interesse vil jagtforeningen gerne høre fra dig og der laves så en lodtrækning den 15. april blandt interesserede. 
+Har dette din interesse vil jagtforeningen gerne høre fra dig og der laves så en lodtrækning den 1. maj blandt interesserede. 
 
 Henvendelse til Martin Moen (40927746) eller Kim Brogaard (23728442).
 

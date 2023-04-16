@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "<strong> Temadag </strong>i Lynghytten: Sportræning for den øvede sporhund lørdag den 22. april<br>  
+    excerpt: "<strong> Temadag </strong>i mødelokalet på riffelbanen: Sportræning for den øvede sporhund lørdag den 22. april<br>  
     <strong> Indskydning </strong> på riffelbanen hver torsdag kl 18.00 til 21.00 (solnedgang) indtil den 16. maj"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
