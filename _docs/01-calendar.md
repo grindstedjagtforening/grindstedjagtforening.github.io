@@ -11,17 +11,6 @@ toc: true
 ### Flugtskydningsbanen har start af RAH den 4. april
 og træning hver onsdag 18.00 - 21.00
 ### Ansøgning om tilskud til planter senest den 1. juni, se skema under Natur og Vildtplejeudvalg
-### Træning på riffelbanen alle torsdag i april og maj frem til den 16. maj
+### Træning på riffelbanen alle torsdag i august.
 
-Den 6. april kl 18.00 - 21.00 (til solnedgang) Skydning på riffelbanen i Frodeslund.
-
-Den 13. april kl 18.00 - 21.00 (solnedgang) Skydning på riffelbanen i Frodeslund.
-
-Den 20. april kl 18.00 - 21.00 Skydning på riffelbanen i Frodeslund.
-
-Den 27. april kl 18.00 - 21.00 Skydning på riffelbanen i Frodeslund.
-
-Den 4. maj kl 18.00 - 21.00 Skydning på riffelbanen i Frodeslund.
-
-Den 11. maj kl 18.00 - 21.00 Skydning på riffelbanen i Frodeslund.
 ### Hvalpetræning starter 7. august med afslutning 4. september
