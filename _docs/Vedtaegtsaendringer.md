@@ -5,7 +5,9 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
-
+## Bukketræf 16. maj 2023
+En blæsende morgen er ovre og morgenens resultat præsenteres ved Lynghytten over en kop kaffe og et rundstykke.   
+![Bukketræf](/assets/Bukketræf 2023.png)
 ### Stigaskydning
 Der er afholdt tre aftener med skydning til bevægelig mål i form af en elgskive.
 Den sidste aften blev der skudt om pokalen. Her vandt Finn Lauridsen. Tillykke.

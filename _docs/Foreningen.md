@@ -5,6 +5,9 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-30T10:40:42-04:00
 toc: true
 ---
+## Bukketræf 16. maj 2023
+En blæsende morgen er ovre og morgenens resultat præsenteres ved Lynghytten over en kop kaffe og et rundstykke.   
+![Bukketræf](/assets/Bukketræf 2023.png)
 
 ## Fra Jagtudvalget om Rågereguleringen
 Tilladelse til regulering af skadevoldende vildt.  
