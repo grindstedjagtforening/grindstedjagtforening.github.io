@@ -34,7 +34,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Fra afholdte aktiviteter"
-    excerpt: ""
+    excerpt: "Nyt: Bukketræf"
     url: "/docs/Vedtaegtsaendringer/"
     btn_class: "btn--primary"
     btn_label: "Information" 
