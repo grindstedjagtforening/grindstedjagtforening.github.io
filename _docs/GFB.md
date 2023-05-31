@@ -7,26 +7,31 @@ toc: true
 ---
 ### Husk at sortere affaldet her på banen. Vi arbejder på at få informationen
 
-#### Program for GFB 2023. 
-#### April
-RAH starter op d. 4/4 fra kl. 18 – 21.  
-Træning alle onsdage fra kl. 18 – 21.
-#### Maj
-Træning alle onsdage fra kl. 18 – 21.  
-Dog er træningen onsdag d. 17 flyttet til fredag d. 19 (fra 18 – 21) pga. stor Trap stævne.  
-Nordisk trap d. 19, 20 og 21 (d. 19 fra kl. 18-21) og (d. 20 og 21 fra kl. 09- ?).
+#### Godkendte skydetider for flugtskydningsbanen 2023. 
+Lørdage fra 1.2 - 31.3 kl. 10 - 16.  
+Lørdage fra 1.9 - 30.11 kl. 10 - 16.  
+Tirsdage og onsdage fra 1.4 - 31.8 kl 16 - 21.  
+Desuden.  
+Lørdage fra kl. 9 til 20.  
+den 11.3, 15.4, 29.4, 20.5, 17,6, 19.8, 26.8, 9.9.  
+Søndage fra kl. 9 til 18.  
+den 12.3, 16.4, 30.4, 21.5, 18,6, 20.8, 27.8, 10.9.  
 #### Juni
+Holdskydning alle tirsdage fra kl. 18 - 21
 Træning alle onsdage fra kl. 18 – 21.
 #### Juli
+Holdskydning alle tirsdage fra kl. 18 - 21
 Træning alle onsdage fra kl. 18 – 21.
 #### August
-Træning alle onsdage fra kl. 18 – 21.
-Kommune mesterskab i Vesterhede d. 16/8 fra kl. 17:30 – ?.
-Tirsdage d. 15, 22 og 29/8 afholder GJF pokalskydning for medlemmer af Billund, Hejnsvig og Grindsted jagtforening fra kl. 18 – 21.
+Tirsdage d. 15., 22. og 29. afholder GJF pokalskydning for medlemmer af Billund, Hejnsvig og Grindsted jagtforening fra kl. 18 – 21.   
+Træning alle onsdage fra kl. 18 – 21.   
+Kommunemesterskab i Vesterhede d. 16/8 fra kl. 17:30 – ?.
 #### September
-Nordisk trap d. 9/9 fra kl. 9 - ?.
+Træning alle lørdage fra kl. 10 – 16.   
+Nordisk trap d. 9/9 fra kl. 9 - (senest 20).   
+Måske Nordisk trap d. 10/9 fra kl. 9 - (senest 18).   
 #### Oktober
-Lukket.
+Lukket. (Med forbehold for ændringer)
 #### November
-Juleknas skydning d. 25/11 fra kl. 11 – 14.
+Juleknas skydning d. 25/11 fra kl. 11 – 14.   
 Med forbehold for ændringer. 
