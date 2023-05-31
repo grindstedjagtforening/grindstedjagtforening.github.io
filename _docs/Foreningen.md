@@ -6,7 +6,7 @@ last_modified_at: 2023-03-30T10:40:42-04:00
 toc: true
 ---
 ## Riffelbanen Frodeslund (bag Flisværket i Grindsted)
-Vi har åben alle torsdage i august fra kl 18.00 til 21.00 (dog senest ved solnedgang). Alle er velkomne, du behøver ikke at være medlem af GJF. Der er øl og vand og pølser på grillen. Vi skyder på 100 meter og 200 meter og der er mulighed for indskydning i bænk med erfarne instruktører. Stedet er Tingvejen 394 Grindsted
+Vi har åben alle torsdage i august fra kl 18.00 til 21.00 (dog senest ved solnedgang). Alle er velkomne, du behøver ikke at være medlem af GJF. Der kan købes øl og vand og der er pølser på grillen. Vi skyder på 100 meter og 200 meter og der er mulighed for indskydning i bænk med erfarne instruktører. Stedet er Tingvejen 394 Grindsted
 
 
 
