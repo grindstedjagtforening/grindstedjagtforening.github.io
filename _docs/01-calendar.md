@@ -8,7 +8,15 @@ toc: true
 
 
 ### Sommerdressur starter 3. april med afslutning den 19. juni
-### Flugtskydningsbanen har start af RAH den 4. april
+### Kalender 2023
+6. juni 16 - 21 Flugtskydningsbanen Holdskydning fra kl 18.00
+7. juni 16 - 21 Flugtskydningsbanen Træning fra 18.00
+13. juni 16 - 21 Flugtskydningsbanen Holdskydning fra kl 18.00
+14. juni 16 - 21 Flugtskydningsbanen Træning fra 18.00
+20. juni 16 - 21 Flugtskydningsbanen Holdskydning fra kl 18.00
+21. juni 16 - 21 Flugtskydningsbanen Træning fra 18.00
+27. juni 16 - 21 Flugtskydningsbanen Holdskydning fra kl 18.00
+28. juni 16 - 21 Flugtskydningsbanen Træning fra 18.00
 og træning hver onsdag 18.00 - 21.00
 ### Ansøgning om tilskud til planter senest den 1. juni, se skema under Natur og Vildtplejeudvalg
 ### Træning på riffelbanen alle torsdage i august.
