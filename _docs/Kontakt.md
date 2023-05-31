@@ -9,17 +9,17 @@ Klubhus: Lynghytten, Vesterhedevej 3, Grindsted.
 
 Riffelbane: Tingvejen 394 (bag Flisværket). 
 
-Formand: Martin Moen: 40927746. 
+Formand: Martin Moen: tlf 40927746. 
 Næstformand: Kim Brogaard. 
-Kasserer: Vagn Jensen 51578740,  
+Kasserer: Vagn Jensen tlf 51578740,  
 mail: postmaster@grindstedjagtforening.dk   
 Sekretær: Kim Brogaard.   
-Jagtudvalg: Finn Lauridsen 40417515 og Christoffer Teglgaard.   
-Flugtskydningsudvalg (GFB): Heino Hansen 22440300 og Lars Hjorth.   
+Jagtudvalg: Finn Lauridsen tlf 40417515 og Christoffer Teglgaard.   
+Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300 og Lars Hjorth.   
 Aktivitetsudvalg: Kim Brogaard.   
-Natur-og Vildtplejeudvalg: Kim Hansen.  
+Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819
 Hundeudvalg: Rasmus Nissen.  
-Riffeludvalg: Finn Lauridsen 40417515  
+Riffeludvalg: Finn Lauridsen tlf 40417515  
 
 Bankforbindelse: Sydbank.    
 MobilePay GJF: 46352.    
