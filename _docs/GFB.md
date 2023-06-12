@@ -20,14 +20,14 @@ den 12.3, 16.4, 30.4, 21.5, 18,6, 20.8, 27.8, 10.9.
 Holdskydning alle tirsdage fra kl. 18 - 21
 Træning alle onsdage fra kl. 18 – 21.
 #### Juli
-Holdskydning alle tirsdage fra kl. 18 - 21
+Holdskydning slutter med festskydning lørdag 8. juli     
 Træning alle onsdage fra kl. 18 – 21.
 #### August
 Tirsdage d. 15., 22. og 29. afholder GJF pokalskydning for medlemmer af Billund, Hejnsvig og Grindsted jagtforening fra kl. 18 – 21.   
 Træning alle onsdage fra kl. 18 – 21.   
 Kommunemesterskab i Vesterhede d. 16/8 fra kl. 17:30 – ?.
 #### September
-Træning alle lørdage fra kl. 10 – 16.   
+Ingen træning lørdage i september.   
 Nordisk trap d. 9/9 fra kl. 9 - (senest 20).   
 Måske Nordisk trap d. 10/9 fra kl. 9 - (senest 18).   
 #### Oktober
