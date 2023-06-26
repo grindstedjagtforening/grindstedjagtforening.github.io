@@ -5,6 +5,31 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
+## Afslutning af sommerdressuren
+Vi havde afslutning på forårets sommerdressur mandag den 19/6.
+Over sæsonen har 20 kursister deltaget, fordelt på mellemdressur og udvidet dressur.
+ 
+Sæsonen blev afsluttet med afprøvning af vores hunde, samt lidt hyggeligt samvær.
+ 
+Følgende blev præmieret.
+ 
+Udvidet:
+ 
+Vinder, Ruhår Alba ført af Thorkild Hansen.  
+Vinder, Ruhår Tessa ført af Torben Abildstrup.   
+Vinder, Kl. Mynsterlænder ført af Tanja Rønhoff.  
+Mellem:
+ 
+Vinder, Labrador ført af Jesper Møbjerg.  
+Vinder, FT Springer Spaniel ført af Gert Thomsen.   
+Vinder, Labrador ført af Claus Jensen.   
+ 
+Hundeudvalgt takker for en god sæson og håber vi ses igen i 2024.
+ 
+Husk- Hvalpe og ung hunde træning til aug med opstart 7/8 kl. 19.00.
+ 
+Mvh
+Hundeudvalget.
 ## Bukketræf 16. maj 2023
 En blæsende morgen er ovre og morgenens resultat præsenteres ved Lynghytten over en kop kaffe og et rundstykke.   
 ![Bukketræf](/assets/Bukketræf 2023.png)

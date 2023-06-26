@@ -9,13 +9,6 @@ toc: true
 
 ### Sommerdressur starter 3. april med afslutning den 19. juni
 ### Kalender 2023
-Tirsdag den 6. juni Flugtskydningsbanen Holdskydning fra kl 18.00 til 21.00.      
-Onsdag den 7. juni Flugtskydningsbanen Træning fra 18.00 til 21.00.  
-Tirsdag den 13. juni Flugtskydningsbanen Holdskydning fra kl 18.00 til 21.00.  
-Onsdag den 14. juni Flugtskydningsbanen Træning fra 18.00 til 21.00.   
-Mandag den 19. juni Afslutning af sommerdressuren.   
-Tirsdag den 20. juni Flugtskydningsbanen Holdskydning fra kl 18.00 til 21.00.  
-Onsdag den 21. juni Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Tirsdag den 27. juni Flugtskydningsbanen Holdskydning fra kl 18.00 til 21.00.   
 Onsdag den 5. juli Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Lørdag den 8. juli Afslutning Festskydning fra 09:00 til 21:00.
