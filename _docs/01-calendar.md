@@ -17,12 +17,13 @@ Onsdag den 19. juli Flugtskydningsbanen Træning fra 18.00 til 21.00.
 Onsdag den 26. juli Flugtskydningsbanen Træning fra 18.00 til 21.00.     
 Onsdag den 2. august Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Torsdag den 3. august Riffelbanen Træning og indskydning fra 18.00.   
+Mandag den 7. august. Start på hvalpetræningen ved Lynghytten kl 19.00.  
 Onsdag den 9. august Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Torsdag den 10. august Riffelbanen Træning og indskydning fra 18.00.   
-Tirsdag den 15. august Flugtskydningsbanen Pokalskydning fra 18.00 til 21.00.    
+Tirsdag den 15. august Flugtskydningsbanen træning for alle jægerefra 18.00 til 21.00.    
 Onsdag den 16. august Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Torsdag den 17. august Riffelbanen Træning og indskydning fra 18.00.   
-Tirsdag den 22. august Flugtskydningsbanen Pokalskydning fra 18.00 til 21.00.    
+Tirsdag den 22. august Flugtskydningsbanen træning for alle jægere fra 18.00 til 21.00.    
 Onsdag den 23. august Flugtskydningsbanen Træning fra 18.00 til 21.00.   
 Torsdag den 24. august Riffelbanen Træning og indskydning fra 18.00.   
 Lørdag den 26. august Containerskydning fra 10.00 til 18.00.   
