@@ -17,12 +17,14 @@ Med start mandag den 7. august kl 19:00.
 Tilmelding til Rasmus. 
 rasmus@dkautomobiler.dk.  
 Telefon 30655803.   
-Prisen er 250 kr for de fem gange og betales.      
+Prisen er 250 kr for de fem gange og betales med 
 MobilePay box60996.   
 Alle deltagne hunde skal være vaccineret.   
 ## Riffelbanen Frodeslund (bag Flisværket i Grindsted)
 Vi har åben alle torsdage i august fra kl 18.00 til 21.00 (dog senest ved solnedgang). Alle er velkomne, du behøver ikke at være medlem af GJF. Der kan købes øl og vand og der er pølser på grillen. Vi skyder på 100 meter og 200 meter og der er mulighed for indskydning i bænk med erfarne instruktører.    
-Stedet er Tingvejen 394 Grindsted
+Stedet er Tingvejen 394 Grindsted.  
+P.S.   
+Billund Jagtforening holder banen åben 9. og 16. og 23. og 30. august kl 18.00 - 21.00. 
 
 ## Træning på flugtskydningsbanen 3 tirsdage i august.
 Forud for jagtsæsonen er det tid til at få genopfrisket svinget i haglbøssen. Det er vigtigt at få trænet og fá skudt nogle skud med dit haglgevær, som måske har stået i våbenskabet siden januar jagterne.
