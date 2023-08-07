@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "NYT: Prøv skudestokken ViperFlex på riffelbanen i august"
+    excerpt: "NYT: Prøv skydestokken ViperFlex på riffelbanen i august"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
