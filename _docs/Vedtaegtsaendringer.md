@@ -30,6 +30,9 @@ Husk- Hvalpe og ung hunde træning til aug med opstart 7/8 kl. 19.00.
  
 Mvh
 Hundeudvalget.
+## Riffelbanen den 3. august 2023
+Vi havde en speciel oplevelse torsdag den 3. august kl 17.00 på riffelbanen !!!! 
+Denne aften kom firmaet Nieload for at rådgive om deres produkter, brugen af disse og fremvise dem både fysisk og digitalt. Se deres hjemmese 'nieload.dk'
 ## Bukketræf 16. maj 2023
 En blæsende morgen er ovre og morgenens resultat præsenteres ved Lynghytten over en kop kaffe og et rundstykke.   
 ![Bukketræf](/assets/Bukketræf 2023.png)
