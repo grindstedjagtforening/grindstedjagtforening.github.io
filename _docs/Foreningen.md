@@ -20,18 +20,9 @@ Telefon 30655803.
 Prisen er 250 kr for de fem gange og betales med 
 MobilePay box60996.   
 Alle deltagne hunde skal være vaccineret.   
-## Riffelbanen den 3. august -  NYT --  NYT
-Vi har en speciel oplevelse klar til torsdag den 3. august kl 17.00 på riffelbanen !!!!   
-Denne aften kommer firmaet Nieload, der vil rådgive om deres produkter, brugen af disse og fremvise dem både fysisk og digitalt.   
-Der vil komme nogle nyheder der er så nye, at vi ikke kan få at vide hvad det er.    
-Kig endelig deres på hjemmesiden, nieload.dk, måske I skal have noget leveret på banen den 3. august.   
-Vi skal også huske hyggen og sanserne, så vi har inviteret “Vild med vin” som vil vise et udvalg af jagtrelaterede værtgaver og jagtrelateret vinsmagning. Der skal jo god vin til vildtkød.   
-Det vil være muligt at købe vin hvis smagsløgene pirres.   
-Det vil være muligt at tegne både ordinær og ekstra ordinær medlemsskab af Grindsted jagtforening på dagen (frivilligt ).   
-Kom og skyd, kigge, smage eller få en sludder.   
-Stedet er Riffelbanen, Tingvejen 394, Grindsted.
 ## Riffelbanen den 24. august  -  NYT -- NYT
-Grindsted Jagtforening har lånt 5 røde Viperflex til brug på riffelbanen i hele august måned.   
+Grindsted Jagtforening har lånt 5 røde Viperflex til brug på riffelbanen i hele august måned.
+Mød op den 10. eller 17. eller 24. eller den 31. august for at prøve denne skydestok.   
 Den 24. august kommer firmaet Viperflex på demobesøg og her vil det være muligt for aspiranter, kommende aspiranter, nysgerrige og andre som kunne tænke sig at prøve at skyde fra Viperflex, at få 4 skud under kyndig instruktion.    
 Bemærk man behøver ikke at have jagttegn for at prøve da der er uddannede instruktører til stede under instruktionen.    
 Hvis rekyl afskrækker nogen er der også en rekylfri salonriffel til rådighed     

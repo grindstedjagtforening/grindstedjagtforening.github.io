@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "NYT: Arrangementer med Nieload og Vild med Vin og ViperFlex på riffelbanen"
+    excerpt: "NYT: Prøv skudestokken ViperFlex på riffelbanen i august"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
