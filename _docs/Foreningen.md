@@ -20,29 +20,6 @@ Telefon 30655803.
 Prisen er 250 kr for de fem gange og betales med 
 MobilePay box60996.   
 Alle deltagne hunde skal være vaccineret.   
-## Riffelbanen den 24. august  -  NYT -- NYT
-Grindsted Jagtforening har lånt 5 røde Viperflex til brug på riffelbanen i hele august måned.
-Mød op den 10. eller 17. eller 24. eller den 31. august for at prøve denne skydestok.   
-Den 24. august kommer firmaet Viperflex på demobesøg og her vil det være muligt for aspiranter, kommende aspiranter, nysgerrige og andre som kunne tænke sig at prøve at skyde fra Viperflex, at få 4 skud under kyndig instruktion.    
-Bemærk man behøver ikke at have jagttegn for at prøve da der er uddannede instruktører til stede under instruktionen.    
-Hvis rekyl afskrækker nogen er der også en rekylfri salonriffel til rådighed     
-Direktøren Claus fra Viperflex lægger våben og patroner til.     
-Kom og mød en rigtig entusiast inden for både hagl- og riffelskydning, både jagt og bane   
-Stedet er Riffelbanen, Tingvejen 394, Grindsted.
-## Riffelbanen Frodeslund (bag Flisværket i Grindsted)
-Vi har åben alle torsdage i august fra kl 18.00 til 21.00 (dog senest ved solnedgang). Alle er velkomne, du behøver ikke at være medlem af GJF. Der kan købes øl og vand og der er pølser på grillen. Vi skyder på 100 meter og 200 meter og der er mulighed for indskydning i bænk med erfarne instruktører.    
-Stedet er Tingvejen 394 Grindsted.  
-P.S.   
-Billund Jagtforening holder banen åben 9. og 16. og 23. og 30. august kl 18.00 - 21.00. 
-
-## Træning på flugtskydningsbanen 3 tirsdage i august.
-Forud for jagtsæsonen er det tid til at få genopfrisket svinget i haglbøssen. Det er vigtigt at få trænet og fá skudt nogle skud med dit haglgevær, som måske har stået i våbenskabet siden januar jagterne.
-Som i alle andre forhold er det vigtigt at træne, hvis man vil blive bedre eller bare holde sidste ársniveau.
-Der bliver 2 træningsaftner i august: Tirsdag den 15. og tirsdag den 22. august fra kl. 18.00 til kl. 20.45.
-Tirsdag den 29. august afholder vi den ârlige Pokalskydning sammen med Billund jagtforening og Hejnsvig Jagtforening.
-
-## Natur- og Vildtplejeudvalget
-Husk at udlevering af de bestilte fasaner sker den 13. august kl 10.00. - 10:30
 
 ## Andekort til jagten ved Ribe
 Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.
