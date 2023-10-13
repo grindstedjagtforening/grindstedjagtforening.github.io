@@ -22,7 +22,7 @@ Se kort over arealet her:
 https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kort2023.png   
 Der er reguleringstilladelse til bramgæs på arealerne.      
 hent dokumentet her:   
-![Bramgas](/images/regulering2023.png)
+![Bramgæs](/images/regulering2023.png)
 
 ## Jagthundeinstruktør
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
