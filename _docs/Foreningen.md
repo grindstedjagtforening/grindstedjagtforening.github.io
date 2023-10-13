@@ -18,8 +18,8 @@ Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.   
 Se kort over arealet her:   
 
-![Kort](/images/Kort2023.png)
-Der er reguleringstilladelse til bramgæs på arealerne.      
+![Kort](/images/Kort2023.png)    
+Der er reguleringstilladelse til bramgæs på arealerne.   
 hent dokumentet her:   
 ![Bramgæs](/images/regulering2023.png)
 
