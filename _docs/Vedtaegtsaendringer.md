@@ -7,13 +7,13 @@ toc: true
 ---
 ## Førstehjælpskursus
 Første hjælps kursus i den 12-10-2023  
-Vi var 11 deltager  
-Et super godt kursus hvor alle blev sat i arbejde med uddannelse i førstehjælp    
-Jeg kan helt klart anbefale dette kursus til alle    
+Vi var 11 deltager.  
+Et super godt kursus hvor alle blev sat i arbejde med uddannelse i førstehjælp.    
+Jeg kan helt klart anbefale dette kursus til alle.    
 Et førstehjælps kursus hvor alle eksempler på ulykker var jagtrelateret så vi rigtig kunne sætte os ind i det, hvis vi nu var på jagt og en ulykke fandt sted.    
-Der blev serveret  kaffe -øl-vand og smørrebrød    
+Der blev serveret  kaffe -øl-vand og smørrebrød.    
 Kurset var sponsoreret af Danmarks Jægerforbund i samarbejde med trygfonden.    
-Tak til alle fremmødte og opbakningen omkring vores arrangement   
+Tak til alle fremmødte og opbakningen omkring vores arrangement.   
 
 
 
