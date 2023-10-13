@@ -5,6 +5,18 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
+## Førstehjælpskursus
+Første hjælps kursus i den 12-10-2023
+Vi var 11 deltager 
+Et super godt kursus hvor alle blev sat i arbejde med uddannelse i førstehjælp 
+Jeg kan helt klart anbefale dette kursus til alle 
+Et førstehjælps kursus hvor alle eksempler på ulykker var jagtrelateret så vi rigtig kunne sætte os ind i det, hvis vi nu var på jagt og en ulykke fandt sted. 
+Der blev serveret  kaffe -øl-vand og smørbrød 
+Kurset var sponsoreret af Danmarks Jægerforbund i samarbejde med trygfonden 
+Tak til alle fremmødte og opbakningen omkring vores arrangement
+
+
+
 ## Afslutning af sommerdressuren
 Vi havde afslutning på forårets sommerdressur mandag den 19/6.
 Over sæsonen har 20 kursister deltaget, fordelt på mellemdressur og udvidet dressur.
