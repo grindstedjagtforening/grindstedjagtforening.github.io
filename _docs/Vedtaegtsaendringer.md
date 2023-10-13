@@ -14,9 +14,9 @@ Et førstehjælps kursus hvor alle eksempler på ulykker var jagtrelateret så v
 Der blev serveret  kaffe -øl-vand og smørrebrød.    
 Kurset var sponsoreret af Danmarks Jægerforbund i samarbejde med trygfonden.    
 Tak til alle fremmødte og opbakningen omkring vores arrangement.   
-GJF-kursus-12 okt 23-2
 
 
+![Planter](/images/GJF-kursus-12 okt 23-2.JPEG)
 
 ## Afslutning af sommerdressuren
 Vi havde afslutning på forårets sommerdressur mandag den 19/6.
