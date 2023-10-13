@@ -16,14 +16,10 @@ Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2023- 31.januar
 Årskort/gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller kontant.
 Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.   
+Se kort over arealet her:   https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kort2023.jpg
 Der er reguleringetilladelse til bramgær på arealerne.      
-hent dokumentet her:   https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kopi%20til%20regulering%20af%20bramgæs%202023.jpg
-![Regulering 2023](/images/Kopi til regulering af bramgæs 2023.jpg)    
-## Førstehjælpskursus
-Grindsted Jagtforening tilbyder foreningens medlemmer til at deltage i et førstehjælpskursus med deltagerbevis.    
-    Torsdag den 12. oktober 2023 med start kl 15 og afslutning kl 22.   
-Det foregår i Lynghytten og der vil være forplejning undervejs på dagen til rimelige priser.    
-Sæt allerede nu kryds i kalenderen og giv os et prej, hvis du er interesseret.
+hent dokumentet her:   https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kopi%20til%20regulering%20af%20bramgæs%202023.jpg   
+
 ## Jagthundeinstruktør
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
 Se lidt på [Jægerforbundets hjemmeside](https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/) og tag kontakt til Martin Moen hvis din interesse er vakt.
