@@ -16,7 +16,7 @@ Kurset var sponsoreret af Danmarks Jægerforbund i samarbejde med trygfonden.
 Tak til alle fremmødte og opbakningen omkring vores arrangement.   
 
 
-![Planter](/images/GJF-kursus-12 okt 23-2.JPEG)
+![Førstehjælp](/images/GJF-kursus-12 okt 23-2.JPEG)
 
 ## Afslutning af sommerdressuren
 Vi havde afslutning på forårets sommerdressur mandag den 19/6.
