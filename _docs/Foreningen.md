@@ -17,7 +17,7 @@ Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2023- 31.januar
 Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.   
 Der er reguleringetilladelse til bramgær på arealerne.      
-hent dokumentet her:   
+hent dokumentet her:   https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kopi%20til%20regulering%20af%20bramgæs%202023.jpg
 ![Regulering 2023](/images/Kopi til regulering af bramgæs 2023.jpg)    
 ## Førstehjælpskursus
 Grindsted Jagtforening tilbyder foreningens medlemmer til at deltage i et førstehjælpskursus med deltagerbevis.    
