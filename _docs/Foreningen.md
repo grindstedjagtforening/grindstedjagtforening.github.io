@@ -19,7 +19,6 @@ Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 
 Se kort over arealet her:   
 
 ![Kort](/images/Kort2023.png)
-https://github.com/grindstedjagtforening/grindstedjagtforening.github.io/blob/main/images/Kort2023.png   
 Der er reguleringstilladelse til bramgæs på arealerne.      
 hent dokumentet her:   
 ![Bramgæs](/images/regulering2023.png)
