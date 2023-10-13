@@ -15,7 +15,6 @@ Der blev serveret  kaffe -øl-vand og smørrebrød.
 Kurset var sponsoreret af Danmarks Jægerforbund i samarbejde med trygfonden.    
 Tak til alle fremmødte og opbakningen omkring vores arrangement.   
 
-
 ![Førstehjælp](/images/GJF-kursus-12_okt_23-0.jpeg)
 
 ## Afslutning af sommerdressuren
