@@ -23,6 +23,8 @@ Der er reguleringstilladelse til bramgæs på arealerne.
 hent dokumentet her:   
 ![Bramgæs](/images/regulering2023.png)
 
+## Vinterdressur starter den 8. januar kl 19.00. 
+
 ## Jagthundeinstruktør
 Har du interesse i hundearbejde og kan du tænke dig blive instruktør?
 Se lidt på [Jægerforbundets hjemmeside](https://www.jaegerforbundet.dk/det-sker-i-dj/instruktor-uddannelserne/jagthundeinstruktor/) og tag kontakt til Martin Moen hvis din interesse er vakt.
