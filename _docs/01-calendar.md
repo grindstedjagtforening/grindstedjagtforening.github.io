@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-### Indendør vinterdressur starter den 8. januar kl 19.00. 
+### Indendørs vinterdressur starter den 8. januar kl 19.00. 
 
 ### Kalender 2023
 Lørdag den 25. novemberr Flugtskydningsbanen Juleknasskydning fra 11.00 til 14.00. (banen åben 10.00-16.00)
