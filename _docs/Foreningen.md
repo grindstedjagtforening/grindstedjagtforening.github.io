@@ -9,19 +9,10 @@ toc: true
 
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 
-## Andekort til jagten ved Ribe
-Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.
-Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen. De seneste år har der været regulering af bramgæs inkluderet i andekortet.
-Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2023- 31.januar 2024). For jagten på gæs i august gælder særlige regler se Naturstyrelsen hjemmeside eller på GJF’s hjemmeside.
-Årskort/gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller kontant.
-Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund
-Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.   
-Se kort over arealet her:   
-
-![Kort](/images/Kort2023.png)    
-Der er reguleringstilladelse til bramgæs på arealerne.   
-hent dokumentet her:   
-![Bramgæs](/images/regulering2023.png)
+## Generalforsamling
+Der afholdes generalforsamling den 25. januar kl 19.30 i Lynghytten. 
+Dagsorden ifølge vedtægterne.
+Spisning før generalforsamling kl 18.30 Tilmelding til formanden inden den 17. januar.
 
 ## Vinterdressur starter den 8. januar kl 19.00. 
 
