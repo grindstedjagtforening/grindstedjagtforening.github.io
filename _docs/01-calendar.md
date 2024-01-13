@@ -7,8 +7,9 @@ toc: true
 ---
 
 
-### Indendørs vinterdressur starter den 8. januar kl 19.00. 
+### Indkaldelse til generalforsamling i Lynghytten den 25. januar 2024 kl 19.30.
+Dagsorden ifølge vedtægterne.
 
-### Kalender 2023
-Lørdag den 25. novemberr Flugtskydningsbanen Juleknasskydning fra 11.00 til 14.00. (banen åben 10.00-16.00)
+
+
 ### Knivkursus starter den 10. januar.
