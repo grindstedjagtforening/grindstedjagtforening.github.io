@@ -10,29 +10,28 @@ toc: true
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 
 ## Generalforsamling
-Indkaldelse til generalforsamling 2024.
-Husk tilmelding til spisning
-Generalforsamlingen afholdes torsdag 
-den 25. januar 2024 kl. 19,30 i Lynghytten.
-Dagsorden ifølge vedtægterne:
-Indkomne forslag skal være formanden i hænde senest den 10. januar 2024.
-Som traditionen byder vil jagtforeningen igen i 2024 inviterer på spisning kl. 18.30 inden generalforsamlingen. 
-Tilmelding til Martin Moen 
-senest den 18. januar.
-Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.
-Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.
-Dagsorden ifølge vedtægterne:
-Punkt 1. Valg af Dirigent og stemmetæller.
-Punkt 2. Formandens beretning og herunder udvalgenes beretning.
-Punkt 3. Regnskab.
-Punkt 4. Indkomne forslag
-Punkt 5. Fastlæggelse af kontingent.
-Punkt 6. Valg bestyrelsesmedlemmer.
-Punkt 7. Valg af suppleanter.
-Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
-Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg
-Punkt 10. Valg af 2 revisorer og 1 suppleant.
-Punkt 11. Eventuelt, herunder evt. uddeling af Kragepokalen.
+Indkaldelse til generalforsamling 2024.  
+Husk tilmelding til spisning  
+Generalforsamlingen afholdes torsdag   
+den 25. januar 2024 kl. 19,30 i Lynghytten.  
+Dagsorden ifølge vedtægterne:  
+Indkomne forslag skal være formanden i hænde senest den 10. januar 2024.    
+Som traditionen byder vil jagtforeningen igen i 2024 inviterer på spisning kl. 18.30 inden generalforsamlingen.     
+Tilmelding til Martin Moen senest den 18. januar.  
+Efter generalforsamlingen er foreningen vært ved en kop kaffe med småkager.  
+Vi håber at se rigtig mange af foreningens medlemmer. Det er her at du kan fremkomme med dine synspunkter og ideer, som kan være til inspiration for bestyrelsen.  
+Dagsorden ifølge vedtægterne:  
+Punkt 1. Valg af Dirigent og stemmetæller.  
+Punkt 2. Formandens beretning og herunder udvalgenes beretning.  
+Punkt 3. Regnskab.  
+Punkt 4. Indkomne forslag  
+Punkt 5. Fastlæggelse af kontingent.  
+Punkt 6. Valg bestyrelsesmedlemmer.  
+Punkt 7. Valg af suppleanter.  
+Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg  
+Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg   
+Punkt 10. Valg af 2 revisorer og 1 suppleant.  
+Punkt 11. Eventuelt, herunder evt. uddeling af Kragepokalen.   
 
 ## Vinterdressur starter den 8. januar kl 19.00. 
 
