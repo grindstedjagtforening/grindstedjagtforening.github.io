@@ -25,7 +25,7 @@ ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god 
 Også i år kommer årets knivkursushold og viser hvor langt de er nået med at lave deres egne knive.    
 Alle er velkommen til at tage deres egne knive med og vise hvad der er lavet tidligere.
 ## Riffelbanen
-Riffelskydning i 2020 på vores riffelbane i Frodeslund      
+Riffelskydning i 2024 på vores riffelbane i Frodeslund      
 Vi afholder i april og maj træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.    
 Har du endnu ikke set vore renoverede faciliteter, så benyt dig af muligheden nu.    
 Til dem som skal træne til riffelprøven tilbyder vi undervisning; bare sig det når I møder op - at I gerne vil træne til prøven - så vil en af vore instruktører følge jer.    
