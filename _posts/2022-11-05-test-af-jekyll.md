@@ -5,9 +5,8 @@ author: Webmaster
 categories: [aktiviteter]
 toc: true
 ---
-### Referat fra generalforsamling den 25. januar 2024
+## Referat fra generalforsamling den 25. januar 2024
 
-Referat fra generalforsamling den 25. januar 2024
 #### Referat fra generalforsamling i Grindsted Jagtforening, afholdt i Lynghytten den 25. januar 2024.
 Traditionen tro startede vi med fællesspisning klokken 18.30, også i år var menuen stegt flæsk med persillesovs og tilbehør.
 
@@ -94,7 +93,7 @@ Martin Damgård modtog Aktivpokalen, Martin har gennem mange år gjort en stor i
 Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er noget for dig. 
 
 
-### Referat fra generalforsamling den 26. januar 2023
+## Referat fra generalforsamling den 26. januar 2023
 
 Referat fra generalforsamling i Grindsted Jagtforening,                                                                                          afholdt i Lynghytten den 26. januar 2023.
 
