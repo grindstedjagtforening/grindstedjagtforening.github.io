@@ -15,3 +15,4 @@ Den 29. er pokalskydning for at afslutte træningen.
 
 ### Træning på Riffelbanen
 Banen er åben torsdage: 4 apr, 11 apr, 18 apr, 25 apr, 2 maj og 9 maj fra 17:30 til 21:00 eller senest ved solnedgang.  
+### Flugtskydningsbanen er åben alle lørdage i februar og marts fra 10:00 til 13:00 
