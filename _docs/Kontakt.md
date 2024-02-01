@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2023-02-02T10:40:42-04:00
+last_modified_at: 2024-02-01T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
@@ -14,11 +14,11 @@ Næstformand: Kim Brogaard.
 Kasserer: Vagn Jensen tlf 51578740,  
 mail: postmaster@grindstedjagtforening.dk   
 Sekretær: Kim Brogaard.   
-Jagtudvalg: Finn Lauridsen tlf 40417515 og Christoffer Teglgaard.   
+Jagtudvalg: Finn Lauridsen tlf 40417515 og Vagn Jensen   
 Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300 og Søren Christensen.   
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819
-Hundeudvalg: Rasmus Nissen.  
+Hundeudvalg: Michael Nielsen.  
 Riffeludvalg: Finn Lauridsen tlf 40417515  
 
 Bankforbindelse: Sydbank.    
