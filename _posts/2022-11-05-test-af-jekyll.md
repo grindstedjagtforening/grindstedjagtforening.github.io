@@ -6,6 +6,8 @@ categories: [aktiviteter]
 toc: true
 ---
 ## Referater fra generalforsamlingerne
+
+
 Traditionen tro startede vi med fællesspisning klokken 18.30, også i år var menuen stegt flæsk med persillesovs og tilbehør.
 
 Klokken 19.30 blev generalforsamlingen blæst i gang af 2 mand fra Hubertusblæserne, hvorefter formanden Martin Moen kunne byde velkommen til 32 stemmeberettigede medlemmer samt 4 gæster, som ikke var medlemmer og derfor ikke havde tale og stemmeret.
