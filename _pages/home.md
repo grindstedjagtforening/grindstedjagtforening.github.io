@@ -27,7 +27,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Natur og Vildtpleje"
-    excerpt: ""
+    excerpt: "Nyt ! Bestilling af fasaner"
     url: "/docs/NaturVildtPleje/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra Natur-og Vildtplejeudvalget"   
