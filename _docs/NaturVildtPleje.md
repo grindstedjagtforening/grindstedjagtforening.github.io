@@ -26,7 +26,7 @@ Fasanvoksefoder i 15 kgs sække kan bestilles til udlevering i august samtidig m
 Bestillingerne skal ske til Kim Hansen på tlf. 4064 8819   
 
 Fra arkivet er til inspiration vedhæftet en vejledning i bygning af en engelsk voliere.  
-(/images/Bygning af voliere GJF.jpg)
+![Voliere](/images/Bygning af voliere GJF.jpg)
 Kim Hansen
 
 
