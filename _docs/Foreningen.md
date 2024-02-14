@@ -14,7 +14,7 @@ Vi har nu afholdt generalforsamling og kan sige velkommen til Michael Nielsen i 
 Martin Moen modtog Kragepokalen. Martin havde indleveret 7 par ben (antal skud ukendt)   
 Martin Damgård modtog Aktivpokalen, Martin har gennem mange år gjort en stor indsats på banen og han er altid klar med en hjælpende hånd.   
 Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er noget for dig. 
-## bestilling af fasan til juli eller august.
+## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
 
 ## Stigaskydning.
