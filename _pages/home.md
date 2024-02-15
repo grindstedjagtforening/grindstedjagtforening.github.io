@@ -12,7 +12,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: ""
+    excerpt: "Lørdagsskydninger 10 til 13"
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra GFB" 
@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: ""
+    excerpt: "Skydning med luftriffel (Stiga) om torsdagen kl 19.00"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
