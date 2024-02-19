@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Skydning med luftriffel (Stiga) om torsdagen kl 19.00"
+    excerpt: "Skydning med luftriffel (Stiga) torsdag den 22. og 29. februar kl 19.00"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
