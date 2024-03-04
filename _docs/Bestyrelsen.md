@@ -11,6 +11,3 @@ Hjemmesiden er nu aktiv igen.
 ## GJF+GFB
 Sammenslutningen af GJF og GFB er nu en realitet og GJF’s vedtægter tilrettes ved generalforsamlingen i januar. De midler GFB havde stående i Vestjysk Bank er overført til GFB’s konto i Sydbank under GJF’s CVR-nummer. Det betyder at der nu er en direkte forbindelse mellem flugtskydningsaktiviteten og DJ. Det betyder også en forenkelt drift af det fælles klubhus Lynghytten og en billigere drift af alle aktiviteter mellem foreningen og banken og en langt mindre arbejdsbyrde med alle kontakter til kommunen og andre instanser i det dansk samfund. Man kan også sige at nu er vi tilbage til udgangspunktet da flygtskydningsbanen blev etableret som en del af Grindsted Jagtforenings aktiviteter for mange år siden.
 <br /><br />
-<strong>Jagtudvalget og jagten ved Ribe</strong>
-<br />
-Ande og gåsejagten ved Ribe på foreningens a
