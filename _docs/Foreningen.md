@@ -17,9 +17,6 @@ Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er n
 ## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
 
-## Stigaskydning.
-I februar har vi træning i skydning til løbende vildt på vores lille hjortebane i Lynghytten. Der skydes med luftgevær med kikkertsigte til bevægelig skive. En sjov diciplin.    
-Der skydes de sidste tre torsdage (15. , 22. og 29.) i februar med en afsluttende pokalskydning den sidste aften. Vi mødes alle dage kl 19.00 i Lynghytten.
 ## Trofæaften
 Trofæaften afholdes den 21. marts kl 19:00 i Lynghytten. Her vil vi gerne se alle trofæer fra den seneste jagtsæson.    
 Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel.    
