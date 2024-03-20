@@ -21,7 +21,7 @@ Tilmelding til Rasmus på telefon 30655803 eller mail rasmus@dkautomobiler.dk
 Pris kr 500 som betales ved tilmeldingen på mobilepay til box60996   
     
 Der tilbydes følgende hold.     
-### Mellem-niveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
+#### Mellem-niveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
 1. Repetition af Grunddressur.
 2. Apportering af hår- og fjervildt.
 3. Apportering fra vand.
