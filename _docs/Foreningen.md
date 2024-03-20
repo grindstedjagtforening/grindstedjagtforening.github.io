@@ -23,7 +23,7 @@ Der tilbydes følgende hold:
 Mellem-niveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
 1. Repetition af Grunddressur.
 2. Apportering af hår- og fjervildt.
-3. Apportering fra vand.
+3. Apportering fra vand.    
 Udvidet-niveau for øvede hunde, som kan apportere hår- og fjervildt.
 1. Repetition af grunddressur med højere sværhedsgrad.
 2. Apportering af hår- og fjervildt.
