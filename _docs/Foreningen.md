@@ -32,7 +32,7 @@ Der tilbydes følgende hold.
 3. Slæb.
 4. Apportering af rovvildt.
 5. Apportering fra vand af flere emner.
-6. Diverse diregeringsøvelser.
+6. Diverse dirigeringsøvelser.
     
 Hvalpetræning og unghunde grunddressur tilbydes til august.  
 ## Bestilling af fasaner til juli eller august.
