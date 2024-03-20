@@ -25,7 +25,6 @@ Der tilbydes følgende hold.
 1. Repetition af Grunddressur.
 2. Apportering af hår- og fjervildt.
 3. Apportering fra vand.
-       
 #### Udvidet niveau for øvede hunde, som kan apportere hår- og fjervildt.
 1. Repetition af grunddressur med højere sværhedsgrad.
 2. Apportering af hår- og fjervildt.
