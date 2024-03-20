@@ -19,11 +19,12 @@ Opstart den 8. april kl 19.00 ved Lynghytten på flugtskydningsbanen på Vesterh
 Træning alle mandage frem til den 24. juni 2024, dog undtaget 2. pinsedag.    
 Tilmelding til Rasmus på telefon 30655803 eller mail rasmus@dkautomobiler.dk   
 Pris kr 500 som betales ved tilmeldingen på mobilepay til box60996   
-Der tilbydes følgende hold:   
+Der tilbydes følgende hold.     
 Mellem-niveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
 1. Repetition af Grunddressur.
 2. Apportering af hår- og fjervildt.
-3. Apportering fra vand.    
+3. Apportering fra vand.
+       
 Udvidet-niveau for øvede hunde, som kan apportere hår- og fjervildt.
 1. Repetition af grunddressur med højere sværhedsgrad.
 2. Apportering af hår- og fjervildt.
@@ -31,6 +32,7 @@ Udvidet-niveau for øvede hunde, som kan apportere hår- og fjervildt.
 4. Apportering af rovvildt.
 5. Apportering fra vand af flere emner.
 6. Diverse diregeringsøvelser.
+    
 Hvalpetræning og unghunde grunddressur tilbydes til august.  
 ## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
