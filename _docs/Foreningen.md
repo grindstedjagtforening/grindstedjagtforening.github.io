@@ -13,7 +13,25 @@ toc: true
 Vi har nu afholdt generalforsamling og kan sige velkommen til Michael Nielsen i bestyrelsen idet Michael afløser Christoffer Teglgaard.   
 Martin Moen modtog Kragepokalen. Martin havde indleveret 7 par ben (antal skud ukendt)   
 Martin Damgård modtog Aktivpokalen, Martin har gennem mange år gjort en stor indsats på banen og han er altid klar med en hjælpende hånd.   
-Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er noget for dig. 
+Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er noget for dig.
+## Dressur for jagthunde
+Opstart den 8. april kl 19.00 ved Lynghytten på flugtskydningsbanen på Vesterhedevej 3.   
+Træning alle mandage frem til den 24. juni 2024, dog undtaget 2. pinsedag.    
+Tilmelding til Rasmus på telefon 30655803 eller mail rasmus@dkautomobiler.dk   
+Pris kr 500 som betales ved tilmeldingen på mobilepay til box60996   
+Der tilbydes følgende hold:   
+Mellem-niveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
+1. Repetition af Grunddressur.
+2. Apportering af hår- og fjervildt.
+3. Apportering fra vand.
+Udvidet-niveau for øvede hunde, som kan apportere hår- og fjervildt.
+1. Repetition af grunddressur med højere sværhedsgrad.
+2. Apportering af hår- og fjervildt.
+3. Slæb.
+4. Apportering af rovvildt.
+5. Apportering fra vand af flere emner.
+6. Diverse diregeringsøvelser.
+Hvalpetræning og unghunde grunddressur tilbydes til august.  
 ## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
 
