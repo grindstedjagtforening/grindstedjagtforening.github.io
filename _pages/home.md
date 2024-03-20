@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Trofæaften den 21. marts kl 19.00"
+    excerpt: "Trofæaften den 21. marts kl 19.00. Nu også tilmelding til hundedressur. Se her"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
