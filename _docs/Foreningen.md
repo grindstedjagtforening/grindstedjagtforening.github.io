@@ -2,7 +2,7 @@
 title: "Kommende aktiviteter"
 permalink: /docs/Foreningen/
 excerpt: "Information om og fra bestyrelsen."
-last_modified_at: 2024-02-01T17:40:42-04:00
+last_modified_at: 2024-04-22T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter
@@ -38,12 +38,6 @@ Hvalpetræning og unghunde grunddressur tilbydes til august.
 ## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
 
-## Trofæaften
-Trofæaften afholdes den 21. marts kl 19:00 i Lynghytten. Her vil vi gerne se alle trofæer fra den seneste jagtsæson.    
-Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel.    
-ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.   
-Også i år kommer årets knivkursushold og viser hvor langt de er nået med at lave deres egne knive.    
-Alle er velkommen til at tage deres egne knive med og vise hvad der er lavet tidligere.
 ## Riffelbanen
 Riffelskydning i 2024 på vores riffelbane i Frodeslund      
 Vi afholder i april og maj træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.    
