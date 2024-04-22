@@ -2,20 +2,16 @@
 title: "Kalender 2024"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2024-02-01T18:40:42-04:00
+last_modified_at: 2024-04-22T18:40:42-04:00
 toc: true
----
-Lørdag den 9. marts kl 10:00 - 13:00 Flugtskydningsbanen er åben for træning     
-Lørdag den 16. marts kl 10:00 - 13:00 Flugtskydningsbanen er åben for træning     
-Torsdag den 21. marts kl 19:00 Trofæaften i Lynghytten     
-Lørdag den 23. marts kl 10:00 - 13:00 Flugtskydningsbanen er åben for træning       
-Lørdag den 30. marts kl 10:00 - 13:00 Flugtskydningsbanen er åben for træning       
-Torsdag den 4. april kl 17:30 Riffelbanen er åben for træning og indskydning     
-Torsdag den 11.april kl 17:30 Riffelbanen er åben for træning og indskydning     
-Torsdag den 18.april kl 17:30 Riffelbanen er åben for træning og indskydning     
+---     
+Onsdag den 24. april kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
 Torsdag den 25.april kl 17:30 Riffelbanen er åben for træning og indskydning     
+Onsdag den 1. maj kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
 Torsdag den 2.maj kl 17:30 Riffelbanen er åben for træning og indskydning     
+Onsdag den 8. maj kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
 Torsdag den 9.maj kl 17:30 Riffelbanen er åben for træning og indskydning     
+Onsdag den 15. maj kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
 Torsdag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten     
 
 ### Træning på Riffelbanen
