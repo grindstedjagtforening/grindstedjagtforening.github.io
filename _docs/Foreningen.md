@@ -10,7 +10,8 @@ toc: true
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 ## NYT NYT  
 Forsvaret har åbnet op for en nyjæger bukkejagt lørdag den 25. maj kl. 400.   
-Er du interesseret så hurtig besked til Martin Moen !!!   
+Er du interesseret så hurtig besked til Martin Moen !!!  
+Du kan følge med på Facebook under gruppen: "Nyjæger kreds 4 Danmarks jægerforbund"   
 ## Generalforsamling
 Vi har nu afholdt generalforsamling og kan sige velkommen til Michael Nielsen i bestyrelsen idet Michael afløser Christoffer Teglgaard.   
 Martin Moen modtog Kragepokalen. Martin havde indleveret 7 par ben (antal skud ukendt)   
