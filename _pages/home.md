@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Bukkepral den 16. maj kl 08.00 i Lynghytten."
+    excerpt: "Forsvaret har åbnet op for en nyjæger bukkejagt lørdag den 25. maj kl. 400."
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
