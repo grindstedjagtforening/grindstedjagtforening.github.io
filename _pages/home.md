@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Nyt: Riffelbanen åbner allerede kl 15 den 9 maj til træning og indskydning på 100 meter og 200 meter. Forsvaret har åbnet op for en nyjæger bukkejagt lørdag den 25. maj kl. 400."
+    excerpt: "Nyt: Riffelbanen åbner allerede kl 15 den 9 maj til træning og indskydning på 100 meter og 200 meter."
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
