@@ -8,51 +8,33 @@ toc: true
 ## Se kalenderen for alle aktiviteter
 
 ## Se under GFB for aktiviterer på flugtskydningsbanen
-## NYT NYT  
-Forsvaret har åbnet op for en nyjæger bukkejagt lørdag den 25. maj kl. 400.   
-Er du interesseret så hurtig besked til Martin Moen !!!  
-Du kan følge med på Facebook under gruppen: "Nyjæger kreds 4 Danmarks jægerforbund"   
-## Generalforsamling
-Vi har nu afholdt generalforsamling og kan sige velkommen til Michael Nielsen i bestyrelsen idet Michael afløser Christoffer Teglgaard.   
-Martin Moen modtog Kragepokalen. Martin havde indleveret 7 par ben (antal skud ukendt)   
-Martin Damgård modtog Aktivpokalen, Martin har gennem mange år gjort en stor indsats på banen og han er altid klar med en hjælpende hånd.   
-Sportsfiskerne vil gerne have reguleret skarv, kontakt Martin Moen hvis det er noget for dig.
-## Dressur for jagthunde
-Opstart den 8. april kl 19.00 ved Lynghytten på flugtskydningsbanen på Vesterhedevej 3.   
-Træning alle mandage frem til den 24. juni 2024, dog undtaget 2. pinsedag.    
-Tilmelding til Rasmus på telefon 30655803 eller mail rasmus@dkautomobiler.dk   
-Pris kr 500 som betales ved tilmeldingen på mobilepay til box60996   
-    
-Der tilbydes følgende hold.     
-#### Mellemniveau for let øvede hunde, som har gennemgået grunddressur og kan apportere dummy.  
-1. Repetition af Grunddressur.
-2. Apportering af hår- og fjervildt.
-3. Apportering fra vand.
-    
-#### Udvidet niveau for øvede hunde, som kan apportere hår- og fjervildt.
-1. Repetition af grunddressur med højere sværhedsgrad.
-2. Apportering af hår- og fjervildt.
-3. Slæb.
-4. Apportering af rovvildt.
-5. Apportering fra vand af flere emner.
-6. Diverse dirigeringsøvelser.
-    
-Hvalpetræning og unghunde grunddressur tilbydes til august.  
+
+## Hvalpetræning for unge hunde
+Hvalpetræning for helt unge hunde starter den 12. august kl 19.00 ved Lynghytten på skydebanen Vesterhedevej 3.
+Du skal tilmelde dig til Rasmus på mail rasmus@dkautomobiler.dk eller telefon 91897396.
+Prisen for træningen er kr. 250 for fire gange og betales på mobilepay BOX60996
+Husk at deltagne hunde skal være vaccineret.
+
 ## Bestilling af fasaner til juli eller august.
 Se under Natur- og Vildtplejeudvalg.
 
 ## Riffelbanen
 Riffelskydning i 2024 på vores riffelbane i Frodeslund      
-Vi afholder i april og maj træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.    
+Vi afholder i august træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.    
 Har du endnu ikke set vore renoverede faciliteter, så benyt dig af muligheden nu.    
 Til dem som skal træne til riffelprøven tilbyder vi undervisning; bare sig det når I møder op - at I gerne vil træne til prøven - så vil en af vore instruktører følge jer.    
 Riffelbanen findes på Tingvejen i Grindsted, ved siden af flisværket.    
 Der står skilt til både flisværk og riffelbane ved hovedvejen. Til dem som taster adressen ind i GPS; brug denne adresse: Tingvejen 396, 7200 Grindsted   
-Der skydes fra kl. 17:30 til 21:00 (eller solnedgang hvis denne kommer før kl 21).   
-Torsdag 4 apr, 11 apr, 18 apr, 25 apr, 2 maj og 9 maj   
+Der skydes fra kl. 18:00 til 21:00 (eller solnedgang hvis denne kommer før kl 21).   
+Torsdage: 8. august, 15 august, 22. august, 29. august.   
 Der betales 30 kr for en aftentræning pr. skytte.   
 I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger som vi selv skyder, se detaljer på deres hjemmeside.
-## Rågeregulering 
-Jagtudvalget forvalter rågereguleringen for Billund Kommune.    
-Reguleringen på de voksne fugle er startet.   
-Er du interesseret i at deltage i denne regulering kan du henvende dig til Finn Lauridsen på telefon 40 41 75 15.
+
+## Andekort til jagten ved Ribe
+Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.
+Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen. De seneste år har der været regulering af bramgæs inkluderet i andekortet.
+Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2024- 31.januar 2025). For jagten på gæs i august gælder særlige regler se Naturstyrelsen hjemmeside eller på GJF’s hjemmeside.
+Årskort/gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller kontant.
+Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund
+For GJF kan indbetaling ske til MobilePay 46352
+Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi. I år har landmanden ikke plan for kreaturer på arealerne og har lovet at strøm til arealer med kreaturerne føres udenom vores arealer. 
