@@ -12,7 +12,7 @@ toc: true
 ## Hvalpetræning for unge hunde
 Hvalpetræning for helt unge hunde starter den 12. august kl 19.00 ved Lynghytten på skydebanen Vesterhedevej 3.   
 Du skal tilmelde dig til Rasmus på mail rasmus@dkautomobiler.dk eller telefon 91897396.
-Prisen for træningen er kr. 250 for fire gange og betales på mobilepay BOX60996   
+Prisen for træningen er kr. 250 for fire gange og betales på mobilepay BOX60996.   
 Husk at deltagne hunde skal være vaccineret.
 
 ## Bestilling af fasaner til juli eller august.
