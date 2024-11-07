@@ -24,4 +24,4 @@ For GJF kan indbetaling ske til MobilePay 46352
 Vi laver en bestigelsestur til området i august. Herom senere.    
 [Kort Ribejagten2024.pdf](https://github.com/user-attachments/files/16202117/Kort.Ribejagten2024.pdf).    
 Regulering
-![Bramgæs.pdf](/images/Regulering202024side1.jpg)
+[Bramgæs.pdf](/images/Regulering202024side1.jpg)
