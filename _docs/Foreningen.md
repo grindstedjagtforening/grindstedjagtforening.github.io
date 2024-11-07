@@ -20,8 +20,6 @@ Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2024- 31.januar
 Årskort/gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller kontant.    
 Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund    
 For GJF kan indbetaling ske til MobilePay 46352    
-Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi. I år har landmanden ikke plan for kreaturer på arealerne og har lovet at strøm til arealer med kreaturerne føres udenom vores arealer.    
-Vi laver en bestigelsestur til området i august. Herom senere.    
-[Kort Ribejagten2024.pdf](https://github.com/user-attachments/files/16202117/Kort.Ribejagten2024.pdf).    
-Regulering
-[Bramgæs.pdf](/images/Regulering202024side1.jpg)
+Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi. I år har landmanden ikke plan for kreaturer på arealerne og har lovet at strøm til arealer med kreaturerne føres udenom vores arealer. 
+[Kort Ribejagten2024.pdf](https://github.com/user-attachments/files/16202117/Kort.Ribejagten2024.pdf)
+![Kort Ribejagten2024.pdf](/images/Regulering2024side1.jpg)
