@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2024-02-01T10:40:42-04:00
+last_modified_at: 2024-11-01T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
