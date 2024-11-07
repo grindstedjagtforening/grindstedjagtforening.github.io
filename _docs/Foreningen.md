@@ -23,4 +23,4 @@ For GJF kan indbetaling ske til MobilePay 46352
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi. I år har landmanden ikke plan for kreaturer på arealerne og har lovet at strøm til arealer med kreaturerne føres udenom vores arealer.    
 Vi laver en bestigelsestur til området i august. Herom senere.    
 [Kort Ribejagten2024.pdf](https://github.com/user-attachments/files/16202117/Kort.Ribejagten2024.pdf). 
-![Fra Jægeren](/images/Regulering af Bramgæs 2024.pdf)
+![Fra Jægeren](/images/Regulering af Bramgæs 2024.png)
