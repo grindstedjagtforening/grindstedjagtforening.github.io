@@ -15,9 +15,6 @@ Du skal tilmelde dig til Rasmus på mail rasmus@dkautomobiler.dk eller telefon 9
 Prisen for træningen er kr. 250 for fire gange og betales på mobilepay BOX60996.   
 Husk at deltagne hunde skal være vaccineret.
 
-## Bestilling af fasaner til juli eller august.
-Se under Natur- og Vildtplejeudvalg.
-
 ## Riffelbanen
 Riffelskydning i 2024 på vores riffelbane i Frodeslund        
 Vi afholder i august træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.    
