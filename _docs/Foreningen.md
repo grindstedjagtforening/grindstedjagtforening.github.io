@@ -24,4 +24,4 @@ For GJF kan indbetaling ske til MobilePay 46352
 [Kort Ribejagten2024.pdf](https://github.com/user-attachments/files/16202117/Kort.Ribejagten2024.pdf)
 [Ribejagten2024](/images/Regulering2024side1.jpg)
 --
-![Ribejagten2024](/images/Regulering2024side2.jpg)
+[Ribejagten2024](/images/Regulering2024side2.jpg)
