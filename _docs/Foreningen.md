@@ -10,7 +10,7 @@ toc: true
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 
 ## Foredrag om hunde den 26. november 2024 i Lynghytten  
-[Fra møghund til jagthund](/images/fra møghund til jagthund.png).
+[Fra møghund til jagthund](/images/jagthund.png).
 
 ## Andekort til jagten ved Ribe.  
 
