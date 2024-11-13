@@ -17,7 +17,7 @@ KI. 19. 00 til ca. 21.00
 Sted: Lynghytten (ved
 flugtskydningsbanen)    
 Vesterhedevej 3, 7200 Grindsted    
-Tilmelding: send SMS med navn og antal deltagere Pả 20 600 770, senest 24. november.    
+Tilmelding: send SMS med navn og antal deltagere På 20 600 770, senest 24. november.    
 Pris: 25,00 kr. (betales på aftenen), MobilePay GJF: 46352    
 [Fra møghund til jagthund](/images/jagthund.png).
 
