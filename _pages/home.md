@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Foredrag om hunde den 26. november. Andejagt: Der er nu tilladelse til regulering af bramgæs"
+    excerpt: "Foredrag om hunde den 26. november.Andejagt: Der er nu tilladelse til regulering af bramgæs"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
