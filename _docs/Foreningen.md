@@ -11,7 +11,7 @@ toc: true
 
 ## Foredrag om hunde den 26. november 2024 i Lynghytten, Vesterhedevej 3, Grindsted
 Inspiration til alle hundefolk - sà har du lige fået jagthund eller har du haft hund i mange år, men kunne tænke dig ny inspiration.
-Grindsted Jagtforening inviterer til et inspirerende oplæg af Forbundsinstrukter Morten B. Brok fra Danmarks Jægerforbund. Morten vil komme med et indlœg over emnet; Fra "møghund" til jagthund, og der vil være rig mulighed for spørgsmål og diskussion.    
+Grindsted Jagtforening inviterer til et inspirerende oplæg af Forbundsinstruktør Morten B. Brok fra Danmarks Jægerforbund. Morten vil komme med et indlœg over emnet; Fra "møghund" til jagthund, og der vil være rig mulighed for spørgsmål og diskussion.    
 Dato: 26. november
 KI. 19. 00 til ca. 21.00    
 Sted: Lynghytte (ved
