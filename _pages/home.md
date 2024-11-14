@@ -21,7 +21,7 @@ feature_row:
     alt: "Tekst"
     title: "Jagtforeningen"
     excerpt: "Foredrag om hunde den 26. november.
-    Fordressur starter 6. januar 2025   
+    Fordressur starter 6. januar 2025.      
     Andejagt: Der er nu tilladelse til regulering af bramgæs"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
