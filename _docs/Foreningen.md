@@ -36,7 +36,7 @@ For GJF kan indbetaling ske til MobilePay 46352
 [Reguleringstilladelse side 1](/images/Regulering2024side1.jpg). 
 [Reguleringstilladelse side 2](/images/Regulering2024side2.jpg)
 
-Vinterdressur 2025:
+## Vinterdressur 2025:
 
 Så er det igen snart tid til fordressur.
 Alle I der har helt unge jagthunde og de som har hunde der endnu ikke er blevet helt lydige, tilbyder vi fordressur med fokus på lydighed og lettere apportering.
