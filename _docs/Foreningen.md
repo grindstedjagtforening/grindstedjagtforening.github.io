@@ -38,9 +38,9 @@ For GJF kan indbetaling ske til MobilePay 46352
 
 ## Vinterdressur 2025:
 
-Så er det igen snart tid til fordressur.
-Alle I der har helt unge jagthunde og de som har hunde der endnu ikke er blevet helt lydige, tilbyder vi fordressur med fokus på lydighed og lettere apportering.
-Det foregår i den store ridehal, Nollundvej 116, Grindsted.
+Så er det igen snart tid til fordressur.   
+Alle I der har helt unge jagthunde og de som har hunde der endnu ikke er blevet helt lydige, tilbyder vi fordressur med fokus på lydighed og lettere apportering.    
+Det foregår i den store ridehal, Nollundvej 116, Grindsted.    
 Vi starter mandag d. 6. Januar kl. 19:00 og derefter hver mandag frem til den 24. februar.
 For at kunne tilrettelægge forløbet, beder vi derfor om bindende tilmelding samt forudbetaling på MobilePay.
 
