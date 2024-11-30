@@ -6,13 +6,15 @@ last_modified_at: 2024-04-22T18:40:42-04:00
 toc: true
 ---     
 
-Onsdag den 8. maj kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
-Torsdag den 9.maj kl 15:00 Riffelbanen er åben for træning og indskydning     
-Onsdag den 15. maj kl 18:00 - 21:00 Flugtskydningsbanen er åben for træning       
+Mandag den 6. januar kl 19.00 starter hundetræningen
+Onsdag den 8. januar starter knivkursus.
+Torsdag den 30. januar Generalforsamling     
+Lørdag den 1. februar åbner Flugtskydningsbanen for træning
+Torsadg den 13. februar kl 19.00 Hjorteskydning på Stigabanen
 Torsdag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten     
 
 ### Træning på Riffelbanen
-Banen er åben torsdag den 9 maj fra 15:00 til 21:00  
+Banen er åben torsdage i april og maj indtil 16. maj  
 
 ### Bukketræf i Lynghytten
 Torsdag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten.
