@@ -10,17 +10,17 @@ toc: true
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 
 ## Generalforsamling torsdag den 30. januar 2025 kl 19:30.
-1. Valg af dirigent    
- 2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling    
-3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse    
- 4. Indkomne forslag    
- 5. Fastlæggelse af kontingent    
- 6. Valg af bestyrelsesmedlemmer     
-7. Valg af suppleanter    
- 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg     
-9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg    
-10. Valg af to revisorer og en revisorsuppleant   
- 11. Eventuelt    
+1. Valg af dirigent
+2.  Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
+3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse
+4. Indkomne forslag
+5. Fastlæggelse af kontingent
+6. Valg af bestyrelsesmedlemmer
+7. Valg af suppleanter
+8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
+9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg
+10. Valg af to revisorer og en revisorsuppleant
+11. Eventuelt    
     
 ## Vinterdressur 2025:
 
