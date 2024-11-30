@@ -12,7 +12,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: " Juleknasskydning d. 30/11 "
+    excerpt: " "
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra GFB" 
@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Foredrag om hunde den 26. november.
+    excerpt: "Generalforsamling den 30. januar 2025 kl 19:30.
     Fordressur starter 6. januar 2025.      
     Andejagt: Der er nu tilladelse til regulering af bramgæs"
     url: "/docs/Foreningen/"
