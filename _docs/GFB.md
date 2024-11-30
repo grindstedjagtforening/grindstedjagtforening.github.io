@@ -8,6 +8,6 @@ toc: true
 ### Program for GFB 2024.
 
  
-## November :
-Juleknas skydning d. 30/11 fra kl. 11 – 14.
- 
+## Året er snart gået :
+Alle ønskes en glædelig jul og et godt nytår.   
+Vi ses i begyndelsen af februar.
