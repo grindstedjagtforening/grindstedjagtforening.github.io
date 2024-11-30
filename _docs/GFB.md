@@ -10,4 +10,4 @@ toc: true
  
 ## Året er snart gået :
 Alle ønskes en glædelig jul og et godt nytår.   
-Vi ses i begyndelsen af februar.
+Vi ses til generalforsamlingen og/eller i begyndelsen af februar.
