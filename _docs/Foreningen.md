@@ -20,7 +20,8 @@ toc: true
 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg
 10. Valg af to revisorer og en revisorsuppleant
-11. Eventuelt    
+11. Uddeling af Aktivpokalen
+12. Eventuelt    
     
 ## Vinterdressur 2025:
 
@@ -37,6 +38,17 @@ Noter venligst navn på hund og ejer.
 Deltagende hunde skal være vaccineret.   
 
 Hundeudvalget i Grindsted Jagtforening
+## Knivkursus 2025
+Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
+Opstart er onsdag den 8. januar kl 19.00 i sløjdlokalet pả Vester Skole.   
+Går du og drømmer om den hele rigtig jagtkniv og ønsker du dig noget ingen har,   
+så har du igen i år muligheden for at lave din helt egen personlige jagtkniv.   
+Der er 12 pladser på holdet og vi ser frem til at få netop din tilmelding der er gældende når du har betalt og fået en bekræftelse.   
+Tilmelding skal ske til Heino Hansen på telefon 22 44 03 00   
+Vi ses til ca 10 aftener i knivenes tegn.   
+Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften
+OBS: Kniv og andre materialer kommer ud over denne pris.  
+Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
 
 ## Andekort til jagten ved Ribe.  
 
