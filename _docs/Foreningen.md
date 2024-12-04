@@ -49,7 +49,7 @@ Vi ses til ca 10 aftener i knivenes tegn.
 Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften
 OBS: Kniv og andre materialer kommer ud over denne pris.  
 Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
-
+![Fra tidligere år](/images/kniv.jpg)
 ## Andekort til jagten ved Ribe.  
 
 NYT: Der er nu reguleringstilladelse til bramgæs på arealerne ved Ribe.
