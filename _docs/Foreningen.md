@@ -53,7 +53,7 @@ Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.
 
 ## Andekort til jagten ved Ribe.  
 
-NYT: Der er nu reguleringstilladelse til bramgæs på arealerne ved Ribe.
+NYT: Der er nu reguleringstilladelse til bramgæs på arealerne ved Ribe. Udløber 31. december.
 
 Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.   
 Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen. De seneste år har der været regulering af bramgæs inkluderet i andekortet.    
