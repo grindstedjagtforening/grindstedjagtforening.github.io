@@ -8,9 +8,12 @@ toc: true
 
 Mandag den 6. januar kl 19.00 starter hundetræningen
 Onsdag den 8. januar starter knivkursus.
-Torsdag den 30. januar Generalforsamling     
-Lørdag den 1. februar åbner Flugtskydningsbanen for træning
-Torsadg den 13. februar kl 19.00 Hjorteskydning på Stigabanen
+Torsdag den 30. januar Generalforsamling kl 19:30 i Lynghytten
+Lørdag den 1. februar åbner Flugtskydningsbanen for træning hver lørdag
+Torsdag den 13. februar kl 19.00 Hjorteskydning på Stigabanen  
+Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen
+Torsdag den 27. februar kl 19.00 Hjorteskydning på Stigabanen
+Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten
 Torsdag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten     
 
 ### Træning på Riffelbanen
