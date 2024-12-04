@@ -12,7 +12,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: " "
+    excerpt: "Flugtskydning starter 1.februar 2025 "
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra GFB" 
@@ -21,7 +21,8 @@ feature_row:
     alt: "Tekst"
     title: "Jagtforeningen"
     excerpt: "Generalforsamling den 30. januar 2025 kl 19:30.
-    Fordressur starter 6. januar 2025.      
+    Fordressur starter 6. januar 2025.
+    Knivkursus starter 8. januar 2025.      
     Andejagt: Der er nu tilladelse til regulering af bramgæs"
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
