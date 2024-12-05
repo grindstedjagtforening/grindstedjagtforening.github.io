@@ -13,13 +13,13 @@ Lørdag den 1. februar åbner Flugtskydningsbanen for træning hver lørdag
 Torsdag den 13. februar kl 19.00 Hjorteskydning på Stigabanen  
 Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen
 Torsdag den 27. februar kl 19.00 Hjorteskydning på Stigabanen
-Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten
+Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten    
 Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten     
 
 ### Træning på Riffelbanen
 Banen er åben torsdage i april og maj indtil 16. maj  
 
-### Bukketræf i Lynghytten
+### Bukketræf i Lynghytten   
 Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten.
 Der vil være kaffe og rundstykker og en snak om morgenens oplevelser.
 
