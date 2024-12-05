@@ -1,8 +1,8 @@
 ---
-title: "Kalender 2024"
+title: "Kalender 2025"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2024-04-22T18:40:42-04:00
+last_modified_at: 2024-12-05T18:40:42-04:00
 toc: true
 ---     
 
