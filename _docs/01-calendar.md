@@ -11,7 +11,8 @@ Torsdag den 13. februar kl 19.00 Hjorteskydning på Stigabanen
 Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen     
 Torsdag den 27. februar kl 19.00 Hjorteskydning på Stigabanen     
 Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten         
-Alle torsdage i april er riffelbanen åben fra kl 18.    
+Alle torsdage i april er riffelbanen åben fra kl 18.
+
 Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten     
 
 ### Træning på Riffelbanen
