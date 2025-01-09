@@ -20,7 +20,7 @@ Aktivitetsudvalg: Kim Brogaard.
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
 Hundeudvalg: Michael Nielsen.  
 Riffeludvalg: Finn Lauridsen tlf 40417515    
-Hubertus Blæserne: Lars Christensen, 61467990
+Hubertus Blæserne: Lars Christensen, 61467990   
 
 Bankforbindelse: Sydbank.    
 MobilePay GJF: 46352.    
