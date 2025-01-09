@@ -23,21 +23,6 @@ toc: true
 11. Uddeling af Aktivpokalen
 12. Eventuelt    
     
-## Vinterdressur 2025:
-
-Så er det igen snart tid til fordressur.   
-Alle I der har helt unge jagthunde og de som har hunde der endnu ikke er blevet helt lydige, tilbyder vi fordressur med fokus på lydighed og lettere apportering.    
-Det foregår i den store ridehal, Nollundvej 116, Grindsted.    
-Vi starter mandag d. 6. Januar kl. 19:00 og derefter hver mandag frem til den 24. februar.
-For at kunne tilrettelægge forløbet, beder vi derfor om bindende tilmelding samt forudbetaling på MobilePay.
-
-Tilmelding til Rasmus:  
-rasmus@dkautomamobiler.dk eller tlf. 91897396.  
-Pris 600 kr som betales på MobilePay box60996.   
-Noter venligst navn på hund og ejer.  
-Deltagende hunde skal være vaccineret.   
-
-Hundeudvalget i Grindsted Jagtforening
 ## Knivkursus 2025
 Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
 Opstart er onsdag den 8. januar kl 19.00 i sløjdlokalet pả Vester Skole.   
