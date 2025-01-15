@@ -5,7 +5,7 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2024-12-05T18:40:42-04:00
 toc: true
 ---     
-Torsdag den 30. januar Generalforsamling kl 19:30 i Lynghytten     
+Torsdag den 30. januar Generalforsamling kl 19:30 i Lynghytten, tilmelding til spisning     
 Lørdag den 1. februar åbner Flugtskydningsbanen for træning hver lørdag     
 Torsdag den 13. februar kl 19.00 Hjorteskydning på Stigabanen  
 Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen     
