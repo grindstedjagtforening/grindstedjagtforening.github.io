@@ -13,15 +13,30 @@ toc: true
 1. Valg af dirigent
 2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
 3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse
-4. Indkomne forslag
-5. Fastlæggelse af kontingent
-6. Valg af bestyrelsesmedlemmer
-7. Valg af suppleanter
-8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
-9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg
-10. Valg af to revisorer og en revisorsuppleant
-11. Uddeling af Aktivpokalen
-12. Eventuelt    
+4. Indkomne forslag:
+§5.5 Ændres med rettelse af henvisning til §30.
+Eksklusion af Danmarks Jægerforbund kan ske i overensstemmelse med Danmarks
+Jægerforbunds vedtægter §30.
+§12 Ændres:
+Ny tekst:
+12.1 Foreningen tegnes af formanden og kassereren.
+12.2 Meddelelse af fuldmagt til regnsskabsførerne for henholdsvis udvalgene Natur- og
+Vildtplejeudvalg og Flugtskydningsudvalg til udvalgenes løbende dispositioner kan gives af
+bestyrelsen.
+Gammel tekst:
+§12 Tegningsret
+12.1 Foreningen tegnes af den samlede bestyrelse eller af formanden/næstformanden, sammen med
+et andet bestyrelsesmedlem.
+12.2 Meddelelse af fuldmagt til foreningens løbende dispositioner kan gives til kassereren og
+regnsskabsførerne i Grindsted Jagtforenings Natur- og Vildtplejeudvalg og Grindsted Flugtskydningsudvalg.
+6. Fastlæggelse af kontingent
+7. Valg af bestyrelsesmedlemmer
+8. Valg af suppleanter
+9. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg
+10. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg
+11. Valg af to revisorer og en revisorsuppleant
+12. Uddeling af Aktivpokalen
+13. Eventuelt    
     
 ## Knivkursus 2025
 Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
