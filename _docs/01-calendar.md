@@ -2,7 +2,7 @@
 title: "Kalender 2025"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2024-12-05T18:40:42-04:00
+last_modified_at: 2025-1-22T18:40:42-04:00
 toc: true
 ---     
 Torsdag den 30. januar Generalforsamling kl 19:30 i Lynghytten, tilmelding til spisning     
