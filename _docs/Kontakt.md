@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2024-11-01T10:40:42-04:00
+last_modified_at: 2025-01-01T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
@@ -43,7 +43,7 @@ Ordinære:	928kr
 Husstand:	510kr  
 Senior - Født 1948 eller tidl.: 584kr  
 Ekstraordinær:	145kr   
-Ungdom 16-25 år:	498kr  
+Ungdom 16-25 år:	498 kr  
 Støttemedlem: 165kr (mulighed for våbenpåtegning). 
 
 
