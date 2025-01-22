@@ -11,7 +11,7 @@ toc: true
 
 ## Generalforsamling torsdag den 30. januar 2025 kl 19:30.
 1. Valg af dirigent
-2.  Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
+2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
 3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse
 4. Indkomne forslag
 5. Fastlæggelse af kontingent
