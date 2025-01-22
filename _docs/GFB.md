@@ -9,7 +9,7 @@ toc: true
 Generalforsamling den 30. januar 2025 kl 19:30 i Lynghytten   
 Februar: Træning alle lørdage 10 - 12.   
 Marts: Træning alle lørdage 10 - 12.  
-April: Træning alle onsdage 10 - 12.  
+April: Træning alle onsdage 10 - 12.    
         RAH starter den 1. fra 18 - 21   
 Maj: Træning alle onsdage 18 - 21.  
 Juni: Træning alle onsdage 18 - 21.   
