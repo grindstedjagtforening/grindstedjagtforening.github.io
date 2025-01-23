@@ -13,7 +13,7 @@ toc: true
 1. Valg af dirigent
 2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
 3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse
-4. Indkomne forslag:
+4. Indkomne forslag: 
 §5.5 Ændres med rettelse af henvisning til §30.
 Eksklusion af Danmarks Jægerforbund kan ske i overensstemmelse med Danmarks
 Jægerforbunds vedtægter §30.
