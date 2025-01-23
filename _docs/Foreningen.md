@@ -13,22 +13,22 @@ toc: true
 1. Valg af dirigent
 2. Aflæggelse af beretning om foreningens og udvalgenes virke siden sidste ordinære generalforsamling
 3. Fremlæggelse af det af revisorerne gennemgåede årsregnskab til godkendelse
-4. Indkomne forslag: 
-§5.5 Ændres med rettelse af henvisning til §30.
-Eksklusion af Danmarks Jægerforbund kan ske i overensstemmelse med Danmarks
-Jægerforbunds vedtægter §30.
+4. Indkomne forslag:    
+§5.5 Ændres med rettelse af henvisning til §30.   
+     Eksklusion af Danmarks Jægerforbund kan ske i overensstemmelse med Danmarks
+     Jægerforbunds vedtægter §30.
 §12 Ændres:
-Ny tekst:
-12.1 Foreningen tegnes af formanden og kassereren.
+Ny tekst:    
+12.1 Foreningen tegnes af formanden og kassereren.    
 12.2 Meddelelse af fuldmagt til regnsskabsførerne for henholdsvis udvalgene Natur- og
 Vildtplejeudvalg og Flugtskydningsudvalg til udvalgenes løbende dispositioner kan gives af
-bestyrelsen.
-Gammel tekst:
-§12 Tegningsret
+bestyrelsen.    
+Gammel tekst:    
+§12 Tegningsret   
 12.1 Foreningen tegnes af den samlede bestyrelse eller af formanden/næstformanden, sammen med
-et andet bestyrelsesmedlem.
+et andet bestyrelsesmedlem.    
 12.2 Meddelelse af fuldmagt til foreningens løbende dispositioner kan gives til kassereren og
-regnsskabsførerne i Grindsted Jagtforenings Natur- og Vildtplejeudvalg og Grindsted Flugtskydningsudvalg.
+regnsskabsførerne i Grindsted Jagtforenings Natur- og Vildtplejeudvalg og Grindsted Flugtskydningsudvalg.    
 6. Fastlæggelse af kontingent
 7. Valg af bestyrelsesmedlemmer
 8. Valg af suppleanter
