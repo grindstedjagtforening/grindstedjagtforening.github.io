@@ -38,12 +38,12 @@ Hejnsvig: Jens Holm Christensen - 20 88 91 66
 Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76   
 Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44. 
 
-###### Kontingent 2024
-Ordinære:	928kr  
-Husstand:	510kr  
-Senior - Født 1948 eller tidl.: 584kr  
-Ekstraordinær:	145kr   
-Ungdom 16-25 år:	498 kr  
-Støttemedlem: 165kr (mulighed for våbenpåtegning). 
+###### Kontingent 2025
+Ordinære:	961kr  
+Husstand:	527kr  
+Senior - Født 1948 eller tidl.: 604kr  
+Ekstraordinær:	147kr   
+Ungdom 16-25 år:	466 kr  
+Støttemedlem: 170kr (mulighed for våbenpåtegning). 
 
 
