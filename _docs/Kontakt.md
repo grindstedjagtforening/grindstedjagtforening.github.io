@@ -39,7 +39,7 @@ Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76
 Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44. 
 
 ###### Kontingent 2025
-Ordinære:	961kr  
+Ordinære:	961kr    
 Husstand:	527kr  
 Senior - Født 1948 eller tidl.: 604kr  
 Ekstraordinær:	147kr   
