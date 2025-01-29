@@ -7,8 +7,8 @@ toc: true
 ---
 ### Program for GFB 2025.
 Generalforsamling den 30. januar 2025 kl 19:30 i Lynghytten   
-Februar: Træning alle lørdage 10 - 12.   
-Marts: Træning alle lørdage 10 - 12.  
+Februar: Træning alle lørdage 10 - 13.   
+Marts: Træning alle lørdage 10 - 13.  
 April: Træning alle onsdage 18 - 21.    
         RAH starter den 1. fra 18 - 21   
 Maj: Træning alle onsdage 18 - 21.  
