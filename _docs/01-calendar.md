@@ -51,21 +51,21 @@ Onsdag den 30. juli Flugtskydningsbanen træning 18 - 21.
 Onsdag den 6. august Flugtskydningsbanen træning 18 - 21.  
 Torsdag den 7. august Riffeltræning og indskydning på riffelbanen 18 - 21.          
 Torsdag den 7. august Kommune mesterskab i Sdr. Omme 17.30 -    
-Tirsdag den 12. august træning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.   
+Tirsdag den 12. august Flugtskydningsbanen træning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.   
 Onsdag den 13. august Flugtskydningsbanen træning 18 - 21.  
 Torsdag den 14. august Riffeltræning og indskydning på riffelbanen 18 - 21.    
 Lørdag den 16. juni Nordisk Trap stævne 09 - 20.    
-Tirsdag den 19. august træning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.    
+Tirsdag den 19. august Flugtskydningsbanen træning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.    
 Onsdag den 20. august Flugtskydningsbanen træning 18 - 21.  
 Torsdag den 21. august Riffeltræning og indskydning på riffelbanen 18 - 21.    
-Tirsdag den 26. august Pokalskydning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.   
+Tirsdag den 26. august Flugtskydningsbanen Pokalskydning for Grindsted - Hejnsvig og Billund jagtforeninger 18 - 21.   
 Onsdag den 27. august Flugtskydningsbanen træning 18 - 21.  
 Torsdag den 28. august Riffeltræning og indskydning på riffelbanen 18 - 21.    
 Lørdag den 6. september Nordisk Trap stævne 09 - 20.   
 Lørdag den 29. november Juleknasskydning 11 - 14.   
 
 ### Træning på Riffelbanen
-Banen er åben torsdage i april og maj indtil 16. maj  
+Banen er åben torsdage i april og maj indtil 16. maj  18 - 21 (solnedgang)
 
 ### Bukketræf i Lynghytten   
 Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten.
