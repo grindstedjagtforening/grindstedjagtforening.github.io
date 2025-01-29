@@ -16,8 +16,8 @@ Juni: Træning alle onsdage 18 - 21.
       Nordisk Trap stævne den 14. og 15. kl 09:00 - 20:00   
 Juli: Træning alle onsdage 18 - 21.  
 August: Træning alle onsdage 18 - 21.  
-Kommunemesterskab i Sdr. Omme torsdag den 7   . 
-Nordisk Trap stævne den 16: 09:00 - 20:00   
+Kommunemesterskab i Sdr. Omme torsdag den 7.       . 
+Nordisk Trap stævne den 16: 09:00 - 20:00         
 Træningsaften den 12. og 19. for medlemmer af Grindsted-, Hejnsvig- og Billund Jagtforeninger   
 Pokalskydning for Grindsted-, Hejnsvig- og Billund Jagtforeninger den 26. kl: 18.00 - 21.00   
 September: Nordisk Trap stævne den 6. kl 09.00 - 20.00   
