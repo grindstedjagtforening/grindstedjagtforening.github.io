@@ -2,7 +2,7 @@
 title: "Kommende aktiviteter"
 permalink: /docs/Foreningen/
 excerpt: "Information om og fra bestyrelsen."
-last_modified_at: 2024-04-22T17:40:42-04:00
+last_modified_at: 2025-01-29T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter
@@ -51,9 +51,7 @@ OBS: Kniv og andre materialer kommer ud over denne pris.
 Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
 ![Fra tidligere år](/images/Kniv.png)
 
-## Andekort til jagten ved Ribe.  
-
-NYT: Der er nu reguleringstilladelse til bramgæs på arealerne ved Ribe. Udløber 31. december.
+## Andekort til jagten ved Ribe.  Vi har lejet jagten i 2025/26.
 
 Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.   
 Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen. De seneste år har der været regulering af bramgæs inkluderet i andekortet.    
