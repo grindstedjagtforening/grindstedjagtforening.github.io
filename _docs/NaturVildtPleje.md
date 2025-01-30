@@ -12,12 +12,12 @@ Natur- og Vildtplejeudvalgets formål er at yde tilskud til pleje af egnens natu
 Natur- og Vildtplejeudvalget tilbyder fasaner til vores medlemmer.    
 
 #### Fasankyllinger Juli:        
-I juli måned tilbydes 6 ugers fasankyllinger. Der skal bestilles mindst 100 stk. og snarest mulig dog senest 1. april. Fasankyllingerne skal afhentes hos Preben Lange, Gedved.
-Tidspunktet aftales ved bekræftelse af afhentning. Det er "først til mølle" princippet og så længe lager haves.    
+I juli måned tilbydes 6 ugers fasankyllinger. Der skal bestilles mindst 100 stk. og snarest mulig dog senest 1. april. Fasankyllingerne skal afhentes hos Preben Lange, Gedved.Prisen er 45 kr/stk for de første 20 stk per medlem og 50 kr/stk for de efterfølgende faankyllinger.
+Tidspunktet aftales ved bekræftelse af afhentning. Det er "først til mølle" princippet og så længe lager haves. Betil hurtigt for at øge mulighed for denne betilling.    
 
 #### Fasankyllinger August:    
-Til medlemmer med engelsk voliere eller lignende tilbydes der max. 20 stk. 6-7 ugers kyllinger pr. medlem og mulighed for at
-købe ekstra fasankyllinger. Der følger en tamkylling med pr. samlet udlevering.   
+Til medlemmer med engelsk voliere eller lignende tilbydes der max. 20 stk. 6-7 ugers kyllinger a 45 kr/stk pr. medlem og mulighed for at
+købe ekstra fasankyllinger til 50 kr/stk. Der følger en tamkylling med pr. samlet udlevering.   
 Afhentning start august mellem Kl. 10.00 og 10.30 på Engmosevej 4A, Nollund, Grindsted, og der skal medbringes solide, klargjorte kasser.
 Bestilling senest den 1. april 2025.   
 
