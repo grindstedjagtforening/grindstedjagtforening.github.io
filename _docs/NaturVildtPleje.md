@@ -9,7 +9,7 @@ toc: true
 Natur- og Vildtplejeudvalgets formål er at yde tilskud til pleje af egnens natur, herunder til udsætning af vildt, ophjælpning af truede vildtarter, anlægning af remisser og lignende.   
 
 ### Bestilling af fasaner i 2025
-Natur- og Vildtplejeudvalget tilbyder fasaner til vores medlemmer.       
+Natur- og Vildtplejeudvalget tilbyder fasaner til vores medlemmer.          
 
 #### Fasankyllinger Juli:        
 I juli måned tilbydes 6 ugers fasankyllinger. Der skal bestilles mindst 100 stk. og snarest mulig dog senest 1. april. Fasankyllingerne skal afhentes hos Preben Lange, Gedved.Prisen er 45 kr/stk for de første 20 stk per medlem og 50 kr/stk for de efterfølgende faankyllinger.
