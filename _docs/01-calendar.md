@@ -2,12 +2,9 @@
 title: "Kalender 2025"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2025-1-29T18:40:42-04:00
+last_modified_at: 2025-2-14T18:40:42-04:00
 toc: true
 ---            
-Lørdag den 8. februar Flugtskydningsbanen træning 10 - 13.  
-Torsdag den 13. februar kl 19.00 Hjorteskydning på Stigabanen  
-Lørdag den 15. februar Flugtskydningsbanen træning 10 - 13.  
 Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen     
 Lørdag den 22. februar Flugtskydningsbanen træning 10 - 13.  
 Torsdag den 27. februar kl 19.00 Hjorteskydning på Stigabanen     
