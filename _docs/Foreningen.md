@@ -2,7 +2,7 @@
 title: "Kommende aktiviteter"
 permalink: /docs/Foreningen/
 excerpt: "Information om og fra bestyrelsen."
-last_modified_at: 2025-01-29T17:40:42-04:00
+last_modified_at: 2025-02-14T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter
