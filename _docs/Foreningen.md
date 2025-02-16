@@ -11,4 +11,4 @@ toc: true
 ## Stigaskydning den 13. og 20. og 27. februar kl 19.00
 Vi har Stigaskydning i Lynghytten de tre sidste torsdage i februar.  
 Vi møde kl. 19.00 og skyder med en luftdrevet riffel med kikkertsigte (og snelle-aftræk) med bevægelig skive.   
-En god øvelse for riffeljægere.
+En god øvelse for riffeljægere.   
