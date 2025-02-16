@@ -12,7 +12,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning"
-    excerpt: "   "
+    excerpt: " "
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra GFB" 
