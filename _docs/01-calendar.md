@@ -5,7 +5,7 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2025-2-14T18:40:42-04:00
 toc: true
 ---            
-Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen     
+Torsdag den 20. februar kl 19.00 Hjorteskydning på Stigabanen.       
 Lørdag den 22. februar Flugtskydningsbanen træning 10 - 13.  
 Torsdag den 27. februar kl 19.00 Hjorteskydning på Stigabanen     
 Lørdag den 1. marts Flugtskydningsbanen træning 10 - 13.  
