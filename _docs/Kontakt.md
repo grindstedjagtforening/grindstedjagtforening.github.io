@@ -18,7 +18,7 @@ Jagtudvalg: Finn Lauridsen tlf 40417515 og Vagn Jensen
 Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300 og Søren Christensen.   
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
-Hundeudvalg: Michael Nielsen. tlf 20600770 
+Hundeudvalg: Michael Nielsen. tlf 20600770     
 Riffeludvalg: Finn Lauridsen tlf 40417515    
 Hubertus Blæserne: Lars Christensen, 61467990   
 
