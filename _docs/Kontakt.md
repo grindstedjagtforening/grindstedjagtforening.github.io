@@ -14,7 +14,7 @@ Næstformand: Kim Brogaard.
 Kasserer: Vagn Jensen tlf 51578740,  
 mail: postmaster@grindstedjagtforening.dk   
 Sekretær: Kim Brogaard.   
-Jagtudvalg: Finn Lauridsen tlf 40417515 og Vagn Jensen   
+Jagtudvalg: Finn Lauridsen tlf 40417515 og Vagn Jensen        
 Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300 og Søren Christensen.   
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
