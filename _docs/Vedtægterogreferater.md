@@ -20,7 +20,6 @@ Referatets punkter svarer til punkterne for generalforsamlingens dagsorden:
 
 Valg af dirigent:  Gunnar blev foreslået og valgt, hvorefter han overtog styringen og konstaterede at generalforsamlingen var lovlig og rettidig indkaldt.
 ##### Formandens beretning:  
-
 ##### Hundeudvalg:  
 ##### Jagtudvalg:  
 ##### Riffeludvalg:  
@@ -28,7 +27,7 @@ Valg af dirigent:  Gunnar blev foreslået og valgt, hvorefter han overtog styrin
 Vagn fremlagde og gennemgik det omdelte regnskab som nu omfatter samtlige regnskaber for udvalg under Grindsted Jagtforening samt regnskabet for hovedkassen.  
 Regnskabet blev godkendt med akklamation.
 #### Indkomne forslag:   
-Der var et indkommet forslag fra Grindsted Jagtforening vedrørende en ændring af foreningens vedtægter, så de er tilpasset de nye forhold.
+Der var et indkommet forslag fra Grindsted Jagtforening vedrørende en ændring af foreningens vedtægter.
 Vagn gennemgik ændringerne og forslaget blev vedtaget af generalforsamlingen med stort flertal. 
 #### Kontingent:  
 Den del af kontingentet der går til GJF fastholdes på samme beløb som i 2024.  
