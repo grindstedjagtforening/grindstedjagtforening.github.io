@@ -8,8 +8,18 @@ toc: true
 ## Se kalenderen for alle aktiviteter
 
 ## Se under GFB for aktiviterer på flugtskydningsbanen
-## Stigaskydning den 20. og 27. februar kl 19.00
-Vi har Stigaskydning i Lynghytten de to sidste torsdage i februar.  
-Vi møde kl. 19.00 og skyder med en luftdrevet riffel med kikkertsigte (og snelle-aftræk) med bevægelig skive.   
-En god øvelse for riffeljægere.   
-Der var problemer med banen den 13. feb. Håber den er klar til den 20. feb
+## Trofæaften den 13. marts kl 19.00
+Denne aften afholder vi vores traditionelle trofæaften.   
+Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
+Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:
+Årets danske buk
+Årets danske hjort
+Den mest specielle buk
+Den mindste buk
+Årets udenlandske buk
+Årets udenlandske hjort
+Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING
+Årets trofæ afgøres som en afstemning blandt de tilstedeværende i salen. Dvs du kan stemme på alle indleverede
+trofæer udfra dine kriterier.
+Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
+GJF, er de også berettiget til at deltage.
