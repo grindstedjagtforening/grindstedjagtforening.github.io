@@ -37,6 +37,8 @@ Genvalg til Kim Brogaard og Heino Hansen.
 #### Valg til Grindsted Flugtskydningsudvalg:  
 Heino Hansen og Martin Damgård (udpeget af GJF). 
 Mona Holt Nielsen (genvalg)
+#### Valg til Natur- og Vildtplejeudvalg:  
+Gunnar Christensen (genvalg)   
 #### Valg af revisorer: 
 Lars B.Nielsen (genvalg), Jesper Christoffersen (genvalg). 
 #### Valg af revisorsuppleant: 
