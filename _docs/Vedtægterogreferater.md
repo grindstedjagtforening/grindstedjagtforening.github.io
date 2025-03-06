@@ -31,7 +31,6 @@ Der var et indkommet forslag fra Grindsted Jagtforening vedrørende en ændring 
 Vagn gennemgik ændringerne og forslaget blev vedtaget af generalforsamlingen med stort flertal. 
 #### Kontingent:  
 Den del af kontingentet der går til GJF fastholdes på samme beløb som i 2024.  
-Det blev præciseret at man skal være medlem af GJF for at have stemmeret i jagtforeningen, der er også problematikken med våbenpåtegning hvis man ikke har jagttegn og ikke er medlem noget sted og ønsker at benytte skydebanen.  
 #### Valg til bestyrelsen:  
 Genvalg til Kim Brogaard og Heino Hansen.   
 #### Valg til Flugtskydningsudvalg:  
