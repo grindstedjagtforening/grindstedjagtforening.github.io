@@ -20,19 +20,10 @@ Referatets punkter svarer til punkterne for generalforsamlingens dagsorden:
 
 Valg af dirigent:  Gunnar blev foreslået og valgt, hvorefter han overtog styringen og konstaterede at generalforsamlingen var lovlig og rettidig indkaldt.
 ##### Formandens beretning:  
-Martin gav en orientering om foreningens aktiviteter i 2022.  
-Der blev afholdt Stiga skydning over tre aftener i februar.  
-Trofæaften blev aflyst i 2022, men afholdes i 2023.  
-Træning og pokalskydning på lerduebanen blev afviklet sammen med Billund og Hejnsvig som tidligere år og gentages i 2023 i august måned, Martin appellerede til at så mange som muligt får trænet med haglbøsse og riffel, for at være forberedt til den kommende jagt sæson.  
-Der afholdes årsmøde i Jægerrådet i Lynghytten 2. februar kl. 19.00, medlemmer er velkommen.  
-Beretningen blev godkendt med akklamation.
+
 ##### Hundeudvalg:  
-Thorkild berettede om årets hundearbejde, vinterdressuren i ridehallen havde tilslutning af 20 unghunde, der blev trænet i 10 uger og man sluttede med en fælles hyggelig afslutning. I april måned startede udendørsdressuren, også her var der 20 hunde tilmeldt fordelt på ung hunde, mellemklasse og udvidet, også her blev der holdt en hyggelig fælles afslutning. I august måned var der hvalpetræning/motivering hvor cirka 10 hunde deltog.  
-Hundeudvalget mangler instruktører og søger desperat efter folk som kunne tænke sig at arbejde med vores dejlige firbenede jagtkammerater.  
 ##### Jagtudvalg:  
-Finn orienterede om rågeregulering, der blev ikke reguleret nogle voksne fugle men 14 unger blev det til. Der bliver søgt om regulering igen her i 2023, så har man lyst til at deltage skal man bare melde sig hos Finn for at få en tilladelse. Andejagten i Ribe blev ikke det helt store tilløbsstykke, der blev kun solgt 13 kort til området og det er for lidt til at dække omkostningerne. Der blev skudt både ænder og gæs af de jægere som var dernede, så mød op.
 ##### Riffeludvalg:  
-Finn fortalte om renoveringsplaner for banen, blandt andet skal der etableres bedre toilet forhold og der er skaffet midler til det. Der er skydning på banen fra april måned så følg med på hjemmesiden.Natur og Vildtplejeudvalg:  Kim orienterede om årets aktiviteter, der var ingen ansøgninger om tilskud til planter, men der blev udleveret 295 fasaner, det er en tilbagegang i forhold til tidligere år, fuglene er steget en del så måske forklaringen findes her. Ernst har valgt at stoppe i udvalget, han fik en tak for indsatsen.
 #### Regnskab:  
 Vagn fremlagde og gennemgik det omdelte regnskab som nu omfatter samtlige regnskaber for udvalg under Grindsted Jagtforening samt regnskabet for hovedkassen.  
 Regnskabet blev godkendt med akklamation.
