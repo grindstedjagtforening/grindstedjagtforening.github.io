@@ -6,7 +6,7 @@ last_modified_at: 2025-3-6T18:40:42-04:00
 toc: true
 ---            
 Lørdag den 8. marts Flugtskydningsbanen træning 10 - 13.  
-Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten 
+Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten.    
 Lørdag den 15. marts Flugtskydningsbanen træning 10 - 13.  
 Lørdag den 22. marts Flugtskydningsbanen træning 10 - 13.  
 Lørdag den 29. marts Flugtskydningsbanen træning 10 - 13.  
