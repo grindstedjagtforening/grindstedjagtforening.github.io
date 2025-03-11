@@ -6,7 +6,6 @@ last_modified_at: 2025-01-23T20:00:00-04:00
 toc: true
 ---
 ### Program for GFB 2025.
-Februar: Træning alle lørdage 10 - 13.      
 Marts: Træning alle lørdage 10 - 13.  
 April: Træning alle onsdage 18 - 21.    
         RAH starter den 1. fra 18 - 21   
