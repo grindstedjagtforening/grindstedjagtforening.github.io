@@ -7,7 +7,8 @@ toc: true
 ---            
 Lørdag den 8. marts Flugtskydningsbanen træning 10 - 13.  
 Torsdag den 13. marts kl 19.00 trofæaften i Lynghytten.    
-Lørdag den 15. marts Flugtskydningsbanen træning 10 - 13.  
+Lørdag den 15. marts Flugtskydningsbanen træning 10 - 13.
+Torsdag den 20. marts Riffelbanen Kend din riffel kl 19.00    
 Lørdag den 22. marts Flugtskydningsbanen træning 10 - 13.  
 Lørdag den 29. marts Flugtskydningsbanen træning 10 - 13.  
 Tirsdag den 1. april starter RAH kl 18 - 21.     
