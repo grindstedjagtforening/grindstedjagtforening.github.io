@@ -21,3 +21,68 @@ Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING
 trofæer udfra dine kriterier.
 Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
 GJF, er de også berettiget til at deltage.
+
+##Mærkeskydning med jagtriffel på Ansager riffelbane lørdag den 5 april, 13-16.   
+Ansager & Omegns Jagtforening og Grindsted jagtforening er gået samme om at lave dette arrangement som afholdes på Ansager riffelbane, Sønderbro 39b, 6823 Ansager.    
+Alle medlemmer af DJ er velkommen, uanset i hvilken forening man har hjemme.   
+Mærkeskydning med jagtriffel i Danmarks Jægerforbund har til formål at dygtiggøre skytten i skydning med riffel.     
+Der skydes til bronze, sølv og guldmærke, 6 skud til DJ bukkeskive, minimum 5 træffere for beståelse.     
+Alle der består skydningen får et bevis derpå og kan købe et bronze, sølv eller guldmærke, svarende til opnåede point.    
+Der er fri skydestilling, og der må anvendes jagtrealistiske hjælpemidler som skydestokke, bipods osv. samt jagtstol eller rygsæk hvis man f.eks. ønsker at skyde siddende.     
+Ved opnåelse af 59-60 point kan der skydes til guld med egeløv, hvor der skal afgives 3 skud i stående skydestilling og der må kun anvendes remstøtte og/eller handske.    
+Det fulde regelsæt for skydningen kan findes på DJ hjemmesiden: "Regler for mærkeskydning”.   
+
+Vi håber at mange af omegnens jægere gribe udfordringen og møder op og får luftet jagtriflen.    
+Grillen er tændt og der kan som sædvanlig også købes kaffe og drikkevarer.    
+
+Velmødt fra Ansager & Grindsted Jagtforeninger.   
+
+Riffelbanen Nyhed !!   
+Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
+Alle vore medlemmer er velkomne og ligeledes er kommunens Ny-og Ungjægere.    
+
+Der vil være 6 fokusemner    
+1: Øjenafstand og kindstøtte vurdering 100 meter på focusskive med lys    
+
+2: Paralax check 100 meter på focusskive med lys   
+
+3: Efterspænding og check fritlægning    
+
+4: Mål aftræksvægt og subjektiv vurdering (slæb)    
+
+5: Rådgivning om lyddæmper og løbs længde    
+
+6: Gennem gang af riffel-journal og rådgivning om next step    
+
+Øl & vand kan købes     
+
+Riffelbanen i Grindsted foråret 2025
+
+Grindsted Jagtforening er glad for at kunne tilbyde en hel masse riffeltræning på vores 100m og 200m riffelbane ved Frodeslund.
+
+Vi starter op torsdag den 3. april kl 18,00.
+Alle er velkommen på riffelbanen og det koster kun 50,- kr. pr. aften og så må man skyde lige så
+meget der er plads til. Åbningstiden 3 timer pr. aften, så der er masser af tid til hver skytte.
+Øl & vand kan købes
+
+Der kommer også nogle weekend-skydninger, de er ikke helt planlagt, så følg med på
+hjemmesiden.
+
+Husk : HVER GANG AT MEDBRINGE GYLDIG JAGTTEGN OG VÅBENTILLADELSE
+
+
+Vel mødt og bliv en bedre riffelskytte.
+
+Torsdag den 3. april Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).    
+Torsdag den 10. april Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).    
+Torsdag den 17. april Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).    
+Torsdag den 17. april Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).    
+Torsdag den 1. maj Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).    
+Torsdag den 8. maj Riffeltræning og indskydning på riffelbanen 18 - 21 (solnedgang).   
+Torsdag den 15. maj Riffeltræning og indskydning på riffelbanen 18 - 21.    
+
+Billund Jagtforening har riffelbanen åben onsdage i samme uger. Se nærmere på www.billundjagtforening.dk/    
+
+Bukketeræf    
+Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten    
+
