@@ -22,7 +22,7 @@ trofæer udfra dine kriterier.
 Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
 GJF, er de også berettiget til at deltage.
 
-##Mærkeskydning med jagtriffel på Ansager riffelbane lørdag den 5 april, 13-16.   
+## Mærkeskydning med jagtriffel på Ansager riffelbane lørdag den 5 april, 13-16.   
 Ansager & Omegns Jagtforening og Grindsted jagtforening er gået samme om at lave dette arrangement som afholdes på Ansager riffelbane, Sønderbro 39b, 6823 Ansager.    
 Alle medlemmer af DJ er velkommen, uanset i hvilken forening man har hjemme.   
 Mærkeskydning med jagtriffel i Danmarks Jægerforbund har til formål at dygtiggøre skytten i skydning med riffel.     
@@ -37,7 +37,7 @@ Grillen er tændt og der kan som sædvanlig også købes kaffe og drikkevarer.
 
 Velmødt fra Ansager & Grindsted Jagtforeninger.   
 
-Riffelbanen Nyhed !!   
+## Riffelbanen Nyhed !!   
 Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
 Alle vore medlemmer er velkomne og ligeledes er kommunens Ny-og Ungjægere.    
 
@@ -56,7 +56,7 @@ Der vil være 6 fokusemner
 
 Øl & vand kan købes     
 
-Riffelbanen i Grindsted foråret 2025
+## Riffelbanen i Grindsted foråret 2025
 
 Grindsted Jagtforening er glad for at kunne tilbyde en hel masse riffeltræning på vores 100m og 200m riffelbane ved Frodeslund.
 
@@ -83,6 +83,6 @@ Torsdag den 15. maj Riffeltræning og indskydning på riffelbanen 18 - 21.
 
 Billund Jagtforening har riffelbanen åben onsdage i samme uger. Se nærmere på www.billundjagtforening.dk/    
 
-Bukketeræf    
+## Bukketeræf    
 Fredag den 16. maj kl 08:00 til 10:00 Bukketræf i Lynghytten    
 
