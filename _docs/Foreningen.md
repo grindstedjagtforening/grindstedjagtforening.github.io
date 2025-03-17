@@ -37,7 +37,7 @@ Grillen er tændt og der kan som sædvanlig også købes kaffe og drikkevarer.
 
 Velmødt fra Ansager & Grindsted Jagtforeninger.   
 
-## Riffelbanen Nyhed !!   
+## Riffelbanen torsdag den 20. marts kl 19.00  Nyhed !!   
 Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
 Alle vore medlemmer er velkomne og ligeledes er kommunens Ny-og Ungjægere.    
 
