@@ -27,20 +27,6 @@ Udvidet niveau for øvede hunde, som kan apportere hår og fjervildt.
 4. Apportering af rovvildt.    
 5. Apportering fra vand af flere emner.    
 6. Diverse diringsøvelser.
-7. 
-## Trofæaften den 13. marts kl 19.00
-Denne aften afholder vi vores traditionelle trofæaften.   
-Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
-Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:
-Årets danske buk    
-Årets danske hjort    
-Årets udenlandske buk    
-Årets udenlandske hjort     
-Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING     
-Årets trofæ afgøres som en afstemning blandt de tilstedeværende i salen. Dvs du kan stemme på alle indleverede
-trofæer udfra dine kriterier.
-Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
-GJF, er de også berettiget til at deltage.
 
 ## Mærkeskydning med jagtriffel på Ansager riffelbane lørdag den 5 april, 13-16.   
 Ansager & Omegns Jagtforening og Grindsted jagtforening er gået samme om at lave dette arrangement som afholdes på Ansager riffelbane, Sønderbro 39b, 6823 Ansager.    
