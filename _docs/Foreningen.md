@@ -6,6 +6,26 @@ last_modified_at: 2025-02-14T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter
+## Riffelbanen torsdag den 20. marts kl 19.00  Nyhed !!   
+Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
+Alle er velkomne jæger eller ikke jæger og ligeledes er kommunens Ny-og Ungjægere.    
+
+Denne aften vil der ikke blive skudt, men derimod vil der blive foretaget seriøs klargøring og hygge.
+Jørgen Nielsen fra sonic Lyddæmper kommer og varetager stand 5    
+Der vil være 6 fokusemner    
+1: Øjenafstand og kindstøtte vurdering 100 meter på focusskive med lys    
+
+2: Paralax check 100 meter på focusskive med lys   
+
+3: Efterspænding og check fritlægning    
+
+4: Mål aftræksvægt og subjektiv vurdering (slæb)    
+
+5: Rådgivning om lyddæmper og løbs længde    
+
+6: Gennem gang af riffel-journal og rådgivning om next step    
+
+Øl & vand kan købes     
 
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 ## Dressur for jagthunde
@@ -43,24 +63,6 @@ Grillen er tændt og der kan som sædvanlig også købes kaffe og drikkevarer.
 
 Velmødt fra Ansager & Grindsted Jagtforeninger.   
 
-## Riffelbanen torsdag den 20. marts kl 19.00  Nyhed !!   
-Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
-Alle vore medlemmer er velkomne og ligeledes er kommunens Ny-og Ungjægere.    
-
-Der vil være 6 fokusemner    
-1: Øjenafstand og kindstøtte vurdering 100 meter på focusskive med lys    
-
-2: Paralax check 100 meter på focusskive med lys   
-
-3: Efterspænding og check fritlægning    
-
-4: Mål aftræksvægt og subjektiv vurdering (slæb)    
-
-5: Rådgivning om lyddæmper og løbs længde    
-
-6: Gennem gang af riffel-journal og rådgivning om next step    
-
-Øl & vand kan købes     
 
 ## Riffelbanen i Grindsted foråret 2025
 
