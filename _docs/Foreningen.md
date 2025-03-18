@@ -8,6 +8,26 @@ toc: true
 ## Se kalenderen for alle aktiviteter
 
 ## Se under GFB for aktiviterer på flugtskydningsbanen
+## Dressur for jagthunde
+Opstart den 7. April kl.19.00 med træning mandage frem til den 2. Juni   
+Mødested: Grindsted flugtskydningsbane.    
+Tilmelding til Rasmus 91897396 – rasmus@dkautomobiler.dk    
+Pris 600,- som betales ved tilmelding på mobilepay til box60996   
+Tilmelding senest den 4. april.    
+Der tilbydes følgende hold:    
+Mellem niveau for let øvede hunde, som har gennemgået grunddressur og kan
+apportere dummy.     
+1. Repetition af grunddressur.    
+2. Apportering af hår og fjervildt.    
+3. Apportering fra vand.     
+Udvidet niveau for øvede hunde, som kan apportere hår og fjervildt.   
+1. Repetition af grunddressur med højere sværhedsgrad.    
+2. Apportering af hår og fjervildt.   
+3. Slæb.    
+4. Apportering af rovvildt.    
+5. Apportering fra vand af flere emner.    
+6. Diverse diringsøvelser.
+7. 
 ## Trofæaften den 13. marts kl 19.00
 Denne aften afholder vi vores traditionelle trofæaften.   
 Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
