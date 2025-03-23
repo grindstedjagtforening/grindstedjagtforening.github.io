@@ -58,7 +58,7 @@ Torben har 3-4 forskelligehunde racer der bliver brugt på hele paletten - Jagt,
 
 Tilmelding: send SMS med navn og antal deltagere    
 
-På 20600770, senest    
+På 20600770, senest den 22. april        
 
 Pris: 20,00 kr. (betales på aftenen)     
 
