@@ -5,8 +5,13 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2025-02-14T17:40:42-04:00
 toc: true
 ---
-## Se kalenderen for alle aktiviteter
-## Se under GFB for aktiviterer på flugtskydningsbanen
+## Se kalenderen for alle aktiviteter   
+
+## Flugtskydningsbanen nu:   
+Marts: Træning alle lørdage 10 - 13.    
+April: Træning alle onsdage 18 - 21.    
+Se under GFB for alle aktiviterer på flugtskydningsbanen
+
 ## Dressur for jagthunde
 Opstart den 7. April kl.19.00 med træning mandage frem til den 2. Juni   
 Mødested: Grindsted flugtskydningsbane.    
