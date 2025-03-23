@@ -6,27 +6,6 @@ last_modified_at: 2025-02-14T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter
-## Riffelbanen torsdag den 20. marts kl 19.00  Nyhed !!   
-Som start på forberedelserne til årets riffeljagter afholder jagtforeningen et arrangement på riffelbanen torsdag den 20. marts kl 19.00 med emnet: Klargør din riffel og dig.    
-Alle er velkomne jæger eller ikke jæger og ligeledes er kommunens Ny-og Ungjægere.    
-
-Denne aften vil der ikke blive skudt, men derimod vil der blive foretaget seriøs klargøring og hygge.
-Jørgen Nielsen fra sonic Lyddæmper kommer og varetager stand 5    
-Der vil være 6 fokusemner    
-1: Øjenafstand og kindstøtte vurdering 100 meter på focusskive med lys    
-
-2: Paralax check 100 meter på focusskive med lys   
-
-3: Efterspænding og check fritlægning    
-
-4: Mål aftræksvægt og subjektiv vurdering (slæb)    
-
-5: Rådgivning om lyddæmper og løbs længde    
-
-6: Gennem gang af riffel-journal og rådgivning om next step    
-
-Øl & vand kan købes     
-
 ## Se under GFB for aktiviterer på flugtskydningsbanen
 ## Dressur for jagthunde
 Opstart den 7. April kl.19.00 med træning mandage frem til den 2. Juni   
@@ -63,6 +42,26 @@ Grillen er tændt og der kan som sædvanlig også købes kaffe og drikkevarer.
 
 Velmødt fra Ansager & Grindsted Jagtforeninger.   
 
+## Foredrag med Torben Bull    
+
+Kom til en spændende aften den 24. april kl. 19.00 hvor Torben Bull.
+Torben har 3-4 forskelligehunde racer der bliver brugt på hele paletten - Jagt, udstilling, schweiss-prøver. Han vil bl.a. kommer omkring:     
+
+- Træning til jagt
+- Schweiss træning, og hvad vil dommerne se
+- Træning til Udstilling
+
+Tilmelding: send SMS med navn og antal deltagere    
+
+På 20600770, senest    
+
+Pris: 20,00 kr. (betales på aftenen)     
+
+Dato: 24. april Kl. 19. 00 til ca. 21.00
+
+Sted: Lynghytte (ved flugtskydningsbanen)
+
+Vesterhedevej 3, 7200 Grindsted    
 
 ## Riffelbanen i Grindsted foråret 2025
 
