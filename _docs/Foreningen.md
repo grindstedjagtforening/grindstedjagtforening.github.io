@@ -7,8 +7,7 @@ toc: true
 ---
 ## Se kalenderen for alle aktiviteter   
 
-## Flugtskydningsbanen nu:   
-Marts: Træning alle lørdage 10 - 13.    
+## Flugtskydningsbanen nu:      
 April: Træning alle onsdage 18 - 21.    
 Se under GFB for alle aktiviterer på flugtskydningsbanen
 
@@ -73,7 +72,7 @@ Vesterhedevej 3, 7200 Grindsted
 Grindsted Jagtforening er glad for at kunne tilbyde en hel masse riffeltræning på vores 100m og 200m riffelbane ved Frodeslund.
 
 Vi starter op torsdag den 3. april kl 18,00.
-Alle er velkommen på riffelbanen og det koster kun 50,- kr. pr. aften og så må man skyde lige så
+Alle er velkommen på riffelbanen og det koster kun 30,- kr. pr. aften og så må man skyde lige så
 meget der er plads til. Åbningstiden 3 timer pr. aften, så der er masser af tid til hver skytte.
 Øl & vand kan købes
 
