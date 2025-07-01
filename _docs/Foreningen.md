@@ -13,7 +13,7 @@ Prisen for træningen er kr. 250 for fire gange og betales på mobilepay 61260 (
 ## Flugtskydningsbanen nu:      
 Juli: Træning alle onsdage 18 - 21.
 August: Træning alle onsdage 18 - 21.
-August: Grindsted og Billund og Hejnsvig jagtforeninger afholder træning og pokalskydning de sidste 3 tirsdage 18 - 21   
+August: Grindsted og Billund og Hejnsvig jagtforeninger afholder træning og pokalskydning de sidste 3 tirsdage 18 - 21      
 Se under GFB for alle aktiviterer på flugtskydningsbanen
 
 ## Riffelskydning i 2025 på vores riffelbane i Frodeslund 
