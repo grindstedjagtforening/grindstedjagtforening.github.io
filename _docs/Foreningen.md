@@ -8,7 +8,7 @@ toc: true
 ## Se kalenderen for alle aktiviteter   
 ## Hvalpetræning for unge hunde
 Hvalpetræning for helt unge hunde op til 6 måneder starter tirsdag den 12. august kl 19.00 ved Lynghytten på skydebanen Vesterhedevej 3.   
-Du skal tilmelde dig til Rasmus senesrt den 24. juli på mail rasmus@dkautomobiler.dk eller telefon 91897396.   
+Du skal tilmelde dig til Rasmus senest den 24. juli på mail rasmus@dkautomobiler.dk eller telefon 91897396.   
 Prisen for træningen er kr. 250 for fire gange og betales på mobilepay 61260 (hundeudvalg).     
 ## Flugtskydningsbanen nu:      
 Juli: Træning alle onsdage 18 - 21.    
