@@ -15,6 +15,10 @@ Juli: Træning alle onsdage 18 - 21.
 August: Træning alle onsdage 18 - 21.    
 August: Grindsted og Billund og Hejnsvig jagtforeninger afholder træning og pokalskydning de sidste 3 tirsdage 18 - 21         
 Se under GFB for alle aktiviterer på flugtskydningsbanen
+## Træning på Flugtskydningsbanen
+For alle vore medlemmer er der træning på Flugtskydningsbanen den 12. og 19. og 26. august med afsluttende pokalskydning den 26. august. Vi træner sammen med Billund og Hejnsvig Jagforeninger. Alle dage fra kl 18.00. 
+
+Mød op og få trænet inden jagtsæssonen starter.    
 
 ## Riffelskydning i 2025 på vores riffelbane i Frodeslund 
 Vi afholder i august træningsaftner på riffelbanen hvor alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning. 
