@@ -16,7 +16,7 @@ August: Træning alle onsdage 18 - 21.
 August: Grindsted og Billund og Hejnsvig jagtforeninger afholder træning og pokalskydning de sidste 3 tirsdage 18 - 21         
 Se under GFB for alle aktiviterer på flugtskydningsbanen
 ## Træning på Flugtskydningsbanen
-For alle vore medlemmer er der træning på Flugtskydningsbanen den 12. og 19. og 26. august med afsluttende pokalskydning den 26. august. Vi træner sammen med Billund og Hejnsvig Jagforeninger. Alle dage fra kl 18.00. 
+For alle vore medlemmer er der træning på Flugtskydningsbanen den 12. og 19. og 26. august med afsluttende pokalskydning den 26. august. Vi træner sammen med Billund og Hejnsvig Jagtforeninger. Alle dage fra kl 18.00. 
 
 Mød op og få trænet inden jagtsæssonen starter.    
 
