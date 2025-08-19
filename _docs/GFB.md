@@ -5,18 +5,8 @@ excerpt: "Information fra GFB"
 last_modified_at: 2025-01-23T20:00:00-04:00
 toc: true
 ---
-### Program for GFB 2025.
-Marts: Træning alle lørdage 10 - 13.  
-April: Træning alle onsdage 18 - 21.    
-        RAH starter den 1. fra 18 - 21   
-Maj: Træning alle onsdage 18 - 21.  
-Juni: Træning alle onsdage 18 - 21.   
-      Nordisk Trap stævne den 14. og 15. kl 09:00 - 20:00   
-Juli: Træning alle onsdage 18 - 21.  
-August: Træning alle onsdage 18 - 21.  
-Kommunemesterskab i Sdr. Omme torsdag den 7.       . 
-Nordisk Trap stævne den 16: 09:00 - 20:00         
-Træningsaften den 12. og 19. for medlemmer af Grindsted-, Hejnsvig- og Billund Jagtforeninger   
+### Program for GFB 2025.      
+August: Træningsaften den 12. og 19. for medlemmer af Grindsted-, Hejnsvig- og Billund Jagtforeninger   
 Pokalskydning for Grindsted-, Hejnsvig- og Billund Jagtforeninger den 26. kl: 18.00 - 21.00   
 September: Nordisk Trap stævne den 6. kl 09.00 - 20.00   
 Lukket for træning.   
