@@ -6,6 +6,17 @@ last_modified_at: 2025-07-01T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter   
+## Andekort til jagtområdet ved Kammerslusen/Ribe     
+Andekort sælges til medlemmer.
+Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.     
+Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen.     
+Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2025- 31.januar 2026). For jagten på gæs i august gælder særlige regler se Naturstyrelsen hjemmeside eller på GJF’s hjemmeside.     
+Årskort/gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller, til konto 7702 1068226 eller kontant.     
+Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund     
+Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.    
+
+
+
 ## Hvalpetræning for unge hunde
 Hvalpetræning for helt unge hunde op til 6 måneder starter tirsdag den 12. august kl 19.00 ved Lynghytten på skydebanen Vesterhedevej 3.   
 Du skal tilmelde dig til Rasmus senest den 24. juli på mail rasmus@dkautomobiler.dk eller telefon 91897396.   
