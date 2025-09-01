@@ -20,7 +20,7 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Jagtforeningen"
-    excerpt: "Andekort "
+    excerpt: "Salg af Andekort er startet "
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
     btn_label: "Kommende aktiviteter i GJF" 
