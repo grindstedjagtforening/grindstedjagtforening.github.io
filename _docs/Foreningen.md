@@ -29,7 +29,7 @@ Der vil være en eksamensafgift. Som betales i forbindelse med aflæggelsen af p
 
 Du må også forvente en udgift til patroner og lerduer i forbindelse med skydetræning og de praktiske prøver. (Dette købes på skydebanen).   
 
-Medlemmer af Grindsted Jagtforening er indstillet på at hjælpe jer med at blive klar til at  bestå eksamen.   
+Medlemmer af Grindsted Jagtforenings flugtskydningsudvalg er indstillet på at hjælpe jer med at blive klar til at  bestå eksamen.   
 
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
 Andekort sælges til medlemmer.
