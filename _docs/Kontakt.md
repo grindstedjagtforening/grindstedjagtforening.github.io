@@ -24,8 +24,9 @@ Riffeludvalg: Finn Lauridsen tlf 40417515
 Hubertus Blæserne: Lars Christensen, 61467990   
 
 Bankforbindelse: Sydbank.    
-MobilePay GJF: 46352.    
-MobilePay Flugtskydningsbanen, GFB: 942503.    
+MobilePay GJF: 46352  
+MobilePay Hundeudvalg: 61260    
+MobilePay Flugtskydningsbanen, GFB: 942503    
 CVR-nummer: 29569274.    
 Mail til Jagtforeningen GJF: postmaster@grindstedjagtforening.dk.  
 Mail til Flugtskydningsbanen GFB: gfb.invoice@outlook.dk  
