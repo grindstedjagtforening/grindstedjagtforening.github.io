@@ -32,7 +32,8 @@ Du må også forvente en udgift til patroner og lerduer i forbindelse med skydet
 Medlemmer af Grindsted Jagtforenings flugtskydningsudvalg er indstillet på at hjælpe jer med at blive klar til at  bestå eksamen.   
 
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
-Andekort sælges til medlemmer.
+Andekort sælges til medlemmer.    
+
 Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.     
 Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen.     
 Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2025- 31.januar 2026). For jagten på gæs i august gælder særlige regler se Naturstyrelsen hjemmeside eller på GJF’s hjemmeside.     
