@@ -20,7 +20,7 @@ Du skal udover kursets pris betale følgende:
 
 De bøger, du skal købe, er "Jagttegn" til 499,- og "Lovsamling til jægere " til 199,-. Købes på: https://netbutikken.seges.dk/index.php/jagt/jagttegnsmaterialer/jagttegn-337.html
 
-Underviser vil også gerne bede dig tilmelde sig på: https://jagtproeven.dk/#   
+Underviser vil også gerne bede dig tilmelde sig på: https://jagtproeven.dk/   
 
 Det koster 99,- og giver adgang til online bogen, samt prøve-prøver, tests som underviser kan oprette i systemet. Med i prisen bliver du også kursistmedlem af jægerforbundet med medlemsblad osv.   
 
