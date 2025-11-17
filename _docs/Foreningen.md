@@ -43,4 +43,4 @@ Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 
      
 ## Flugtskydningsbanen:      
 September: Nordisk Trap den 6. september.    
-November: Juleknas skydning den 29. kl. 11.00 - 14.00.   
+November: Juleknas skydning den 29. kl. 11.00 - 14.00. Kortsalg slutter 13.45   
