@@ -7,3 +7,4 @@ toc: true
 ---            
  
 Lørdag den 29. november Juleknasskydning 11 - 14.   
+Torsdag den 29. januar 2026 kl 19.30 Generalforsamling
