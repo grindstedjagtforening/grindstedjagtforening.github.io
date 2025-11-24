@@ -6,30 +6,17 @@ last_modified_at: 2025-09-02T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
-## Jagtkursus   
-Forberedelse til jagttegn.    
-Vores underviser er fra Danmarks Jægerforbunds gruppe af undervisere. Han hedder Anders Bruun, han har et par års erfaring som underviser på området, og glæder sig til at undervise igen og delagtiggøre jer kursister i sin egen glæde ved at være jæger.   
-
-Kurset tager sigte på den obligatoriske jagtprøve. Pensum består af vildtkendskab, våbenkendskab, viden om jagtens etik m.m.  
-
-Fra sidst i oktober og frem til vinterferien, vil være teoriundervisning (3 lektioner pr. aften) og herefter kommer den praktiske del (4 lektioner pr. mødegang). Håndtering af våben, behandling af vildt m.m.   
-
-Den praktiske del planlægges i samarbejde mellem, kursister, jagtforening og underviser i alt 16 lektioner. (Der er indsat 4 gange til de 16 lektioner, disse mødegange er vejledende)   
-
-Du skal udover kursets pris betale følgende:
-
-De bøger, du skal købe, er "Jagttegn" til 499,- og "Lovsamling til jægere " til 199,-. Købes på: https://netbutikken.seges.dk/index.php/jagt/jagttegnsmaterialer/jagttegn-337.html
-
-Underviser vil også gerne bede dig tilmelde sig på: https://jagtproeven.dk/   
-
-Det koster 99,- og giver adgang til online bogen, samt prøve-prøver, tests som underviser kan oprette i systemet. Med i prisen bliver du også kursistmedlem af jægerforbundet med medlemsblad osv.   
-
-Der vil være en eksamensafgift. Som betales i forbindelse med aflæggelsen af prøven.   
-
-
-Du må også forvente en udgift til patroner og lerduer i forbindelse med skydetræning og de praktiske prøver. (Dette købes på skydebanen).   
-
-Medlemmer af Grindsted Jagtforenings flugtskydningsudvalg er indstillet på at hjælpe jer med at blive klar til at  bestå eksamen.   
+## Knivkursus 2026
+Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
+Opstart er onsdag den 7. januar kl 19.00 i sløjdlokalet pả Vester Skole, derefter hver onsdag kl 19.00, dog ikke i uge 7. I alt 10 gange.
+Går du og drømmer om den hele rigtig jagtkniv og ønsker du dig noget ingen har,
+så har du igen i år muligheden for at lave din helt egen personlige jagtkniv.
+Der er 12 pladser på holdet og vi ser frem til at få netop din tilmelding der er gældende når du har betalt og fået en bekræftelse.
+Tilmelding skal ske til Heino Hansen på telefon 22 44 03 00
+Vi ses til ca 10 aftener i knivenes tegn.
+Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften
+OBS: Kniv og andre materialer kommer ud over denne pris.
+Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.
 
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
 Andekort sælges til medlemmer.    
