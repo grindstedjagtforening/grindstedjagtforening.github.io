@@ -6,6 +6,13 @@ last_modified_at: 2025-09-02T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
+## Indkaldelse til generalforsamling, tidlig varsel
+Der afholdes generalforsamling torsdag den 29. januar kl 19.30
+Dagsorden ifølge vedtægterne.
+Der vil være spisning kl 18.30 inden generalforsaamlingen. Tilmelding nødvendig til spisningen.
+Der vil komme opfølgende tilmelding når vi kommer tættere på den 29. januar 2026.
+
+
 ## Knivkursus 2026
 Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
 Opstart er onsdag den 7. januar kl 19.00 i sløjdlokalet pả Vester Skole, derefter hver onsdag kl 19.00, dog ikke i uge 7. I alt 10 gange.
