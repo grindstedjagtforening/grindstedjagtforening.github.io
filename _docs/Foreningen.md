@@ -25,6 +25,18 @@ Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den s
 OBS: Kniv og andre materialer kommer ud over denne pris.
 Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
 ![Kniv](/images/knivkursus.jpg)
+
+## Nyt fra Hundeudvalget
+Vinterdressur 2026:
+Til alle der har unge jagthunde og hunde, der endnu ikke er helt lydige, tilbyder vi fordressur med fokus pä lydighed og lettere apportering.
+Det foregår i den store ridehal, Nollundvej 116, Grindsted. Vi starter, onsdag den 7. januar 2026 kl. 19.00 Derefter hver mandag til den 25. februar.
+For at kunne tilrettelagge forløbet, beder vi derfor om bindende tilmelding samt forudbetaling pá Mobilepay: 61260
+Tilmelding til Michael:
+mn@unig.dk eller 20 600 770
+pris 500,00 kr. som betales pá Mobilepay 61260 Noter venligst navn pä hund og ejer
+Deltagende hunde skal være vaccineret og have udvidet forsikring-
+Hilsen
+Hundeudvalget - Grindsted Jagtforening
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
 Andekort sælges til medlemmer.    
 
