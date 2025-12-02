@@ -37,7 +37,32 @@ pris 500,00 kr. som betales pá Mobilepay 61260 Noter venligst navn pä hund og 
 Deltagende hunde skal være vaccineret og have udvidet forsikring.   
 Hilsen
 Hundeudvalget - Grindsted Jagtforening
+## Generalforsamling 2026
+Generalforsamlingen afholdes torsdag den 29. januar kl. 19,30 i Lynghytten.    
+Som traditionen byder, vil jagtforeningen igen i 2026 inviterer på spisning kl. 18.30 inden
+generalforsamlingen. Tilmelding til Martin Moen senest den 21. januar.    
+Indkomne forslag skal være formanden i hænde senest den 10. januar 2026.   
+Generalforsamlingen begynder kl. 19.30. Efter generalforsamlingen er foreningen vært ved kaffe med småkager.
+Vi håber at se rigtig mange af foreningens medlemmer. Det er her du kan fremkomme med dine synspunkter og ideer til diskussion og inspiration.
+Dagsorden ifølge vedtægterne:    
+Punkt 1. Valg af dirigent og stemmetæller.    
+Punkt 2. Formandens beretning og udvalgenes beretning.    
+Punkt 3. Regnskab.    
+Punkt 4. Indkomne forslag – Skal være formanden i hænde senest den 19. januar.    
+Punkt 5. Fastlæggelse af kontingent.    
+Punkt 6. Valg bestyrelsesmedlemmer.    
+Punkt 7. Valg af suppleanter.    
+Punkt 8. Valg af udvalgsmedlemmer til Grindsted Jagtforenings Natur- og Vildtplejeudvalg    
+Punkt 9. Valg af udvalgsmedlemmer til Grindsted Flugtskydningsudvalg    
+Punkt 10. Valg af 2 revisorer og 1 revisorsuppleant.    
+Punkt 11. Eventuelt, herunder evt. uddeling af Kragepokalen.    
+
+
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
+
+
+
+
 Andekort sælges til medlemmer.    
 
 Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.     
