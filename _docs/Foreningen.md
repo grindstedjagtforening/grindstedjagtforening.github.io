@@ -41,7 +41,7 @@ Hundeudvalget - Grindsted Jagtforening
 Generalforsamlingen afholdes torsdag den 29. januar kl. 19,30 i Lynghytten.    
 Som traditionen byder, vil jagtforeningen igen i 2026 inviterer på spisning kl. 18.30 inden
 generalforsamlingen. Tilmelding til Martin Moen senest den 21. januar.    
-Indkomne forslag skal være formanden i hænde senest den 10. januar 2026.   
+Indkomne forslag skal være formanden i hænde senest den 19. januar 2026.   
 Generalforsamlingen begynder kl. 19.30. Efter generalforsamlingen er foreningen vært ved kaffe med småkager.
 Vi håber at se rigtig mange af foreningens medlemmer. Det er her du kan fremkomme med dine synspunkter og ideer til diskussion og inspiration.
 Dagsorden ifølge vedtægterne:    
