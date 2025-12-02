@@ -24,7 +24,7 @@ Vi ses til ca 10 aftener i knivenes tegn.
 Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften
 OBS: Kniv og andre materialer kommer ud over denne pris.
 Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
-![Kniv](/images/Kniveknivkursus.png)
+![Kniv](/images/knivkursus.jpg)
 ## Andekort til jagtområdet ved Kammerslusen/Ribe     
 Andekort sælges til medlemmer.    
 
