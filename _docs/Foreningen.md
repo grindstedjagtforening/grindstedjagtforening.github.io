@@ -14,16 +14,16 @@ Der vil komme opfølgende tilmelding når vi kommer tættere på den 29. januar 
 
 
 ## Knivkursus 2026
-Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.
+Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.    
 Opstart er onsdag den 7. januar kl 19.00 i sløjdlokalet pả Vester Skole, derefter hver onsdag kl 19.00, dog ikke i uge 7. I alt 10 gange.
 Går du og drømmer om den hele rigtig jagtkniv og ønsker du dig noget ingen har,
-så har du igen i år muligheden for at lave din helt egen personlige jagtkniv.
-Der er 12 pladser på holdet og vi ser frem til at få netop din tilmelding der er gældende når du har betalt og fået en bekræftelse.
-Tilmelding skal ske til Heino Hansen på telefon 22 44 03 00
-Vi ses til ca 10 aftener i knivenes tegn.
-Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften
-OBS: Kniv og andre materialer kommer ud over denne pris.
-Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.   
+så har du igen i år muligheden for at lave din helt egen personlige jagtkniv.    
+Der er 12 pladser på holdet og vi ser frem til at få netop din tilmelding der er gældende når du har betalt og fået en bekræftelse.    
+Tilmelding skal ske til Heino Hansen på telefon 22 44 03 00    
+Vi ses til ca 10 aftener i knivenes tegn.     
+Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften    
+OBS: Kniv og andre materialer kommer ud over denne pris.    
+Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.       
 ![Kniv](/images/knivkursus.jpg)
 
 ## Nyt fra Hundeudvalget
