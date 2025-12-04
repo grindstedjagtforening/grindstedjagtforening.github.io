@@ -6,12 +6,6 @@ last_modified_at: 2025-09-02T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
-## Indkaldelse til generalforsamling, tidlig varsel
-Der afholdes generalforsamling torsdag den 29. januar kl 19.30
-Dagsorden ifølge vedtægterne.
-Der vil være spisning kl 18.30 inden generalforsaamlingen. Tilmelding nødvendig til spisningen.
-Der vil komme opfølgende tilmelding når vi kommer tættere på den 29. januar 2026.
-
 
 ## Knivkursus 2026
 Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.    
@@ -33,7 +27,7 @@ Det foregår i den store ridehal, Nollundvej 116, Grindsted. Vi starter, onsdag 
 For at kunne tilrettelægge forløbet, beder vi derfor om bindende tilmelding samt forudbetaling pá Mobilepay: 61260    
 Tilmelding til Michael:
 mn@unig.dk eller 20 600 770    
-pris 500,00 kr. som betales pá Mobilepay 61260 Noter venligst navn pä hund og ejer    
+pris 500,00 kr. som betales pá Mobilepay 61260 Noter venligst navn på hund og ejer    
 Deltagende hunde skal være vaccineret og have udvidet forsikring.   
 Hilsen
 Hundeudvalget - Grindsted Jagtforening
@@ -72,5 +66,3 @@ Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2025- 31.januar
 Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund     
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.    
      
-## Flugtskydningsbanen:         
-November: Juleknas skydning den 29. kl. 11.00 - 14.00. Kortsalg slutter 13.45   
