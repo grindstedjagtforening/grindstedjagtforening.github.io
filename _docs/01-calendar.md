@@ -9,4 +9,4 @@ toc: true
 Onsdag den 7. januar 2026 Start på Knivkursus   
 Onsdag den 7. januar 2026 Start på indendørs dressus for hunde    
 Torsdag den 29. januar 2026 kl 19.30 Generalforsamling   
-Lørdag den 7. februar 2026 Start på træning på flugtskydningsbanen
+Lørdag den 7. februar 2026 10.00 til 13.00 Start på træning på flugtskydningsbanen
