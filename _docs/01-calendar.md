@@ -15,7 +15,7 @@ Lørdag den 21. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen
 Lørdag den 28. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen      
 Lørdag den 7. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen    
 Lørdag den 14. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen      
-Lørdag den 21. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen          
-Torsdag den 26. marts 2026 Trofæaften kl 19.00 i Lynghytten
+Lørdag den 21. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen              
+Torsdag den 26. marts 2026 Trofæaften kl 19.00 i Lynghytten    
 Lørdag den 28. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen      
-Onsdag den 1. april 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Onsdag den 1. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
