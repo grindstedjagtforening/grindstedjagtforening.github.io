@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2025-09-02T10:40:42-04:00
+last_modified_at: 2026-02-06T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
@@ -15,11 +15,11 @@ Kasserer: Vagn Jensen tlf 51578740,
 mail: postmaster@grindstedjagtforening.dk   
 Sekretær: Kim Brogaard.   
 Jagtudvalg: Finn Lauridsen tlf 40417515 og Vagn Jensen        
-Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300 og Søren Christensen.   
+Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300.   
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
 Hundeudvalg: Michael Nielsen. tlf 20600770   
-
+Nyvalgt Jakob Vikær
 Riffeludvalg: Finn Lauridsen tlf 40417515    
 Hubertus Blæserne: Lars Christensen, 61467990   
 
@@ -40,12 +40,12 @@ Hejnsvig: Jens Holm Christensen - 20 88 91 66
 Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76   
 Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44. 
 
-###### Kontingent 2025
-Ordinære:	961kr    
-Husstand:	527kr  
-Senior - Født 1948 eller tidl.: 604kr  
-Ekstraordinær:	147kr   
-Ungdom 16-25 år:	466 kr  
-Støttemedlem: 170kr (mulighed for våbenpåtegning). 
+###### Kontingent 2026
+Ordinære:	969kr    
+Husstand:	531kr  
+Senior - Født 1948 eller tidl.: 609kr  
+Ekstraordinær:	148kr   
+Ungdom 16-25 år:	519 kr  
+Støttemedlem: 171kr (mulighed for våbenpåtegning, ikke stemmeret). 
 
 
