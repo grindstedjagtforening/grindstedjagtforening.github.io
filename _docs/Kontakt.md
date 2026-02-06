@@ -19,7 +19,7 @@ Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300.
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
 Hundeudvalg: Michael Nielsen. tlf 20600770   
-Nyvalgt Jakob Vikær
+Nyvalgt Jakob Vikær    
 Riffeludvalg: Finn Lauridsen tlf 40417515    
 Hubertus Blæserne: Lars Christensen, 61467990   
 
