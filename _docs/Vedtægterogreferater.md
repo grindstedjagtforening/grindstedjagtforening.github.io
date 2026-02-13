@@ -2,10 +2,10 @@
 title: "Vedtægter og referater"
 permalink: /docs/Vedtægterogreferater/
 excerpt: "Vedtægter"
-last_modified_at: 2023-02-06T10:40:42-04:00
+last_modified_at: 2026-02-13T10:40:42-04:00
 toc: true
 ---
-
+### Referat fra generalforsamling den 29. januar 2026 afventer    
 ### Referat fra generalforsamling den 30. januar 2025
 
 Referat fra generalforsamling i Grindsted Jagtforening,                                                                                          afholdt i Lynghytten den 30. januar 2025.
@@ -197,5 +197,5 @@ De tegningsberettigede for jagtforeningen
 
 Den 30/01 2025
 
-Godkendt af Danmarks Jægerforbund den  _ _  / _ _  2025
+Godkendt af Danmarks Jægerforbund den  12/03 2025
 
