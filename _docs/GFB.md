@@ -23,7 +23,7 @@ Tirsdag den 4. august 2026 18.00 til 21.00 Træning for Grindsted/Hejnsvig/Billu
 Onsdag den 5. august 2026 18.00 til 21.00 Træning     
 Tirsdag den 11. august 2026 18.00 til 21.00 Træning for Grindsted/Hejnsvig/Billund      
 Onsdag den 12. august 2026 18.00 til 21.00 Træning    
-Onsdag den 13. august Kommunemesterskab i Krogager fra kl 17.00-20.00    
+Torsdag den 13. august Kommunemesterskab i Krogager fra kl 17.00-20.00    
 Lørdag den 15. august 2026 09.00 til 20.00 Trapstævne      
 Søndag den 16. august 2026 09.00 til 18.00 Trapstævne   
 Torsdag den 20. august 2026 09.00 til 21.00 trap landskamp    
