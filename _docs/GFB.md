@@ -11,8 +11,9 @@ Lørdag den 14. februar 2026 10.00 til 13.00
 Lørdag den 21. februar 2026 10.00 til 13.00    
 Lørdag den 28. februar 2026 10.00 til 13.00    
 Lørdag den 7. marts 2026 10.00 til 13.00    
-Lørdag den 14. marts 2026 10.00 til 13.00    
-Lørdag den 21. marts 2026 10.00 til 13.00    
+Lørdag den 14. marts 2026 10.00 til 13.00   
+Lørdag den 21. marts 2026 10.00 til 13.00   
+Lørdag den 28. marts 2026 10.00 til 13.00    
 Onsdag den 1. april 2026 18.00 til 21.00     
 April: 	Træning alle onsdage 18 - 21.    
     	RAH starter den 7. fra 18 - 21    
