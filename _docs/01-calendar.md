@@ -4,14 +4,7 @@ permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2026-2-7T18:40:42-04:00
 toc: true
----            
- 
-Onsdag den 7. januar 2026 Start på Knivkursus   
-Onsdag den 7. januar 2026 Start på indendørs dressus for hunde    
-Torsdag den 29. januar 2026 kl 19.30 Generalforsamling, spisning kl 18.30       
-Lørdag den 7. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen    
-Lørdag den 14. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen      
-Lørdag den 21. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen          
+---                    
 Lørdag den 28. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen      
 Lørdag den 7. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen    
 Lørdag den 14. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen      
