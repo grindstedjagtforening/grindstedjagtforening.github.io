@@ -35,4 +35,5 @@ Onsdag den 1. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen
 Onsdag den 8. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 15. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 22. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 29. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
+Onsdag den 29. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen   
+Mere følger senere, især august med landskamp på Trap-banen
