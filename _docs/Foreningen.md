@@ -6,6 +6,15 @@ last_modified_at: 2025-09-02T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
+## Nyt fra Hundeudvalget
+Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
+Der tilmeldes på GJF’s FB side til hver gang. Vi starter mandag den 13. april og træner frem til den 1. juni alle dage kl. 1900.    
+Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan.      
+
+## Flugtskydningsbanen    
+Vi starter året med at banen er åben alle lørdage i februar og marts fra 10.00 til 13.00   
+Fra april er træningen henlagt til onsdag aften 18.00 - 21.00   
+
 ## Trofæaften 26. marts 2026 kl 19.00   
 Denne aften afholder vi vores traditionelle trofæaften.   
 Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
@@ -104,12 +113,4 @@ OBS: Kniv og andre materialer kommer ud over denne pris.
 Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.       
 ![Kniv](/images/knivkursus.jpg)
 
-## Nyt fra Hundeudvalget
-Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
-Der tilmeldes på GJF’s FB side til hver gang. Vi starter mandag den 13. april og træner frem til den 1. juni alle dage kl. 1900.    
-Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan.      
 
-
-## Flugtskydningsbanen    
-Vi starter året med at banen er åben alle lørdage i marts fra 10.00 til 13.00   
-Fra april er træningen henlagt til onsdag aften 18.00 - 21.00   
