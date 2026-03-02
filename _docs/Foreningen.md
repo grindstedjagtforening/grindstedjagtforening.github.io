@@ -56,13 +56,12 @@ Valg til Natur- og Vildtplejeudvalg. John Pedersen blev valgt
 Valg til Flugtskydningsudvalg. Heino Hansen og Martin Damgaard er udpeget af jagtforeningen og Kim Lassen, Lars Hjorth og Klaus Frostholm blev genvalgt. Mona Holt Nielsen fratrådte.   
 Punkt 7. Krageben og Aktivitetspokal.    
 Krageben. Der er ingen ben indleveret til kragepokalen i 2025   
-Aktivitetspokal. Der blev ikke fundet en kandidat til aktivitetspokalen.    
-   
-Gunnar nedlægger hvervet som dirigent.    
+Aktivitetspokal. Der blev ikke fundet en kandidat til aktivitetspokalen.        
 Punkt 8. Eventuelt.   
 Lars Johansen: hvad er status med renovering af Lynghytten, Der er søgt fonde. Der skal være styr på penge inden start. Der bliver søgt mulig start d. 1/9    
 Martin Damgård: trap landskamp kommer til Grindsted i August så jagtforenings træningsaften har en uges pause.     
 Martin Moen: vil gerne snakke lidt for aktivespokalen, Vagn Jensen gør et stort arbejde for Grindsted Jagtforening.   
+Gunnar nedlægger hvervet som dirigent.   
 Afsluttende Hornblæsning -  Knæk og Bræk    
 Afslutning ved Formand Martin Moen – Tak for god ro og orden og tak til Gunnar. Tak til Hubertusblæserne   
     
