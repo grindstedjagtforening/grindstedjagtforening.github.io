@@ -6,7 +6,26 @@ last_modified_at: 2025-09-02T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
-## Generalforsamling 2026 Er afholdt i god ro og orden.    
+## Trofæaften 26. marts 2026 kl 19.00   
+Denne aften afholder vi vores traditionelle trofæaften.   
+Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
+Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:
+Årets danske buk    
+Årets danske hjort    
+Årets udenlandske buk    
+Årets udenlandske hjort     
+Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING     
+Årets trofæ afgøres som en afstemning blandt de tilstedeværende i salen. Dvs du kan stemme på alle indleverede
+trofæer udfra dine kriterier.
+Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
+GJF, er de også berettiget til at deltage.
+
+
+
+## Generalforsamling 2026 Er afholdt i god ro og orden. 
+
+
+
 Ordinær generalforsamling i Grindsted Jagtforening    
    
 Mødedato:	29.01.2026 i Lynghytten    
@@ -86,17 +105,11 @@ Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.
 ![Kniv](/images/knivkursus.jpg)
 
 ## Nyt fra Hundeudvalget
-Vinterdressur 2026:  Er i fuld gang. 
-Til alle der har unge jagthunde og hunde, der endnu ikke er helt lydige, tilbyder vi fordressur med fokus pä lydighed og lettere apportering.    
-Det foregår i den store ridehal, Nollundvej 116, Grindsted. Vi starter, onsdag den 7. januar 2026 kl. 19.00. Derefter hver onsdag til den 25. februar.
-For at kunne tilrettelægge forløbet, beder vi derfor om bindende tilmelding samt forudbetaling pá Mobilepay: 61260    
-Tilmelding til Michael:
-mn@unig.dk eller 20 600 770    
-pris 500,00 kr. som betales pá Mobilepay 61260 Noter venligst navn på hund og ejer    
-Deltagende hunde skal være vaccineret og have udvidet forsikring.   
-Hilsen
-Hundeudvalget - Grindsted Jagtforening
-   
+Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
+Der tilmeldes på GJF’s FB side til hver gang. Vi starter mandag den 13. april og træner frem til den 1. juni alle dage kl. 1900.    
+Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan.      
+
 
 ## Flugtskydningsbanen    
-Vi starter året med at banen er åben alle lørdage i februar fra 10.00 til 13.00
+Vi starter året med at banen er åben alle lørdage i marts fra 10.00 til 13.00   
+Fra april er træningen henlagt til onsdag aften 18.00 - 21.00   
