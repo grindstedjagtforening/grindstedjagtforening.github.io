@@ -9,7 +9,7 @@ toc: true
 ## Nyt fra Hundeudvalget
 Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
 Der tilmeldes på GJF’s FB side til hver gang. Vi starter mandag den 13. april og træner frem til den 1. juni alle dage kl. 1900.    
-Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan.      
+Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan. Det er ved Lynghytten, Vesterhedevej 3      
 
 ## Flugtskydningsbanen    
 Vi starter året med at banen er åben alle lørdage i februar og marts fra 10.00 til 13.00   
@@ -32,9 +32,6 @@ GJF, er de også berettiget til at deltage.
 
 
 ## Generalforsamling 2026 Er afholdt i god ro og orden. 
-
-
-
 Ordinær generalforsamling i Grindsted Jagtforening    
    
 Mødedato:	29.01.2026 i Lynghytten    
