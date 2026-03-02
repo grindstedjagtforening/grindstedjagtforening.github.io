@@ -5,6 +5,75 @@ excerpt: "Information om og fra bestyrelsen."
 last_modified_at: 2023-03-10T10:40:42-04:00
 toc: true
 ---
+## Formandsberetning ved generalforsmlingen 2026
+
+Formandens Beretning Generalforsamlingen den 29-1-2026   
+Sæsonen 2025   
+Jeg vil lige lave et lille resume af året 2025    
+Efter generalforsamlingen startede Flugtskydningsbanen op i februar.    
+Stigaskydningen blev ikke det store tilløbsstykke og vi overvejer lige hvad der skal ske med den aktivitet.   
+I marts havde vi trofæaften. den 18. marts.    
+Der kom en del trofæer fra Danmark og udlandet    
+Årets  Trofæ 			Simon Kruse med en monteret sikahjort     
+Årets danske buk 		Villy Nielsen     
+Årets Danske Hjort 		Finn Lauridsen   
+Årets Udlandske buk 		Martin Moen   
+Årets Udlandske Hjort 	Simon Kruse   
+Årets kniv			Claus Svendsen   
+Det var en hyggelig aften med mange fremmødte    
+Der var lodtrækning om nogle flasker vin til de fremmødte   
+  
+Bukketræf 16 Maj     
+Stort fremmøde  på ca 30-35 stykker. Det var flot morgen den 16 maj    
+Med fremvisning af 2 bukke    
+Vi er glade for at det kommer nogen og bakker op denne dag.   
+   
+Pokal skydning 26 august     
+Den 26 august havde vi igen Pokal skydning på Grindsted Flugtskydningsbane    
+2 trænings aftner og 1 pokal skydning      
+Det var ok besøgt på de 2 torsdage som vi afholdt sammen med  Hejnsvig Jagtforening og Billund Jagtforening.   
+Det er utrolig dejligt at vi kan afholde sådan godt arrangement sammen med vores gode nabo foreninger   
+Så tak til Hejnsvig og Billund    
+Vinder af pokal skydningen 2024   
+Lukket række     
+Meter række  	   
+    1. Emil Damgård 24/24   
+    2. delt 2 plads Finn og Leo   24/25   
+    3. Martin Damgård  24/26   
+A- række    
+    1. Finn Elbæk  24/27    
+    2. Chris Nielsen    22/25    
+    3. Kim Brogaard  22/26   
+B- rækken udgik   
+   
+I år stod vi også for den åbne skydning   
+Åben række     
+Mester Række    
+    1. Martin Damgaard  24/24    
+    2. Lars Johansen 23-24   
+    3. Emil Damgaard 23/25   
+    A. Rækken   
+    1. Søren Hedegård 24-24   
+    2. Klaus og Anton  22/26   
+    B. Rækken  Udgik    	
+   
+Tillykke til vinderne    
+Vi håber at se så mange som muligt igen i august  i år    
+
+Riffelbanen   
+I april og maj og hele august havde vi aktivitet på riffelbanen med mange ivrige riffelskytter til træning og indskydning. Det gentager vi i 2026.   
+
+Grindsted flugtskydningsbanen   
+I samme vending vil jeg også slå et slag for Grindsted flugtskydningsbane    
+Som også snart starter op med skydninger igen, hvor alle er meget velkommen    
+Husk I kan følge med datoerne på hjemmesiden og på facebook med træning og skydninger    
+Formandens Beretning  fra flugtskydningsudvalget vil jeg overlade til Heino når det bliver hans tur.   
+
+Tak til Gunnar for at han igen igen ville være dirigent igen i år.   
+Tak til Kim Brogaard for at lave referatet    
+Stor tak for hjælpen i 2025 til alle udvalg og alle i bestyrelsen.     
+Knæk og Bræk  i sæsonen  2026    
+Martin Moen   
 ## Førstehjælpskursus
 Første hjælps kursus i den 12-10-2023  
 Vi var 11 deltager.  
