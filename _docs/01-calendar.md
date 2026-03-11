@@ -2,11 +2,9 @@
 title: "Kalender 2026"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2026-2-7T18:40:42-04:00
+last_modified_at: 2026-3-11T18:40:42-04:00
 toc: true
----                    
-Lørdag den 28. februar 2026 10.00 til 13.00 træning på flugtskydningsbanen      
-Lørdag den 7. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen    
+---                        
 Lørdag den 14. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen      
 Lørdag den 21. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen              
 Torsdag den 26. marts 2026 Trofæaften kl 19.00 i Lynghytten    
