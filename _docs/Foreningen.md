@@ -8,7 +8,7 @@ toc: true
 ## Se kalenderen for alle aktiviteter 
 ## Nyt fra Hundeudvalget
 Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
-Der tilmeldes på GJF’s FB side til hver gang. Vi starter mandag den 13. april og træner frem til den 1. juni alle dage kl. 1900.    
+Der tilmeldes på GJF’s FB side til hver gang. Vi starter torsdag den 9. april og træner frem til den 1. juni alle dage kl. 1900.    
 Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan. Det er ved Lynghytten, Vesterhedevej 3      
 
 ## Flugtskydningsbanen    
@@ -18,7 +18,8 @@ Fra april er træningen henlagt til onsdag aften 18.00 - 21.00
 ## Trofæaften 26. marts 2026 kl 19.00   
 Denne aften afholder vi vores traditionelle trofæaften.   
 Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
-Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:   
+Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:
+Årets kniv
 Årets danske buk    
 Årets danske hjort    
 Årets udenlandske buk    
@@ -28,7 +29,22 @@ Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING
 trofæer udfra dine kriterier.
 Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
 GJF, er de også berettiget til at deltage.
+## Riffelbanen
+Riffelbanen ved Frodeslund har åben hver torsdag fra den 9. april og torsdage i maj indtil 16. maj. Det er fra kl 18 til 21.   
+Alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.       
+Til dem som skal træne til en kommende riffelprøve tilbyder vi undervisning.       
+Riffelbanen findes på Tingvejen i Grindsted, ved siden af flisværket.       
+Der står skilt til både flisværk og riffelbane ved hovedvejen. GPS: Tingvejen 396, 7200 Grindsted   
+Der skydes fra kl. 18:00 til 21:00 (eller solnedgang hvis denne kommer før kl 21).   
+Torsdag 9. apr, 16. apr, 23. apr, 30. apr. 7. maj og 14. maj   
+Der betales 30 kr for en aftentræning pr. skytte.   
+I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger som vi selv skyder, se detaljer på deres hjemmeside.
+## Natur- og Vildtplejeudvalg    
+Senest den 1. april for bestilling af fasaner til udlevering i august. Prisen er 40 kr for de første 40 stk, 50 kr for yderlig køb. Henvendelse til Kim Hansen, 40648819
 
+## Mærkeskydning
+Lørdag den 4. april afholdes der mærkeskydning på riffelbanen i Ansager kl 10.00 – 15.00. Pris 50 kr.
+Der vil også være mulighed for indskydning og træning.
 ## Generalforsamling 2026 Er afholdt i god ro og orden. 
 Ordinær generalforsamling i Grindsted Jagtforening    
    
@@ -93,19 +109,3 @@ Formand Martin Moen
 Næstformand Kim Brogaard   
 Kasserer Vagn Jensen    
 Medlemmer Jakob Vikær, Michael Nielsen, Heino Hansen, Finn Lauridsen    
-
-## Knivkursus 2026   
-Er i gang med næsten fuld hold. Vi er spændte på resultatet der vises på trofæaftenen den 26. marts kl 19.00
-Traditionen tro afholdes der i Grindsted Jagtforening knivkursus, hvor kursisterne under kyndig vejledning bygger deres egen jagtkniv.    
-Opstart er onsdag den 7. januar kl 19.00 i sløjdlokalet pả Vester Skole, derefter hver onsdag kl 19.00, dog ikke i uge 7. I alt 10 gange.
-Går du og drømmer om den hele rigtig jagtkniv og ønsker du dig noget ingen har,
-så har du igen i år muligheden for at lave din helt egen personlige jagtkniv.    
-Der er 12 pladser på holdet og vi ser frem til at få netop din tilmelding der er gældende når du har betalt og fået en bekræftelse.    
-Tilmelding skal ske til Heino Hansen på telefon 22 44 03 00    
-Vi ses til ca 10 aftener i knivenes tegn.     
-Prisen er 500 kr og i prisen er også 1 stk øl/vand og 3 stk smørrebrød den sidste aften    
-OBS: Kniv og andre materialer kommer ud over denne pris.    
-Betaling: kontooverførelse til 7702 1068226 eller MobilePay GJF: 46352.       
-![Kniv](/images/knivkursus.jpg)
-
-
