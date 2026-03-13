@@ -18,17 +18,17 @@ Fra april er træningen henlagt til onsdag aften 18.00 - 21.00
 ## Trofæaften 26. marts 2026 kl 19.00   
 Denne aften afholder vi vores traditionelle trofæaften.   
 Så tag dine trofæer ned fra sømmet på væggen og tag det med i Lynghytten på denne altid hyggelige aften. Om trofæet er stort eller lille har ingen betydning, og har du ikke skudt noget er du meget velkommen alligevel. ALLE indleverede trofæer giver et lod til lodtrækning om en masse flasker god vin.    
-Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:
-Årets kniv
+Selvom det ikke er størrelsen på trofæet, der er det vigtigste, vil GJF alligevel som sædvanligt kåre de bedste trofæer i følgende kategorier:    
+Årets kniv     
 Årets danske buk    
 Årets danske hjort    
 Årets udenlandske buk    
 Årets udenlandske hjort     
 Til sidst kårer vi: ÅRETS TROFÆ I GRINDSTED JAGTFORENING     
 Årets trofæ afgøres som en afstemning blandt de tilstedeværende i salen. Dvs du kan stemme på alle indleverede
-trofæer udfra dine kriterier.
+trofæer udfra dine kriterier.    
 Har du udstoppede trofæer fra forrige jagtsæson, og som ikke var færdiglavede på tidspunktet for sidste trofæaften i
-GJF, er de også berettiget til at deltage.
+GJF, er de også berettiget til at deltage.   
 ## Riffelbanen
 Riffelbanen ved Frodeslund har åben hver torsdag fra den 9. april og torsdage i maj indtil 16. maj. Det er fra kl 18 til 21.   
 Alle der kan fremvise et jagttegn og riffeltilladelse til den medbragte riffel, kan møde op for træning på 100 meter samt 200 meter bane. Indskydning af riffel kan også foretages på disse dage. Der vil være erfarne folk til stede alle dage, således vi kan vejlede både i skydeteori, våbenbetjening samt være behjælpelig med indskydning.       
@@ -43,7 +43,7 @@ I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger
 Senest den 1. april for bestilling af fasaner til udlevering i august. Prisen er 40 kr for de første 40 stk, 50 kr for yderlig køb. Henvendelse til Kim Hansen, 40648819
 
 ## Mærkeskydning
-Lørdag den 4. april afholdes der mærkeskydning på riffelbanen i Ansager kl 10.00 – 15.00. Pris 50 kr.
+Lørdag den 4. april afholdes der mærkeskydning på riffelbanen i Ansager kl 10.00 – 15.00. Pris 50 kr.    
 Der vil også være mulighed for indskydning og træning.
 ## Generalforsamling 2026 Er afholdt i god ro og orden. 
 Ordinær generalforsamling i Grindsted Jagtforening    
