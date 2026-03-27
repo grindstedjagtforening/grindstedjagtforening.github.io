@@ -37,7 +37,7 @@ Riffelbanen findes på Tingvejen i Grindsted, ved siden af flisværket.
 Der står skilt til både flisværk og riffelbane ved hovedvejen. GPS: Tingvejen 396, 7200 Grindsted   
 Der skydes fra kl. 18:00 til 21:00 (eller solnedgang hvis denne kommer før kl 21).   
 Torsdag 9. apr, 16. apr, 23. apr, 30. apr. 7. maj og 14. maj   
-Der betales 30 kr for en aftentræning pr. skytte.   
+Der betales 50 kr for en aftentræning pr. skytte.   
 I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger som vi selv skyder, se detaljer på deres hjemmeside.
 ## Natur- og Vildtplejeudvalg    
 Senest den 1. april for bestilling af fasaner til udlevering i august. Prisen er 40 kr for de første 40 stk, 50 kr for yderlig køb. Henvendelse til Kim Hansen, 40648819
