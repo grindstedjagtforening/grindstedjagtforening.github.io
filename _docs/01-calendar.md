@@ -5,9 +5,7 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2026-3-11T18:40:42-04:00
 toc: true
 ---                        
-Lørdag den 14. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen      
-Lørdag den 21. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen              
-Torsdag den 26. marts 2026 Trofæaften kl 19.00 i Lynghytten    
+    
 Lørdag den 28. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen         
 Bestilling af fasaner til udlevering i august. Sidste frit den 1. april.   
 Onsdag den 1. april 2026 18.00 til 21.00 træning på flugtskydningsbanen  
