@@ -7,7 +7,7 @@ toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
 ## Nyt fra Hundeudvalget
-Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 50,00 kr. for hver træning og kom efter behov.     
+Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 60,00 kr. for hver træning og kom efter behov.     
 Der tilmeldes på GJF’s FB side til hver gang. Vi starter torsdag den 9. april og træner frem til den 1. juni alle dage kl. 1900.    
 Så kan du ikke alle dage eller har du “kun” brug for et gange - så kommer du når du kan. Det er ved Lynghytten, Vesterhedevej 3      
 
