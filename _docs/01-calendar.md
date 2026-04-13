@@ -5,13 +5,8 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2026-3-11T18:40:42-04:00
 toc: true
 ---                        
-    
-Lørdag den 28. marts 2026 10.00 til 13.00 træning på flugtskydningsbanen         
-Bestilling af fasaner til udlevering i august. Sidste frit den 1. april.   
-Onsdag den 1. april 2026 18.00 til 21.00 træning på flugtskydningsbanen  
-Torsdag den 2. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Onsdag den 8. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 9. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
+            
+Bestilling af fasaner til udlevering i august. Sidste frit den 1. april.    
 Onsdag den 15. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Torsdag den 16. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
 Onsdag den 22. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
