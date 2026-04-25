@@ -2,10 +2,28 @@
 title: "Kommende aktiviteter"
 permalink: /docs/Foreningen/
 excerpt: "Information om og fra bestyrelsen."
-last_modified_at: 2025-09-02T17:40:42-04:00
+last_modified_at: 2026-04-25T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
+## Mødeindkaldelse ,l debatmøde med Danmarks Jægerforbunds formand Claus Lind Christensen   
+Velkomst ved Jægerrådsformand Martin Moen   
+Vores fælles kamp for jagten i Danmark har aldrig været vigtigere som nu, så mød talstærkt op   
+På vegne af Billunds Jægerråd, og Jagtforeningerne i Billund kommune, vil vi gerne med dette oplæg invitere alle medlemmer til en debataften med Formanden Claus Lind Christensen og kredsbestyrelses medlem Jørn Pedersen.   
+Der har i et stykke tid været nogle uopklarede spørgsmål fra medlemmerne, som vi føler der skulle uddybes yderligere.   
+Er vi alle gode nok til at fortælle den gode historie, er DJ synlige nok i debatterne. Også Ulvedebatten.   
+Hvorfor skal den nye Danske natur være indhegnet?   
+Vi har kun 3 timer, og vi vil gerne rundt i alle spørgsmål, så der forventes en god og saglig tone i alle indlæg. Gør det nu kort.  
+Til Dirigent har vi valgt Kommunalbestylsesmedlem fra de Konservative Lars Hansen.   
+Spørgsmål til Claus Lind Christensen ved mødet den 11/5-2026 kl 19,30   
+1  Fredninger??? Er sprossefredning det rigtige, medl. I Billund kommune mener nej, Har sprosser en alder?, hvorfor skal en vej afgøre en særfredning, hvorfor skal vi ikke ha ens jagttider, som minimum i landsdelene (Jylland, Fyn, Sjælland). Man behøver ikke være enige om en indstilling i Vildt forvaltningsrådet.   
+2   Naturbrugere. Vi har i Billund Kommune flere bynære skove og naturområder, den ene (Gyttegård plantage) er nærmest ødelagt af naturbrugere der ikke betaler en krone for at bruge/ødelægge naturen med Mountain baner, løberuter, og shelter områder, hvor man må færdes  hele året uden hensyntagen til dyrenes og fuglenes yngleperioder. Hvor har vi DJ der.          
+3   Er det den rigtig måde vi vælger formanden på? I Billund kommune har vi 6 mandater ud af 1200 medlemmer. Det kan blive svært at få en organisationsændring med denne valgform, det kunne være ønskeligt med en valgform hvor det enkelte medlem fik mere indflydelse på udfaldet.           
+4   Frivillige, lytter DJ nok, og passer de nok på deres frivillige, det er ikke altid oplevelsen, den gode ide føres ikke altid ud i livet,  Er DJ god nok til at fortælle den gode historie, så ikke kun jægere forstår den,    
+5   Hvem bestemmer dagsordenen, er det DJ, eller er det organisationerne, eller er det medlemmerne. Er afstanden ved at være for stor, har medlemmerne mistet troen på DJ?   
+6   Forvalter DJ deres mandat i Vildtforvaltningsrådet godt nok, er det jægernes ønsker der præsenteres kraftig nok i forhold til den indsats der lægges ude i landet. Kan vi ikke forvente mere i forhold til vores bidrag og indsats, i forhold til hvad de andre medlemmer i rådet yder?     
+7   Hvorfor kan man kun være medlem i en Jagtforening, hvis man er medlem af Danmarks Jægerforbund, man kan jo godt være medlem af DJ, uden at være medlem i en Jagtforening?    
+Vi forventer at Formændene i de lokale Jagtforeninger i Kommunen får indkaldt alle deres medlemmer så vi kan møde så mange som mulig op til aftenen. Tilbagemeldingen til Jægerrådsformanden skal ske senest 4.Maj-2026        
 ## Nyt fra Hundeudvalget
 Vi starter vores Pay & Train - ingen tilmelding til et hold forløb, men betal 60,00 kr. for hver træning og kom efter behov.     
 Der tilmeldes på GJF’s FB side til hver gang. Vi starter torsdag den 9. april og træner frem til den 1. juni alle dage kl. 1900.    
@@ -25,8 +43,6 @@ Der skydes fra kl. 18:00 til 21:00 (eller solnedgang hvis denne kommer før kl 2
 Torsdag 9. apr, 16. apr, 23. apr, 30. apr. 7. maj og 14. maj   
 Der betales 50 kr for en aftentræning pr. skytte.   
 I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger som vi selv skyder, se detaljer på deres hjemmeside.
-## Natur- og Vildtplejeudvalg    
-Senest den 1. april for bestilling af fasaner til udlevering i august. Prisen er 40 kr for de første 40 stk, 50 kr for yderlig køb. Henvendelse til Kim Hansen, 40648819
 
 ## Generalforsamling 2026 Er afholdt i god ro og orden. 
 Ordinær generalforsamling i Grindsted Jagtforening    
