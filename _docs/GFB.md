@@ -2,24 +2,34 @@
 title: "GFB - Flugtskydningsbanen"
 permalink: /docs/about/
 excerpt: "Information fra GFB"
-last_modified_at: 2026-02-9T20:00:00-04:00
+last_modified_at: 2026-04-25T20:00:00-04:00
 toc: true
 ---
-### Program for GFB 2026.        
-Lørdag den 7. februar 2026 10.00 til 13.00    
-Lørdag den 14. februar 2026 10.00 til 13.00    
-Lørdag den 21. februar 2026 10.00 til 13.00    
-Lørdag den 28. februar 2026 10.00 til 13.00    
-Lørdag den 7. marts 2026 10.00 til 13.00    
-Lørdag den 14. marts 2026 10.00 til 13.00   
-Lørdag den 21. marts 2026 10.00 til 13.00   
-Lørdag den 28. marts 2026 10.00 til 13.00    
-Onsdag den 1. april 2026 18.00 til 21.00     
-April: 	Træning alle onsdage 18 - 21.    
-    	RAH starter den 7. fra 18 - 21    
-Maj: 	Træning alle onsdage 18 - 21.    
-Juni: 	Træning alle onsdage 18 - 21.    
-Juli: 	Træning alle onsdage 18 - 21.    
+### Program for GFB 2026.           
+Tirdag den 28. april 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 29. april 2026 18.00 til 21.00     
+Tirsdag den 5. maj 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 6. maj 2026 18.00 til 21.00     
+Tirsdag den 12. maj 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 13. maj 2026 18.00 til 21.00     
+Tirsdag den 19. maj 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 20. maj 2026 18.00 til 21.00     
+Tirsdag den 26. maj 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 27. maj 2026 18.00 til 21.00     
+Tirsdag den 2. juni 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 3. juni 2026 18.00 til 21.00     
+Tirsdag den 9. juni 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 10. juni 2026 18.00 til 21.00     
+Tirsdag den 16. juni 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 17. juni 2026 18.00 til 21.00     
+Tirsdag den 23. juni 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 24. juni 2026 18.00 til 21.00     
+Tirsdag den 30. juni 2026 18.00 til 21.00 Holdskydning         
+Onsdag den 1. juli 2026 18.00 til 21.00     
+Onsdag den 8. juli 2026 18.00 til 21.00     
+Onsdag den 15. juli 2026 18.00 til 21.00     
+Onsdag den 22. juli 2026 18.00 til 21.00     
+Onsdag den 29. juli 2026 18.00 til 21.00     
 Tirsdag den 4. august 2026 18.00 til 21.00 Træning for Grindsted/Hejnsvig/Billund    
 Onsdag den 5. august 2026 18.00 til 21.00 Træning     
 Tirsdag den 11. august 2026 18.00 til 21.00 Træning for Grindsted/Hejnsvig/Billund      
