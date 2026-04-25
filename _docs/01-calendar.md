@@ -2,7 +2,7 @@
 title: "Kalender 2026"
 permalink: /docs/calendar/
 excerpt: "Kommende aktiviteter i foreningen."
-last_modified_at: 2026-3-11T18:40:42-04:00
+last_modified_at: 2026-4-25T18:40:42-04:00
 toc: true
 ---                        
             
@@ -17,6 +17,7 @@ Onsdag den 6. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen
 Torsdag den 7. maj 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
 Onsdag den 13. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Torsdag den 14. maj 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
+Lørdag den 16. maj 2026 08.00 til 10.00 Bukkepral ved Lynghytten.   
 Onsdag den 20. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 27. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 3. juni 2026 18.00 til 21.00 træning på flugtskydningsbanen    
