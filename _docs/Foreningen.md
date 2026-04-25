@@ -6,7 +6,7 @@ last_modified_at: 2026-04-25T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
-## Mødeindkaldelse ,l debatmøde med Danmarks Jægerforbunds formand Claus Lind Christensen   
+## Mødeindkaldelse til debatmøde med Danmarks Jægerforbunds formand Claus Lind Christensen   
 Velkomst ved Jægerrådsformand Martin Moen   
 Vores fælles kamp for jagten i Danmark har aldrig været vigtigere som nu, så mød talstærkt op   
 På vegne af Billunds Jægerråd, og Jagtforeningerne i Billund kommune, vil vi gerne med dette oplæg invitere alle medlemmer til en debataften med Formanden Claus Lind Christensen og kredsbestyrelses medlem Jørn Pedersen.   
