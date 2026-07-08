@@ -5,28 +5,31 @@ excerpt: "Kommende aktiviteter i foreningen."
 last_modified_at: 2026-4-25T18:40:42-04:00
 toc: true
 ---                        
-            
-Bestilling af fasaner til udlevering i august. Sidste frit den 1. april.    
-Onsdag den 15. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 16. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Onsdag den 22. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 23. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Onsdag den 29. april 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 30. april 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Onsdag den 6. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 7. maj 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Onsdag den 13. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Torsdag den 14. maj 2026 18.00 til 21.00 træning og indskydning på riffelbanen    
-Lørdag den 16. maj 2026 08.00 til 10.00 Bukkepral ved Lynghytten.   
-Onsdag den 20. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 27. maj 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 3. juni 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 10. juni 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 17. juni 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 24. juni 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 1. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
+                
 Onsdag den 8. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 15. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
 Onsdag den 22. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen    
-Onsdag den 29. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen   
+Onsdag den 29. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Onsdag den 29. juli 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Tirsdag den 4. august 2026 18.00 til 21.00 træning for Grindsted- og Hejnsvig- og Billund Jagtforening på flugtskydningsbanen
+Onsdag den 5. august 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Torsdag den 6. august 2026 Riffelbanen i Frodeslund 18.00 - 21.00
+Tirsdag den 11. august 2026 18.00 til 21.00 træning for Grindsted- og Hejnsvig- og Billund Jagtforening på flugtskydningsbanen
+Onsdag den 12. august 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Torsdag den 13. august 2026 Riffelbanen i Frodeslund 18.00 - 21.00
+Mandag den 17. august 2026 Forberedelse til Det skandinaviske mesterskab i NT
+Tirsdag den 18. august 2026 Forberedelse til Det skandinaviske mesterskab i NT 
+Onsdag den 19. august 2026 Forberedelse til Det skandinaviske mesterskab i NT
+Torsdag den 20. august 2026 Riffelbanen i Frodeslund 18.00 - 21.00
+Torsdag den 20. august 2026 Det skandinaviske mesterskab i NT
+Fredag den 21. august 2026 Det skandinaviske mesterskab i NT
+Lørdag den 22. august 2026 Det skandinaviske mesterskab i NT
+Søndag den 23. august 2026 Det skandinaviske mesterskab i NT
+Tirsdag den 25. august 2026 18.00 til 21.00 Pokalskydning for Grindsted- og Hejnsvig- og Billund Jagtforening på flugtskydningsbanen
+Onsdag den 26. august 2026 18.00 til 21.00 træning på flugtskydningsbanen
+Torsdag den 27. august 2026 Riffelbanen i Frodeslund 18.00 - 21.00
+Lørdag den 28. november 2026 10.00 Juleknasskydning på flugtskydningsbanen
+
+<img width="113" height="297" alt="image" src="https://github.com/user-attachments/assets/21c684ea-f659-40b1-8080-e4d78eac44c4" />
+
 Mere følger senere, især august med landskamp på Trap-banen
