@@ -12,6 +12,10 @@ Fredag den 22. starter selve Landskampen med indmarch og flaghejsning og de nati
 Der skydes på 3 baner hvor den 3. bane kommer til at ligge imellem bag-due og venstre-due.     
 Jagtbanen lukket i hele uge 34 da der skal stilles telt op og alt skal gøres klar.    
 Alle er selvfølgelig velkommen til at komme og se på og opleve stemningen til det Skandinaviske mesterskab.
+## Grindsted Festuge
+<img width="3508" height="4961" alt="image" src="https://github.com/user-attachments/assets/98f1cd7e-46c2-42d2-957f-babc4a8c3b3c" />
+
+
 
 ## Flugtskydningsbanen    
 Flugtskydningsbanen har stadig fuld gang i træning hver onsdag i juli 18.00 – 21.00.    
