@@ -16,7 +16,7 @@ Alle er selvfølgelig velkommen til at komme og se på og opleve stemningen til 
 ## Flugtskydningsbanen    
 Flugtskydningsbanen har stadig fuld gang i træning hver onsdag i juli 18.00 – 21.00.    
 For august bliver træningen om onsdagen afbrudt af det skandinaviske mesterskab der afvikles på banen i uge 34.   
-Der er ingen træning i september og november.
+Der er ingen træning i september og oktober.
 
 ## Riffelbanen
 Riffelbanen ved Frodeslund har åben hver torsdag i august fra kl 18 til 21.   
