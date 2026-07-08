@@ -7,13 +7,16 @@ toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
 ## Det skandinaviske mesterskab i Nordisk Trap
-Det skandinaviske mesterskab/Landskampen skal afholdes i Grindsted fra torsdag den 21. august hvor landsholdene møder ind til træning. Der kommer skytter fra Norge, Sverige, Island, Færøerne og ikke mindst Danmark ialt ca 90 skytter. Fredag den 22. starter selve Landskampen med indmarch og flaghejsning og de nationale sange. Skydning starter kl 9.00 og første dag skydes der til 100 duer og anden dag , 23. august skydes til 50 duer plus finaler i alle klasser. Der skydes på 3 baner hvor den 3. bane kommer til at ligge imellem bag-due og venstre-due. 
-Jagtbanen lukket i hele uge 34 da der skal stilles telt op og alt skal gøres klar.
+Det skandinaviske mesterskab/Landskampen skal afholdes i Grindsted fra torsdag den 21. august hvor landsholdene møder ind til træning. Der kommer skytter fra Norge, Sverige, Island, Færøerne og ikke mindst Danmark ialt ca 90 skytter.     
+Fredag den 22. starter selve Landskampen med indmarch og flaghejsning og de nationale sange. Skydning starter kl 9.00 og første dag skydes der til 100 duer og anden dag , 23. august skydes til 50 duer plus finaler i alle klasser.     
+Der skydes på 3 baner hvor den 3. bane kommer til at ligge imellem bag-due og venstre-due. 
+Jagtbanen lukket i hele uge 34 da der skal stilles telt op og alt skal gøres klar.    
  Alle er selvfølgelig velkommen til at komme og se på og opleve stemningen til det Skandinaviske mesterskab.
 
 ## Flugtskydningsbanen    
 Flugtskydningsbanen har stadig fuld gang i træning hver onsdag i juli 18.00 – 21.00.    
-For august bliver træningen om onsdagen afbrudt af det skandinaviske mesterskab der afvikles på banen i uge 34.     
+For august bliver træningen om onsdagen afbrudt af det skandinaviske mesterskab der afvikles på banen i uge 34.   
+Der er ingen træning i september og november.
 
 ## Riffelbanen
 Riffelbanen ved Frodeslund har åben hver torsdag i august fra kl 18 til 21.   
