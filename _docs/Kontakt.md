@@ -7,7 +7,7 @@ toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
 
-Riffelbane: Tingvejen 394 (bag Flisværket). 
+Riffelbane: Frodeslund, Tingvejen 394 (bag Flisværket). 
 
 Formand: Martin Moen: tlf 40927746.    
 Næstformand: Kim Brogaard.    
