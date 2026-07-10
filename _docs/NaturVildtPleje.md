@@ -7,7 +7,9 @@ toc: true
 ---
 ### Natur- og Vildtplejeudvalgets formål 
 Natur- og Vildtplejeudvalgets formål er at yde tilskud til pleje af egnens natur, herunder til udsætning af vildt, ophjælpning af truede vildtarter, anlægning af remisser og lignende.   
-
+## Udlevering af bestilte fugle 2026
+Udlevering af de bestilte fasaner den 9. august kl 10.00 på Klostergården, Engmosevej 4.   
+Henvendelse til Kim Hansen, 40648819
 ### Bestilling af fasaner i 2026
 Natur- og Vildtplejeudvalget tilbyder fasaner til vores medlemmer.          
 
