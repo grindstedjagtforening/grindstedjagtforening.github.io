@@ -31,3 +31,16 @@ Der står skilt til både flisværk og riffelbane ved hovedvejen. GPS: Tingvejen
 Der skydes fra kl. 18:00 til 21:00  
 Der betales 50 kr for en aftentræning pr. skytte.   
 I må også meget gerne møde op til BJF’s skydninger om onsdagen i samme uger som vi selv skyder, se detaljer på deres hjemmeside.
+
+## Hundetræning
+Den 24. august starter ny omgang med 4 gange hundetræning. Vi mødes ved Lynghytten kl 19.00. Vi bruger vores Pay & Train - ingen tilmelding til et hold forløb, men betal 60,00 kr. for hver træning og kom efter behov. Der tilmeldes på GJF’s FB side til hver gang.  
+## Natur- og Vildtplejeudvalg
+Udlevering af de bestilte fasaner den 9. august kl 10.00 på Klostergården, Engmosevej 4.    
+Henvendelse til Kim Hansen, 40648819
+## Andekort til jagten ved Ribe. 
+Grindsted og Billund jagtforeninger har lejet stykket med et samlet areal på ca. 48 ha. ved Farup vest for Ribe - ikke langt fra Kammerslusen.     
+Ved rette vejrforhold er der mulighed for at skyde både ænder, gæs og bekkasiner, hvorimod hårvildt og hønsefugle ikke indgår i jagtlejen.    
+Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2025- 31.januar 2026). Der kan købes et gæstekort til en ledsagende kammerat. For jagten på gæs i august gælder særlige regler se Naturstyrelsen hjemmeside eller på GJF’s hjemmeside. 
+Årskort og gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller, til konto 7702 1068226 eller kontant.     
+Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund 
+Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.  
