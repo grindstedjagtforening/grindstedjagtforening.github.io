@@ -2,7 +2,7 @@
 title: "Kontakt foreningen"
 permalink: /docs/kontakt/
 excerpt: "Kontakt bestyrelsen og udvalg"
-last_modified_at: 2026-02-06T10:40:42-04:00
+last_modified_at: 2026-11-09T10:40:42-04:00
 toc: true
 ---
 Klubhus: Lynghytten, Vesterhedevej 3, Grindsted. 
@@ -19,7 +19,7 @@ Flugtskydningsudvalg (GFB): Heino Hansen tlf 22440300.
 Aktivitetsudvalg: Kim Brogaard.   
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
 Hundeudvalg: Michael Nielsen. tlf 20600770   
-Nyvalgt Jakob Vikær    
+Kommende WEB-master: Jakob Vikær    
 Riffeludvalg: Finn Lauridsen tlf 40417515     
 
 Bankforbindelse: Sydbank.    
