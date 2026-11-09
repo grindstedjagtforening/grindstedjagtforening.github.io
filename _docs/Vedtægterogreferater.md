@@ -22,12 +22,16 @@ Punkt 2. Formandens beretning v/ Martin Moen
 Martin førte os gennem året 2025 med aktiviteter og begivenheder.    
 Punkt 3.    
 Udvalgenes beretninger:   
-Hundeudvalg ved Michael Nielsen: Opstart januar 2025 med kun 4 hunde var for lidt og kurset blev aflyst. Sommer træning gik rigtig godt med mange hunde og her i 2026 er der mange til indedørs træning med 14-15  hunde. Opstart til sommerens træning bliver “pay an play”, du betaler pr gang du kommer, tilmelder sig ved Michael. Mere herom senere.      
-Jagtudvalg ved Finn Lauridsen: Jagt i Ribe sammen med Billund, der er i år solgt 29 kort, der er skudt 129 stk vildt. Et kort koster 500kr og der kan købes gæstekort.   
+Hundeudvalg ved Michael Nielsen:    
+Opstart januar 2025 med kun 4 hunde var for lidt og kurset blev aflyst.    
+Sommertræning gik rigtig godt med mange hunde og her i 2026 er der mange til indedørs træning med 14-15  hunde. Opstart til sommerens træning bliver “pay an play”, du betaler pr gang du kommer, tilmelder sig ved Michael. Mere herom senere.      
+Jagtudvalg ved Finn Lauridsen:    
+Jagt i Ribe sammen med Billund, der er i år solgt 29 kort, der er skudt 129 stk vildt. Et kort koster 500kr og der kan købes gæstekort.   
 Riffeludvalg Finn Lauridsen: Der har været skydning fra d. 2/4 til 15/5 og så hver torsdag i august. Der kommer en riffelprøve igen i år. Det bliver den 22/8.   
 Natur og vildtpleje udvalg ved Kim Hansen: Der er udleveret total 210 fugle, heraf flere som tidlige fasan i juli. Ønsker man at bestille fugle i 2026 skal det ske hurtigst muligt, priser på fugle er det samme som i 2025. Der har ikke været ansøgt om planter i 2025.    
 Flugtskydningudvalg ved Heino Hansen: 2025 var året hvor maskinerne drillede meget, alt er blevet lavet, og køre i skønneste orden. Protrap holder det godt kørende, og der er kommet nye skytter til. Programmet for 2026 er klar. Der er god opbakning til RAH og der var flere vindere til finaleskydningen.    
-Ungjæger ved Emil Damgård: Der er ikke sket meget i årets løb. Der er prøvet at samle folk nok til en jagt, det lykkes desværre ikke. Der skal tages kontakt til kommunen angående nye regler for jagten og jagterne skal fastsættes i god tid. Måske vi kan få tilladelse fra kommunen til tage flere med udenfor målgruppen.   
+Ungjæger ved Emil Damgård:    
+Der er ikke sket meget i årets løb. Der er prøvet at samle folk nok til en jagt, det lykkes desværre ikke. Der skal tages kontakt til kommunen angående nye regler for jagten og jagterne skal fastsættes i god tid. Måske vi kan få tilladelse fra kommunen til tage flere med udenfor målgruppen.   
 Hubertusblæser ved Martin Moen: De er stadig i gang og de vil gerne have flere medlemmer, Der spilles om onsdagen i Starup med dygtig underviser.   
 Knivkursus ved Heino Hansen: Finn er stoppet som underviser og Claus Svendsen har taget over. Han gør det godt. Der bliver vist knive frem d 26/3 til troaften.   
 Jægerrådet / jægerrådet:  Martin Moen    
