@@ -10,6 +10,11 @@ toc: true
 
 ## Flugtskydningsbanen    
 Flugtskydningsbanen har ikke flere aktiviteter i år. Juleknasskydningen er aflyst da Lynghytten er under ombygning.
+## Knivkursus 2027
+Der starter et nyt kursus op den 6. januar. Det er igen på Vestre Skole. Tilmelding til Heino. 2244 0300.     
+Kurset henvender sig til jæger og lystfisker eller til alle der gerne vil lave sin helt personlige kniv og skede.   
+Det kan også være at de gode gamle køkkenknive trænger til nye skæfter.    
+Tilmelding til Heino. 2244 0300. 
 ## Hundetræning
 Den 7. januar starter ny omgang hundetræning. Herom senere. 
 ## Andekort til jagten ved Ribe. 
