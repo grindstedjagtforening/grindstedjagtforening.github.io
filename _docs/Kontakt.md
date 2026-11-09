@@ -20,8 +20,7 @@ Aktivitetsudvalg: Kim Brogaard.
 Natur-og Vildtplejeudvalg: Kim Hansen. tlf 40648819   
 Hundeudvalg: Michael Nielsen. tlf 20600770   
 Nyvalgt Jakob Vikær    
-Riffeludvalg: Finn Lauridsen tlf 40417515    
-Hubertus Blæserne: Lars Christensen, 61467990   
+Riffeludvalg: Finn Lauridsen tlf 40417515     
 
 Bankforbindelse: Sydbank.    
 MobilePay GJF: 46352  
@@ -33,12 +32,12 @@ Mail til Flugtskydningsbanen GFB: gfb.invoice@outlook.dk
 Facebook: 'Grindsted Flugtskyde Bane GFB'  
 Facebook: 'Grindsted Jagtforening'
 
-###### Fra Schweissregisteret den 19. nov 2022
+###### Fra Schweissregisteret den 11. nov 2026
 Ansager: Henry Bertelsen - 20 33 77 19  
 Ansager: Finn Hyldahl Petersen - 26 83 72 74.  
 Hejnsvig: Jens Holm Christensen - 20 88 91 66  
 Sdr Omme: Olaf Grøn Lyngby - 23 48 19 76   
-Sdr Omme: Heine Tirsbæk Jørgensen - 40 79 49 44. 
+
 
 ###### Kontingent 2026
 Ordinære:	969kr    
