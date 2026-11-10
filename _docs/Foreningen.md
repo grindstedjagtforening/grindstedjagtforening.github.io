@@ -6,7 +6,6 @@ last_modified_at: 2026-11-09T17:40:42-04:00
 toc: true
 ---
 ## Se kalenderen for alle aktiviteter 
-## 
 
 ## Flugtskydningsbanen    
 Flugtskydningsbanen har ikke flere aktiviteter i år. Juleknasskydningen er aflyst da Lynghytten er under ombygning.
