@@ -2,15 +2,15 @@
 title: "Natur- og Vildtpleje"
 permalink: /docs/NaturVildtPleje/
 excerpt: "Information om og fra Natur- og Vildtplejeudvalget"
-last_modified_at: 2025-09-2T10:40:42-04:00
+last_modified_at: 2026-11-210T10:40:42-04:00
 toc: true
 ---
 ### Natur- og Vildtplejeudvalgets formål 
 Natur- og Vildtplejeudvalgets formål er at yde tilskud til pleje af egnens natur, herunder til udsætning af vildt, ophjælpning af truede vildtarter, anlægning af remisser og lignende.   
-## Udlevering af bestilte fugle 2026
-Udlevering af de bestilte fasaner den 9. august kl 10.00 på Klostergården, Engmosevej 4.   
+## Udlevering af bestilte fugle 2027
+Udlevering af de bestilte fasaner finder sted primo august kl 10.00 på Klostergården, Engmosevej 4.   
 Henvendelse til Kim Hansen, 40648819
-### Bestilling af fasaner i 2026
+### Bestilling af fasaner i 2027
 Natur- og Vildtplejeudvalget tilbyder fasaner til vores medlemmer.          
 
 #### Fasankyllinger Juli:        
@@ -21,7 +21,7 @@ Tidspunktet aftales ved bekræftelse af afhentning. Det er "først til mølle" p
 Til medlemmer med engelsk voliere eller lignende tilbydes der max. 40 stk. 6-7 ugers kyllinger a 40 kr/stk pr. medlem og mulighed for at
 købe ekstra fasankyllinger til 50 kr/stk. Der følger en tamkylling med pr. samlet udlevering.   
 Afhentning start august mellem Kl. 10.00 og 10.30 på Engmosevej 4A, Nollund, Grindsted, og der skal medbringes solide, klargjorte kasser.
-Bestilling senest den 1. april 2026.   
+Bestilling senest den 1. april 2027.   
 
 Fasanvoksefoder i 15 kgs sække kan bestilles til udlevering i august samtidig med fasankyllingerne.   
 
