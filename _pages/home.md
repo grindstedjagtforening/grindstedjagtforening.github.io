@@ -30,7 +30,7 @@ feature_row:
     excerpt: " "
     url: "/docs/NaturVildtPleje/"
     btn_class: "btn--primary"
-    btn_label: "Nyt fra Natur-og Vildtplejeudvalget"   
+    btn_label: "Nyt fra Natur-og Vildtplejeudvalget 2027"   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Fra afholdte aktiviteter"
