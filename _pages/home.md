@@ -26,11 +26,11 @@ feature_row:
     btn_label: "Kommende aktiviteter i GJF 2027" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Natur og Vildtpleje"
+    title: "Natur og Vildtpleje 2027"
     excerpt: " "
     url: "/docs/NaturVildtPleje/"
     btn_class: "btn--primary"
-    btn_label: "Nyt fra Natur-og Vildtplejeudvalget 2027"   
+    btn_label: "Nyt fra Natur-og Vildtplejeudvalget"   
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Fra afholdte aktiviteter"
