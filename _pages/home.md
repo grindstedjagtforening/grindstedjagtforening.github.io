@@ -12,18 +12,18 @@ feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Flugtskydning 2027"
-    excerpt: "2027  "
+    excerpt: "  "
     url: "/docs/about/"
     btn_class: "btn--primary"
     btn_label: "Nyt fra GFB" 
 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Jagtforeningen"
+    title: "Jagtforeningen 2027"
     excerpt: ""
     url: "/docs/Foreningen/"
     btn_class: "btn--primary"
-    btn_label: "Kommende aktiviteter i GJF" 
+    btn_label: "Kommende aktiviteter i GJF 2027" 
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
     title: "Natur og Vildtpleje"
