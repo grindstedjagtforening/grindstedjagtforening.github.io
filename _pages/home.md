@@ -11,7 +11,7 @@ excerpt: >
 feature_row:
   - image_paths: /assets/Hjort2.png
     alt: "Tekst"
-    title: "Flugtskydning"
+    title: "Flugtskydning 2027"
     excerpt: "2027  "
     url: "/docs/about/"
     btn_class: "btn--primary"
