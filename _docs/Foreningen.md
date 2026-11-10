@@ -24,3 +24,5 @@ Et årskort koster 500 kr.og gælder for en hel sæson (1.august 2026- 31.januar
 Årskort og gæstekort kan købes hos Vagn Jensen og Kim Lassen. For begge gælder at der inden lige skal ringes for at aftale mødetidspunkt. Betaling til mobilepay 46352 Grindsted Jagtforening eller, til konto 7702 1068226 eller kontant.     
 Vagn træffes på 5157 8740 og bor Sydtoften 81 i Grindsted og Kim træffes på 2773 1731 og bor Plougslundvej 183 i Billund 
 Årskort sælges kun til medlemmer med lokal tilknytning til Grindsted Jagtforening eller Billund Jagtforening. Årskortet skal medbringes under jagten og skal kunne fremvises hvis repræsentanter for BJF eller GJF anmoder om det. Der skal gives tilbagemelding om nedlagt vildt når sæsonen er forbi.  
+## Natur og Vildtpleje
+Udvalget yder tilskud til vildtplantning og tilskud til udsætning af fasaner i 2027.  
